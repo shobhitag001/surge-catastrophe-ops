@@ -1,0 +1,1142 @@
+claim_id,policy_id,event_id,claim_type,severity,status,loss_date,location,latitude,longitude,estimated_loss,product,requires_field_survey
+CLM-000001,POL-02650,CAT-2026-01,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T05:14:18.525977,Raigad Coastal,19.54975,72.9172,172360,Auto & Commercial Fleet,0
+CLM-000002,POL-01357,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T05:24:30.475106,Navi Mumbai,18.78443,73.05463,1996540,Residential Property (Home),0
+CLM-000003,POL-00235,CAT-2026-01,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T05:35:34.394079,Raigad Coastal,18.72781,72.58689,290820,Auto & Commercial Fleet,0
+CLM-000004,POL-01483,CAT-2026-01,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T05:27:26.770763,Mumbai South,19.24058,72.54452,6636424,Commercial Property & Industrial,1
+CLM-000005,POL-00413,CAT-2026-01,Flooded Ground Floor,Medium,Reported,2026-10-22T05:37:49.926146,Mumbai Suburbs,19.07497,72.61426,2695733,Residential Property (Home),0
+CLM-000006,POL-01382,CAT-2026-01,Crushed by Falling Tree/Pole,Catastrophic,Reported,2026-10-22T05:29:25.073427,Mumbai Suburbs,19.01022,72.97513,609892,Auto & Commercial Fleet,1
+CLM-000007,POL-01096,CAT-2026-01,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T05:28:25.168625,Navi Mumbai,18.76753,72.49835,1232095,Auto & Commercial Fleet,1
+CLM-000008,POL-00685,CAT-2026-01,Flooded Ground Floor,High,Reported,2026-10-22T05:24:06.402811,Raigad Coastal,19.13367,73.1108,6368785,Residential Property (Home),1
+CLM-000009,POL-02431,CAT-2026-01,Debris Windshield & Panel Impact,High,Reported,2026-10-22T05:27:51.715462,Raigad Coastal,18.76256,72.96797,758154,Auto & Commercial Fleet,1
+CLM-000010,POL-01563,CAT-2026-01,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T05:26:10.645031,Navi Mumbai,18.8423,72.82492,304038,Residential Property (Home),0
+CLM-000011,POL-01268,CAT-2026-01,Flooded Ground Floor,Low,Reported,2026-10-22T05:23:10.219828,Raigad Coastal,18.98831,72.82112,620767,Residential Property (Home),0
+CLM-000012,POL-01650,CAT-2026-01,Utility Shutdown Interruption,Low,Reported,2026-10-22T05:10:51.292363,Palghar,18.91426,72.70068,1122111,SME Business & Retail Interruption,0
+CLM-000013,POL-02186,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T05:22:57.698856,Mumbai Suburbs,19.03172,72.86417,2502058,Residential Property (Home),0
+CLM-000014,POL-02437,CAT-2026-01,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T05:34:13.959453,Mumbai Suburbs,18.92396,73.07186,8859962,Commercial Property & Industrial,1
+CLM-000015,POL-00557,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T05:36:51.770530,Navi Mumbai,19.29923,73.09778,578571,Residential Property (Home),0
+CLM-000016,POL-02587,CAT-2026-01,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T05:30:10.163916,Palghar,19.15921,72.41057,59928152,Commercial Property & Industrial,1
+CLM-000017,POL-00855,CAT-2026-01,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T05:30:33.743370,Raigad Coastal,18.86356,72.51268,981273,Auto & Commercial Fleet,1
+CLM-000018,POL-00215,CAT-2026-01,Structural Wall Crack,High,Reported,2026-10-22T05:21:00.233764,Raigad Coastal,18.69385,73.02588,2614542,Residential Property (Home),1
+CLM-000019,POL-00856,CAT-2026-01,Structural Wall Crack,Catastrophic,Reported,2026-10-22T05:35:46.532166,Palghar,18.8822,72.7906,8148525,Residential Property (Home),1
+CLM-000020,POL-01861,CAT-2026-01,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T05:19:01.646814,Thane,18.94345,72.82288,22225,Auto & Commercial Fleet,0
+CLM-000021,POL-00810,CAT-2026-01,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T05:30:37.905009,Raigad Coastal,18.68527,72.82586,805103,Residential Property (Home),0
+CLM-000022,POL-00305,CAT-2026-01,Structural Wall Crack,High,Reported,2026-10-22T05:23:19.431853,Palghar,18.95376,72.86216,4353782,Residential Property (Home),1
+CLM-000023,POL-01351,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T05:28:44.332272,Palghar,18.85453,72.87924,1509160,Residential Property (Home),0
+CLM-000024,POL-01647,CAT-2026-01,Flooded Ground Floor,Medium,Reported,2026-10-22T05:43:36.396276,Navi Mumbai,19.22138,72.82255,2151470,Residential Property (Home),0
+CLM-000025,POL-02646,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T05:33:47.839494,Mumbai South,19.11225,72.75841,670469,Residential Property (Home),0
+CLM-000026,POL-00213,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T05:37:48.203205,Mumbai Suburbs,19.01885,72.78056,2141816,Residential Property (Home),0
+CLM-000027,POL-00490,CAT-2026-01,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T05:21:08.974891,Mumbai Suburbs,19.04991,73.23196,6030702,Commercial Property & Industrial,1
+CLM-000028,POL-01098,CAT-2026-01,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T05:27:24.595647,Palghar,18.89213,72.75707,409271,Auto & Commercial Fleet,0
+CLM-000029,POL-01623,CAT-2026-01,Structural Wall Crack,Medium,Reported,2026-10-22T05:34:45.127360,Raigad Coastal,19.08429,72.86781,3670679,Residential Property (Home),0
+CLM-000030,POL-02290,CAT-2026-01,Façade & Glazing Blown Out,High,Reported,2026-10-22T05:11:52.755293,Mumbai Suburbs,18.91385,72.57933,17409974,Commercial Property & Industrial,1
+CLM-000031,POL-01717,CAT-2026-01,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T05:36:31.863051,Thane,18.74705,72.7745,479384,Auto & Commercial Fleet,0
+CLM-000032,POL-02053,CAT-2026-01,Structural Wall Crack,Medium,Reported,2026-10-22T05:35:07.804940,Mumbai Suburbs,19.11421,72.89165,1256541,Residential Property (Home),0
+CLM-000033,POL-02681,CAT-2026-01,Façade & Glazing Blown Out,Low,Reported,2026-10-22T05:30:15.523148,Navi Mumbai,18.89919,72.70706,2838826,Commercial Property & Industrial,1
+CLM-000034,POL-00297,CAT-2026-01,Structural Wall Crack,Medium,Reported,2026-10-22T05:23:46.721476,Palghar,19.22046,72.85538,1602986,Residential Property (Home),0
+CLM-000035,POL-02660,CAT-2026-01,Flooded Ground Floor,High,Reported,2026-10-22T05:32:03.929972,Palghar,18.8043,72.72688,1287990,Residential Property (Home),1
+CLM-000036,POL-02707,CAT-2026-01,Structural Wall Crack,High,Reported,2026-10-22T05:25:20.329503,Palghar,18.89549,72.5995,6749109,Residential Property (Home),1
+CLM-000037,POL-01935,CAT-2026-01,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T05:25:30.358582,Raigad Coastal,19.03769,72.95314,52911535,Commercial Property & Industrial,1
+CLM-000038,POL-00360,CAT-2026-01,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T05:27:54.937353,Thane,19.14423,72.62315,73696,Auto & Commercial Fleet,0
+CLM-000039,POL-02787,CAT-2026-01,Utility Shutdown Interruption,Medium,Reported,2026-10-22T05:24:13.895219,Palghar,18.71871,72.76243,6876365,SME Business & Retail Interruption,0
+CLM-000040,POL-01782,CAT-2026-01,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T05:30:24.676166,Palghar,19.357,73.03588,334291,Auto & Commercial Fleet,0
+CLM-000041,POL-00306,CAT-2026-01,Inventory Water Damage,Medium,Reported,2026-10-22T05:37:57.898497,Palghar,18.7673,72.94287,4995327,SME Business & Retail Interruption,0
+CLM-000042,POL-02737,CAT-2026-01,Structural Wall Crack,Medium,Reported,2026-10-22T05:32:23.643809,Palghar,18.7805,72.62937,1528121,Residential Property (Home),0
+CLM-000043,POL-00029,CAT-2026-01,Structural Wall Crack,Medium,Reported,2026-10-22T05:20:59.330627,Navi Mumbai,18.92046,72.88428,1612056,Residential Property (Home),0
+CLM-000044,POL-02164,CAT-2026-01,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T05:08:12.842775,Thane,18.82972,72.72779,723291,Auto & Commercial Fleet,0
+CLM-000045,POL-00684,CAT-2026-01,Flooded Ground Floor,High,Reported,2026-10-22T05:22:57.120960,Thane,18.93289,72.69152,4115800,Residential Property (Home),1
+CLM-000046,POL-01994,CAT-2026-01,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T05:23:00.658069,Palghar,19.07652,72.52698,13504354,Commercial Property & Industrial,1
+CLM-000047,POL-01107,CAT-2026-01,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T05:35:50.066377,Mumbai Suburbs,19.1761,72.84526,61481782,Commercial Property & Industrial,1
+CLM-000048,POL-02791,CAT-2026-01,Flooded Ground Floor,Low,Reported,2026-10-22T05:31:24.007636,Navi Mumbai,19.25507,72.4739,261900,Residential Property (Home),0
+CLM-000049,POL-00106,CAT-2026-01,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T05:16:39.245326,Mumbai Suburbs,18.84928,73.20004,13532749,Commercial Property & Industrial,1
+CLM-000050,POL-00879,CAT-2026-01,Submerged Engine Hydro-lock,Catastrophic,Reported,2026-10-22T05:37:41.036819,Navi Mumbai,18.88138,72.53082,1895745,Auto & Commercial Fleet,1
+CLM-000051,POL-00870,CAT-2026-01,Roof Tear-off & Water Ingress,Catastrophic,Reported,2026-10-22T05:35:59.704041,Mumbai Suburbs,18.6765,72.98669,4817153,Residential Property (Home),1
+CLM-000052,POL-01414,CAT-2026-01,Utility Shutdown Interruption,Low,Reported,2026-10-22T05:42:49.601642,Palghar,18.80085,72.35409,1301690,SME Business & Retail Interruption,0
+CLM-000053,POL-02578,CAT-2026-01,Signboard & Shopfront Destruction,Medium,Reported,2026-10-22T05:41:14.853581,Thane,19.33579,72.74326,918030,SME Business & Retail Interruption,0
+CLM-000054,POL-02291,CAT-2026-01,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T05:22:02.016813,Mumbai Suburbs,18.86727,72.79723,162671,Auto & Commercial Fleet,0
+CLM-000055,POL-02461,CAT-2026-01,Utility Shutdown Interruption,Medium,Reported,2026-10-22T05:26:11.992991,Navi Mumbai,19.308,72.86622,4211688,SME Business & Retail Interruption,0
+CLM-000056,POL-01453,CAT-2026-01,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T05:28:21.254253,Thane,19.24774,72.96438,5696761,Residential Property (Home),1
+CLM-000057,POL-00487,CAT-2026-01,Crushed by Falling Tree/Pole,Catastrophic,Reported,2026-10-22T05:24:49.792277,Raigad Coastal,18.84959,72.76556,1334595,Auto & Commercial Fleet,1
+CLM-000058,POL-00589,CAT-2026-01,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T05:25:39.538458,Navi Mumbai,19.11896,72.80599,20684895,Commercial Property & Industrial,1
+CLM-000059,POL-01628,CAT-2026-01,Structural Wall Crack,Medium,Reported,2026-10-22T05:36:57.877664,Thane,18.75416,72.9175,1538026,Residential Property (Home),0
+CLM-000060,POL-00004,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T05:32:45.237246,Navi Mumbai,18.85544,72.72547,1483567,Residential Property (Home),0
+CLM-000061,POL-00863,CAT-2026-01,Structural Wall Crack,Medium,Reported,2026-10-22T05:12:47.736763,Thane,18.62769,72.65269,1273318,Residential Property (Home),0
+CLM-000062,POL-00317,CAT-2026-01,Signboard & Shopfront Destruction,Catastrophic,Reported,2026-10-22T05:35:33.037842,Raigad Coastal,18.8497,72.75021,17498494,SME Business & Retail Interruption,1
+CLM-000063,POL-02348,CAT-2026-01,Submerged Engine Hydro-lock,High,Reported,2026-10-22T05:32:23.766419,Mumbai Suburbs,18.76168,72.8173,1367801,Auto & Commercial Fleet,1
+CLM-000064,POL-01237,CAT-2026-01,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T05:10:15.972727,Mumbai South,19.03996,73.01824,352150,Auto & Commercial Fleet,0
+CLM-000065,POL-01158,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T05:29:27.455798,Raigad Coastal,19.12523,72.68215,2244932,Residential Property (Home),0
+CLM-000066,POL-01267,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T04:59:01.578455,Mumbai Suburbs,19.19031,72.42097,3614927,Residential Property (Home),0
+CLM-000067,POL-02180,CAT-2026-01,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T05:32:44.698680,Raigad Coastal,18.76703,73.05442,274470,Residential Property (Home),0
+CLM-000068,POL-02163,CAT-2026-01,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T05:27:25.925293,Raigad Coastal,18.6062,72.71432,24383960,Commercial Property & Industrial,1
+CLM-000069,POL-02469,CAT-2026-01,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T05:39:46.513407,Navi Mumbai,18.84601,72.80258,13339888,Commercial Property & Industrial,1
+CLM-000070,POL-01075,CAT-2026-01,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T05:32:36.572290,Thane,18.97297,72.7818,7463602,Commercial Property & Industrial,1
+CLM-000071,POL-00273,CAT-2026-01,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T05:32:57.986285,Navi Mumbai,18.62864,72.58968,27292596,Commercial Property & Industrial,1
+CLM-000072,POL-02055,CAT-2026-01,Structural Wall Crack,High,Reported,2026-10-22T05:26:14.426648,Navi Mumbai,19.04109,72.77288,5831112,Residential Property (Home),1
+CLM-000073,POL-01145,CAT-2026-01,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T05:20:24.921381,Mumbai South,18.76134,72.76046,159779,Auto & Commercial Fleet,0
+CLM-000074,POL-01205,CAT-2026-01,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T05:38:21.747302,Navi Mumbai,18.77525,73.0414,855849,Auto & Commercial Fleet,1
+CLM-000075,POL-00230,CAT-2026-01,Inventory Water Damage,High,Reported,2026-10-22T05:35:36.698024,Thane,18.9931,72.83802,15036050,SME Business & Retail Interruption,1
+CLM-000076,POL-02049,CAT-2026-01,Structural Wall Crack,Catastrophic,Reported,2026-10-22T05:18:21.427611,Palghar,18.97051,72.71131,7425718,Residential Property (Home),1
+CLM-000077,POL-00105,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T05:27:14.187481,Raigad Coastal,18.98043,72.93918,1651033,Residential Property (Home),0
+CLM-000078,POL-00258,CAT-2026-01,Inventory Water Damage,Low,Reported,2026-10-22T05:38:28.381693,Mumbai South,18.65944,73.13764,324167,SME Business & Retail Interruption,0
+CLM-000079,POL-01151,CAT-2026-01,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T05:29:30.332526,Mumbai Suburbs,18.99333,72.89658,374714,Auto & Commercial Fleet,0
+CLM-000080,POL-00859,CAT-2026-01,Structural Wall Crack,Medium,Reported,2026-10-22T05:17:44.798542,Raigad Coastal,18.88558,72.86685,723238,Residential Property (Home),0
+CLM-000081,POL-00163,CAT-2026-01,Structural Wall Crack,Low,Reported,2026-10-22T05:31:55.849084,Palghar,19.23042,72.83334,815865,Residential Property (Home),0
+CLM-000082,POL-00259,CAT-2026-01,Flooded Ground Floor,Medium,Reported,2026-10-22T05:19:46.168413,Thane,18.86591,73.00882,1093794,Residential Property (Home),0
+CLM-000083,POL-01346,CAT-2026-01,Flooded Ground Floor,Medium,Reported,2026-10-22T05:23:40.063629,Thane,18.70636,72.74645,679662,Residential Property (Home),0
+CLM-000084,POL-01371,CAT-2026-01,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T05:31:34.470780,Navi Mumbai,18.71006,72.53195,18946088,Commercial Property & Industrial,1
+CLM-000085,POL-02239,CAT-2026-01,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T05:24:43.774080,Raigad Coastal,18.92103,72.65094,248932,Auto & Commercial Fleet,0
+CLM-000086,POL-00564,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T05:31:59.829692,Navi Mumbai,19.12203,72.96006,1520618,Residential Property (Home),0
+CLM-000087,POL-01547,CAT-2026-01,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T05:11:16.348155,Mumbai South,19.17719,72.54511,40152716,Commercial Property & Industrial,1
+CLM-000088,POL-01345,CAT-2026-01,Flooded Ground Floor,High,Reported,2026-10-22T05:21:48.916995,Palghar,19.10277,72.79803,3774069,Residential Property (Home),1
+CLM-000089,POL-02616,CAT-2026-01,Structural Wall Crack,High,Reported,2026-10-22T05:37:22.516173,Mumbai Suburbs,19.14515,72.68611,5046154,Residential Property (Home),1
+CLM-000090,POL-00445,CAT-2026-01,Debris Windshield & Panel Impact,High,Reported,2026-10-22T05:21:04.125791,Thane,18.83877,72.87022,1022926,Auto & Commercial Fleet,1
+CLM-000091,POL-00246,CAT-2026-01,Warehouse Flood & Stock Rupture,Catastrophic,Reported,2026-10-22T05:30:14.538991,Palghar,19.20994,72.34132,84675775,Commercial Property & Industrial,1
+CLM-000092,POL-01833,CAT-2026-01,Utility Shutdown Interruption,Medium,Reported,2026-10-22T05:17:40.435643,Thane,18.63226,72.69296,1387451,SME Business & Retail Interruption,0
+CLM-000093,POL-00193,CAT-2026-01,Inventory Water Damage,Medium,Reported,2026-10-22T05:29:04.321091,Raigad Coastal,18.91699,72.65664,1326259,SME Business & Retail Interruption,0
+CLM-000094,POL-02010,CAT-2026-01,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T05:31:50.352600,Mumbai Suburbs,18.89126,73.09104,3691698,Commercial Property & Industrial,1
+CLM-000095,POL-01034,CAT-2026-01,Signboard & Shopfront Destruction,Low,Reported,2026-10-22T05:08:05.216579,Navi Mumbai,19.30905,72.56782,949100,SME Business & Retail Interruption,0
+CLM-000096,POL-00149,CAT-2026-01,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T05:27:13.372549,Mumbai Suburbs,18.673,72.71211,141216,Residential Property (Home),0
+CLM-000097,POL-02656,CAT-2026-01,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T05:40:06.501970,Mumbai Suburbs,18.91034,72.513,2174833,Commercial Property & Industrial,1
+CLM-000098,POL-01399,CAT-2026-01,Flooded Ground Floor,Medium,Reported,2026-10-22T05:30:11.877463,Thane,19.131,72.86374,1852665,Residential Property (Home),0
+CLM-000099,POL-00017,CAT-2026-01,Flooded Ground Floor,Low,Reported,2026-10-22T05:36:53.485988,Thane,18.87709,73.01028,679179,Residential Property (Home),0
+CLM-000100,POL-00612,CAT-2026-01,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T05:20:19.684723,Thane,18.85825,72.74607,1079126,Residential Property (Home),0
+CLM-000101,POL-02588,CAT-2026-01,Façade & Glazing Blown Out,Catastrophic,Reported,2026-10-22T05:24:48.561745,Raigad Coastal,18.75825,72.81843,54173527,Commercial Property & Industrial,1
+CLM-000102,POL-02171,CAT-2026-01,Submerged Engine Hydro-lock,Low,Reported,2026-10-22T05:25:26.568566,Palghar,19.20789,73.00361,285772,Auto & Commercial Fleet,0
+CLM-000103,POL-00592,CAT-2026-01,Submerged Engine Hydro-lock,High,Reported,2026-10-22T05:13:13.168508,Navi Mumbai,18.63046,72.85612,1639494,Auto & Commercial Fleet,1
+CLM-000104,POL-01914,CAT-2026-01,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T05:22:04.043685,Raigad Coastal,18.7828,72.73877,8221776,Commercial Property & Industrial,1
+CLM-000105,POL-01927,CAT-2026-01,Submerged Engine Hydro-lock,Catastrophic,Reported,2026-10-22T05:23:18.931145,Mumbai South,18.99016,73.02921,2502158,Auto & Commercial Fleet,1
+CLM-000106,POL-00697,CAT-2026-01,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T05:27:32.375150,Palghar,18.60373,72.95462,32589513,Commercial Property & Industrial,1
+CLM-000107,POL-00720,CAT-2026-01,Structural Wall Crack,High,Reported,2026-10-22T05:19:25.824326,Mumbai Suburbs,19.05271,72.94882,2834544,Residential Property (Home),1
+CLM-000108,POL-00338,CAT-2026-01,Façade & Glazing Blown Out,High,Reported,2026-10-22T05:24:10.260040,Mumbai South,18.89467,72.85144,67118896,Commercial Property & Industrial,1
+CLM-000109,POL-01174,CAT-2026-01,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T05:22:51.650013,Raigad Coastal,19.07748,72.61522,206487,Auto & Commercial Fleet,0
+CLM-000110,POL-01181,CAT-2026-01,Signboard & Shopfront Destruction,Catastrophic,Reported,2026-10-22T05:24:53.111683,Thane,19.17064,72.84417,16289341,SME Business & Retail Interruption,1
+CLM-000111,POL-00751,CAT-2026-01,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T05:12:58.950973,Raigad Coastal,18.97596,72.85552,3374547,Residential Property (Home),1
+CLM-000112,POL-02576,CAT-2026-01,Façade & Glazing Blown Out,High,Reported,2026-10-22T05:26:06.903302,Navi Mumbai,19.41135,73.13315,47418952,Commercial Property & Industrial,1
+CLM-000113,POL-01503,CAT-2026-01,Signboard & Shopfront Destruction,High,Reported,2026-10-22T05:35:42.368663,Raigad Coastal,18.87285,72.64608,3976993,SME Business & Retail Interruption,1
+CLM-000114,POL-00940,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T05:21:30.963682,Raigad Coastal,19.00834,73.09234,904634,Residential Property (Home),0
+CLM-000115,POL-00156,CAT-2026-01,Debris Windshield & Panel Impact,High,Reported,2026-10-22T05:18:25.906681,Palghar,18.98068,73.09923,823765,Auto & Commercial Fleet,1
+CLM-000116,POL-01894,CAT-2026-01,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T05:05:40.782239,Mumbai Suburbs,18.60456,72.68517,1010330,Auto & Commercial Fleet,0
+CLM-000117,POL-00439,CAT-2026-01,Inventory Water Damage,Medium,Reported,2026-10-22T05:08:30.717609,Mumbai South,18.98254,72.74271,4580858,SME Business & Retail Interruption,0
+CLM-000118,POL-01298,CAT-2026-01,Flooded Ground Floor,Low,Reported,2026-10-22T05:32:55.437019,Raigad Coastal,19.10252,72.96145,1000476,Residential Property (Home),0
+CLM-000119,POL-00219,CAT-2026-01,Crushed by Falling Tree/Pole,Catastrophic,Reported,2026-10-22T05:35:34.202406,Thane,18.97288,72.73402,2437044,Auto & Commercial Fleet,1
+CLM-000120,POL-00858,CAT-2026-01,Structural Wall Crack,Low,Reported,2026-10-22T05:28:30.666694,Thane,18.74662,72.91377,1393151,Residential Property (Home),0
+CLM-000121,POL-01876,CAT-2026-01,Flooded Ground Floor,Low,Reported,2026-10-22T05:26:21.575190,Palghar,18.97895,73.06988,551438,Residential Property (Home),0
+CLM-000122,POL-01189,CAT-2026-01,Flooded Ground Floor,Medium,Reported,2026-10-22T05:32:09.438223,Mumbai South,18.7524,73.02472,1074655,Residential Property (Home),0
+CLM-000123,POL-02388,CAT-2026-01,Utility Shutdown Interruption,High,Reported,2026-10-22T05:33:59.480502,Palghar,19.00163,72.80469,8456105,SME Business & Retail Interruption,1
+CLM-000124,POL-02433,CAT-2026-01,Flooded Ground Floor,Medium,Reported,2026-10-22T05:23:27.861562,Thane,19.17635,72.82158,2716709,Residential Property (Home),0
+CLM-000125,POL-02697,CAT-2026-01,Structural Wall Crack,Low,Reported,2026-10-22T05:27:25.547039,Raigad Coastal,18.88234,72.43838,1738515,Residential Property (Home),0
+CLM-000126,POL-00579,CAT-2026-01,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T05:16:51.040331,Raigad Coastal,19.03719,72.94476,405636,Residential Property (Home),0
+CLM-000127,POL-00069,CAT-2026-01,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T05:27:42.061828,Thane,18.96234,73.08164,63535187,Commercial Property & Industrial,1
+CLM-000128,POL-01241,CAT-2026-01,Debris Windshield & Panel Impact,Catastrophic,Reported,2026-10-22T05:23:31.094342,Palghar,18.98619,72.70946,1803886,Auto & Commercial Fleet,1
+CLM-000129,POL-00620,CAT-2026-01,Structural Wall Crack,High,Reported,2026-10-22T05:28:52.776079,Mumbai Suburbs,18.6115,72.84265,3095969,Residential Property (Home),1
+CLM-000130,POL-00862,CAT-2026-01,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T05:32:33.442501,Mumbai South,19.23245,72.7096,609884,Auto & Commercial Fleet,0
+CLM-000131,POL-02022,CAT-2026-01,Flooded Ground Floor,Catastrophic,Reported,2026-10-22T05:32:36.774631,Mumbai South,19.3189,72.73802,11536007,Residential Property (Home),1
+CLM-000132,POL-00449,CAT-2026-01,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T05:15:52.941103,Mumbai South,18.85965,72.57344,30299290,Commercial Property & Industrial,1
+CLM-000133,POL-00320,CAT-2026-01,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T05:25:10.185252,Navi Mumbai,19.11914,72.64888,57827204,Commercial Property & Industrial,1
+CLM-000134,POL-00202,CAT-2026-01,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T05:26:50.206650,Mumbai Suburbs,18.85165,72.95685,290491,Auto & Commercial Fleet,0
+CLM-000135,POL-02509,CAT-2026-01,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T05:31:24.980700,Mumbai South,18.95596,72.80957,207641,Auto & Commercial Fleet,0
+CLM-000136,POL-02247,CAT-2026-01,Utility Shutdown Interruption,High,Reported,2026-10-22T05:27:05.317808,Mumbai Suburbs,19.21495,72.95918,9316580,SME Business & Retail Interruption,1
+CLM-000137,POL-01812,CAT-2026-01,Utility Shutdown Interruption,Medium,Reported,2026-10-22T05:20:58.742105,Raigad Coastal,19.05153,72.78603,3929070,SME Business & Retail Interruption,0
+CLM-000138,POL-01033,CAT-2026-01,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T05:23:12.362710,Thane,18.85076,72.90238,20228408,Commercial Property & Industrial,1
+CLM-000139,POL-00891,CAT-2026-01,Inventory Water Damage,Medium,Reported,2026-10-22T05:30:53.132890,Navi Mumbai,18.81852,72.57141,1397463,SME Business & Retail Interruption,0
+CLM-000140,POL-00053,CAT-2026-01,Utility Shutdown Interruption,Low,Reported,2026-10-22T05:37:25.686253,Navi Mumbai,18.81901,72.76203,309124,SME Business & Retail Interruption,0
+CLM-000141,POL-01009,CAT-2026-01,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T05:22:24.434418,Thane,19.28986,72.96655,495755,Auto & Commercial Fleet,0
+CLM-000142,POL-02202,CAT-2026-01,Flooded Ground Floor,Low,Reported,2026-10-22T05:19:23.552972,Palghar,18.74913,72.59669,456505,Residential Property (Home),0
+CLM-000143,POL-00843,CAT-2026-01,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T05:09:29.209962,Mumbai South,18.90709,72.80711,236307,Auto & Commercial Fleet,0
+CLM-000144,POL-00233,CAT-2026-01,Submerged Engine Hydro-lock,High,Reported,2026-10-22T05:38:30.647763,Mumbai Suburbs,18.93156,72.74316,1457690,Auto & Commercial Fleet,1
+CLM-000145,POL-00643,CAT-2026-01,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T05:27:12.702313,Mumbai Suburbs,19.25021,73.05668,15691139,Commercial Property & Industrial,1
+CLM-000146,POL-01452,CAT-2026-01,Signboard & Shopfront Destruction,High,Reported,2026-10-22T05:26:44.080031,Palghar,18.99913,72.76121,7871041,SME Business & Retail Interruption,1
+CLM-000147,POL-00097,CAT-2026-01,Flooded Ground Floor,Medium,Reported,2026-10-22T05:24:05.399525,Navi Mumbai,18.68651,72.73284,707704,Residential Property (Home),0
+CLM-000148,POL-01210,CAT-2026-01,Debris Windshield & Panel Impact,High,Reported,2026-10-22T05:26:08.274813,Mumbai Suburbs,18.73487,72.82395,1107249,Auto & Commercial Fleet,1
+CLM-000149,POL-00646,CAT-2026-01,Warehouse Flood & Stock Rupture,Catastrophic,Reported,2026-10-22T05:15:35.135478,Thane,19.03636,72.8458,20627252,Commercial Property & Industrial,1
+CLM-000150,POL-02528,CAT-2026-01,Signboard & Shopfront Destruction,High,Reported,2026-10-22T05:27:30.362281,Thane,19.14066,72.76537,7288649,SME Business & Retail Interruption,1
+CLM-000151,POL-01275,CAT-2026-01,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T05:23:07.076551,Mumbai Suburbs,19.1183,72.62607,6251553,Commercial Property & Industrial,1
+CLM-000152,POL-02076,CAT-2026-01,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T05:28:23.413996,Navi Mumbai,18.70606,72.88554,884269,Auto & Commercial Fleet,0
+CLM-000153,POL-00752,CAT-2026-01,Submerged Engine Hydro-lock,Catastrophic,Reported,2026-10-22T05:26:49.245806,Mumbai South,18.99659,72.76876,1820342,Auto & Commercial Fleet,1
+CLM-000154,POL-01404,CAT-2026-01,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T05:34:20.510490,Mumbai South,19.2324,72.89165,202271,Auto & Commercial Fleet,0
+CLM-000155,POL-01324,CAT-2026-01,Flooded Ground Floor,Low,Reported,2026-10-22T05:37:40.607947,Mumbai Suburbs,18.89687,73.009,1318488,Residential Property (Home),0
+CLM-000156,POL-02574,CAT-2026-01,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T05:36:05.830181,Raigad Coastal,18.82347,72.7398,407137,Auto & Commercial Fleet,0
+CLM-000157,POL-01247,CAT-2026-01,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T05:07:27.064479,Raigad Coastal,18.96339,72.6091,855418,Residential Property (Home),0
+CLM-000158,POL-02671,CAT-2026-01,Façade & Glazing Blown Out,Catastrophic,Reported,2026-10-22T05:24:56.638339,Mumbai South,18.84898,72.57736,75976272,Commercial Property & Industrial,1
+CLM-000159,POL-01386,CAT-2026-01,Flooded Ground Floor,Medium,Reported,2026-10-22T05:26:39.263411,Raigad Coastal,18.90994,72.75931,712638,Residential Property (Home),0
+CLM-000160,POL-00933,CAT-2026-01,Flooded Ground Floor,Medium,Reported,2026-10-22T05:28:49.073752,Palghar,18.85079,72.85803,3796308,Residential Property (Home),0
+CLM-000161,POL-02756,CAT-2026-01,Signboard & Shopfront Destruction,High,Reported,2026-10-22T05:21:10.456346,Thane,18.79695,72.67392,7500513,SME Business & Retail Interruption,1
+CLM-000162,POL-00926,CAT-2026-01,Flooded Ground Floor,Medium,Reported,2026-10-22T05:28:39.325721,Thane,18.76265,72.97088,943755,Residential Property (Home),0
+CLM-000163,POL-02594,CAT-2026-01,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T05:30:33.147139,Raigad Coastal,18.78056,72.65208,285457,Auto & Commercial Fleet,0
+CLM-000164,POL-01144,CAT-2026-01,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T05:19:35.353976,Thane,19.05297,72.99514,360405,Auto & Commercial Fleet,0
+CLM-000165,POL-02427,CAT-2026-01,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T05:29:18.525473,Palghar,19.0135,73.12011,27501558,Commercial Property & Industrial,1
+CLM-000166,POL-02738,CAT-2026-01,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T05:37:45.146798,Raigad Coastal,18.59048,72.60745,570766,Auto & Commercial Fleet,0
+CLM-000167,POL-01339,CAT-2026-01,Submerged Engine Hydro-lock,High,Reported,2026-10-22T05:28:20.528484,Palghar,18.92734,72.80086,505027,Auto & Commercial Fleet,1
+CLM-000168,POL-02413,CAT-2026-01,Flooded Ground Floor,Low,Reported,2026-10-22T05:28:20.480268,Mumbai South,18.77193,73.14111,1209056,Residential Property (Home),0
+CLM-000169,POL-01593,CAT-2026-01,Flooded Ground Floor,Low,Reported,2026-10-22T05:29:15.040018,Palghar,19.02307,72.66802,759766,Residential Property (Home),0
+CLM-000170,POL-00431,CAT-2026-01,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T05:10:47.215528,Navi Mumbai,18.82429,72.76948,3508715,Commercial Property & Industrial,1
+CLM-000171,POL-00476,CAT-2026-01,Inventory Water Damage,Medium,Reported,2026-10-22T05:25:37.853128,Navi Mumbai,18.77342,73.05635,542113,SME Business & Retail Interruption,0
+CLM-000172,POL-02473,CAT-2026-01,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T05:25:46.640281,Mumbai South,18.95257,72.55459,4262952,Residential Property (Home),1
+CLM-000173,POL-00726,CAT-2026-01,Structural Wall Crack,High,Reported,2026-10-22T05:17:26.004302,Thane,18.96543,72.92955,934682,Residential Property (Home),1
+CLM-000174,POL-01027,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T05:04:16.337797,Mumbai South,18.80905,72.6604,2570028,Residential Property (Home),0
+CLM-000175,POL-02648,CAT-2026-01,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T05:21:00.271390,Thane,18.99808,73.17416,1171242,Auto & Commercial Fleet,0
+CLM-000176,POL-00022,CAT-2026-01,Structural Wall Crack,High,Reported,2026-10-22T04:55:43.392721,Mumbai Suburbs,18.68853,73.01794,6673316,Residential Property (Home),1
+CLM-000177,POL-00353,CAT-2026-01,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T05:34:51.465947,Mumbai South,18.99537,72.94762,161544,Auto & Commercial Fleet,0
+CLM-000178,POL-02141,CAT-2026-01,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T05:05:47.604441,Thane,18.96628,72.57241,1670388,Commercial Property & Industrial,1
+CLM-000179,POL-01464,CAT-2026-01,Flooded Ground Floor,Catastrophic,Reported,2026-10-22T05:27:27.059841,Palghar,18.88869,72.68185,9300558,Residential Property (Home),1
+CLM-000180,POL-02098,CAT-2026-01,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T05:24:34.535825,Raigad Coastal,18.69781,73.15585,43043672,Commercial Property & Industrial,1
+CLM-000181,POL-01417,CAT-2026-01,Warehouse Flood & Stock Rupture,Catastrophic,Reported,2026-10-22T05:24:37.082369,Raigad Coastal,19.13285,72.90325,69553905,Commercial Property & Industrial,1
+CLM-000182,POL-02241,CAT-2026-01,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T05:24:50.458860,Thane,18.85112,72.9096,590741,Auto & Commercial Fleet,0
+CLM-000183,POL-00791,CAT-2026-01,Utility Shutdown Interruption,High,Reported,2026-10-22T05:21:16.663185,Raigad Coastal,18.88274,72.92594,13955528,SME Business & Retail Interruption,1
+CLM-000184,POL-00601,CAT-2026-01,Utility Shutdown Interruption,Low,Reported,2026-10-22T05:29:19.712627,Mumbai South,18.94566,72.90143,2289648,SME Business & Retail Interruption,0
+CLM-000185,POL-02258,CAT-2026-01,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T05:29:39.639645,Thane,18.90265,72.5579,698084,Auto & Commercial Fleet,0
+CLM-000186,POL-00162,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T05:25:54.768743,Mumbai Suburbs,19.11949,72.79533,2825691,Residential Property (Home),0
+CLM-000187,POL-00161,CAT-2026-01,Structural Wall Crack,Medium,Reported,2026-10-22T05:28:47.388791,Raigad Coastal,19.15052,72.50343,1552716,Residential Property (Home),0
+CLM-000188,POL-00284,CAT-2026-01,Structural Wall Crack,Low,Reported,2026-10-22T05:39:17.775778,Navi Mumbai,18.64268,73.02594,745876,Residential Property (Home),0
+CLM-000189,POL-00704,CAT-2026-01,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T05:33:08.627637,Palghar,18.89488,72.87042,300574,Auto & Commercial Fleet,0
+CLM-000190,POL-02008,CAT-2026-01,Submerged Engine Hydro-lock,Low,Reported,2026-10-22T05:35:05.083931,Thane,19.01347,72.59061,46262,Auto & Commercial Fleet,0
+CLM-000191,POL-02416,CAT-2026-01,Utility Shutdown Interruption,High,Reported,2026-10-22T05:17:37.543627,Raigad Coastal,19.0123,72.95312,9249844,SME Business & Retail Interruption,1
+CLM-000192,POL-00249,CAT-2026-01,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T05:15:13.930439,Navi Mumbai,18.70665,72.67999,404903,Auto & Commercial Fleet,0
+CLM-000193,POL-00031,CAT-2026-01,Signboard & Shopfront Destruction,Low,Reported,2026-10-22T05:26:27.448056,Mumbai South,18.81447,72.72968,2645747,SME Business & Retail Interruption,0
+CLM-000194,POL-02109,CAT-2026-01,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T05:38:15.858965,Navi Mumbai,18.6688,72.88854,279659,Auto & Commercial Fleet,0
+CLM-000195,POL-02281,CAT-2026-01,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T05:18:06.530091,Raigad Coastal,18.58612,72.77765,8521317,Commercial Property & Industrial,1
+CLM-000196,POL-01860,CAT-2026-01,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T05:36:37.503170,Navi Mumbai,18.61245,72.69863,24965032,Commercial Property & Industrial,1
+CLM-000197,POL-01078,CAT-2026-01,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T05:33:03.080543,Mumbai South,18.98331,72.76571,2101127,Commercial Property & Industrial,1
+CLM-000198,POL-01372,CAT-2026-01,Flooded Ground Floor,High,Reported,2026-10-22T05:36:29.721374,Navi Mumbai,19.04786,72.66375,5561481,Residential Property (Home),1
+CLM-000199,POL-01714,CAT-2026-01,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T05:25:27.741254,Mumbai Suburbs,19.17317,72.7138,346452,Residential Property (Home),0
+CLM-000200,POL-02243,CAT-2026-01,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T05:24:47.193158,Palghar,18.85745,72.75559,4582084,Commercial Property & Industrial,1
+CLM-000201,POL-02033,CAT-2026-01,Flooded Ground Floor,High,Reported,2026-10-22T05:40:59.056592,Thane,19.14185,72.81201,3335235,Residential Property (Home),1
+CLM-000202,POL-00734,CAT-2026-01,Inventory Water Damage,High,Reported,2026-10-22T05:17:09.760138,Raigad Coastal,18.80616,72.88031,1678108,SME Business & Retail Interruption,1
+CLM-000203,POL-01884,CAT-2026-01,Structural Wall Crack,Low,Reported,2026-10-22T05:25:10.753779,Mumbai Suburbs,18.82769,73.12006,310741,Residential Property (Home),0
+CLM-000204,POL-01771,CAT-2026-01,Debris Windshield & Panel Impact,High,Reported,2026-10-22T05:35:55.717227,Mumbai South,19.15128,72.75239,2042961,Auto & Commercial Fleet,1
+CLM-000205,POL-00321,CAT-2026-01,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T05:45:19.880460,Raigad Coastal,18.86683,72.86028,828392,Auto & Commercial Fleet,0
+CLM-000206,POL-01815,CAT-2026-01,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T05:32:45.298895,Palghar,19.35332,72.69639,40367128,Commercial Property & Industrial,1
+CLM-000207,POL-01365,CAT-2026-01,Flooded Ground Floor,Medium,Reported,2026-10-22T05:16:31.094837,Navi Mumbai,19.04359,72.7209,2088590,Residential Property (Home),0
+CLM-000208,POL-01836,CAT-2026-01,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T05:42:17.690593,Raigad Coastal,19.01636,72.84337,5648961,Residential Property (Home),1
+CLM-000209,POL-00314,CAT-2026-01,Roof Tear-off & Water Ingress,Catastrophic,Reported,2026-10-22T05:26:37.194808,Mumbai South,19.02185,72.75222,3736279,Residential Property (Home),1
+CLM-000210,POL-00068,CAT-2026-01,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T05:40:46.615902,Mumbai South,19.11816,72.77687,33729,Auto & Commercial Fleet,0
+CLM-000211,POL-00046,CAT-2026-01,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T05:23:18.110203,Mumbai South,18.81567,73.06912,896768,Auto & Commercial Fleet,0
+CLM-000212,POL-02368,CAT-2026-01,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T05:20:58.564887,Mumbai Suburbs,18.87943,72.93734,39751495,Commercial Property & Industrial,1
+CLM-000213,POL-02183,CAT-2026-01,Structural Wall Crack,Low,Reported,2026-10-22T05:25:12.544883,Mumbai Suburbs,19.17983,72.84411,290339,Residential Property (Home),0
+CLM-000214,POL-01108,CAT-2026-01,Flooded Ground Floor,Low,Reported,2026-10-22T05:38:58.288128,Navi Mumbai,19.0918,72.78159,832626,Residential Property (Home),0
+CLM-000215,POL-01190,CAT-2026-01,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T05:23:25.398778,Mumbai Suburbs,18.79495,72.87879,8821604,Commercial Property & Industrial,1
+CLM-000216,POL-01397,CAT-2026-01,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T05:36:06.937814,Thane,18.76247,72.55415,269117,Auto & Commercial Fleet,0
+CLM-000217,POL-02735,CAT-2026-01,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T05:22:48.578009,Palghar,18.58769,72.83609,34708540,Commercial Property & Industrial,1
+CLM-000218,POL-00597,CAT-2026-01,Flooded Ground Floor,Medium,Reported,2026-10-22T05:33:45.072295,Mumbai Suburbs,18.89974,72.74734,1637058,Residential Property (Home),0
+CLM-000219,POL-02447,CAT-2026-01,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T05:32:12.369290,Navi Mumbai,18.80377,72.92028,592043,Residential Property (Home),0
+CLM-000220,POL-00116,CAT-2026-01,Inventory Water Damage,Medium,Reported,2026-10-22T05:17:26.516647,Raigad Coastal,18.88658,72.86709,747442,SME Business & Retail Interruption,0
+CLM-000221,POL-00914,CAT-2026-01,Structural Wall Crack,Catastrophic,Reported,2026-10-22T05:37:08.880801,Thane,18.70483,72.92797,8486262,Residential Property (Home),1
+CLM-000222,POL-02005,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T05:43:53.991634,Palghar,18.9595,72.72404,1575765,Residential Property (Home),0
+CLM-000223,POL-00024,CAT-2026-01,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T05:42:58.452647,Palghar,19.11026,72.87338,21859153,Commercial Property & Industrial,1
+CLM-000224,POL-00066,CAT-2026-01,Structural Wall Crack,High,Reported,2026-10-22T05:11:51.676076,Mumbai South,18.80382,72.84626,4105777,Residential Property (Home),1
+CLM-000225,POL-01195,CAT-2026-01,Flooded Ground Floor,High,Reported,2026-10-22T05:22:07.972130,Mumbai South,18.89494,72.89496,5209431,Residential Property (Home),1
+CLM-000226,POL-00893,CAT-2026-01,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T05:22:24.877223,Navi Mumbai,18.71905,72.94473,881156,Auto & Commercial Fleet,0
+CLM-000227,POL-02505,CAT-2026-01,Inventory Water Damage,High,Reported,2026-10-22T05:26:28.115158,Mumbai Suburbs,18.72322,73.0557,12280982,SME Business & Retail Interruption,1
+CLM-000228,POL-02729,CAT-2026-01,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T05:16:09.493302,Mumbai South,19.15831,72.90856,33890656,Commercial Property & Industrial,1
+CLM-000229,POL-01290,CAT-2026-01,Structural Wall Crack,High,Reported,2026-10-22T05:15:58.074720,Mumbai Suburbs,18.69195,72.83694,7090969,Residential Property (Home),1
+CLM-000230,POL-00329,CAT-2026-01,Flooded Ground Floor,Low,Reported,2026-10-22T05:30:29.534025,Palghar,18.92992,72.84641,455830,Residential Property (Home),0
+CLM-000231,POL-01292,CAT-2026-01,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T05:24:51.429845,Thane,19.20065,73.03286,170645,Auto & Commercial Fleet,0
+CLM-000232,POL-01405,CAT-2026-01,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T05:32:22.727913,Palghar,18.81601,72.47656,295379,Auto & Commercial Fleet,0
+CLM-000233,POL-02084,CAT-2026-01,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T05:35:29.116908,Thane,19.02819,72.94517,43808321,Commercial Property & Industrial,1
+CLM-000234,POL-01016,CAT-2026-01,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T05:20:48.432471,Mumbai Suburbs,19.00715,72.59408,31991842,Commercial Property & Industrial,1
+CLM-000235,POL-00837,CAT-2026-01,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T05:31:38.630101,Mumbai Suburbs,19.00141,72.90959,280505,Auto & Commercial Fleet,0
+CLM-000236,POL-00800,CAT-2026-01,Structural Wall Crack,Low,Reported,2026-10-22T05:17:15.078064,Mumbai South,19.07133,72.78265,627290,Residential Property (Home),0
+CLM-000237,POL-01235,CAT-2026-01,Warehouse Flood & Stock Rupture,Catastrophic,Reported,2026-10-22T05:29:35.997511,Mumbai South,19.03665,72.89528,58967558,Commercial Property & Industrial,1
+CLM-000238,POL-00383,CAT-2026-01,Utility Shutdown Interruption,High,Reported,2026-10-22T05:28:05.886213,Raigad Coastal,19.15416,72.81307,7826739,SME Business & Retail Interruption,1
+CLM-000239,POL-01516,CAT-2026-01,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T05:34:22.972946,Palghar,18.92306,72.60883,5084721,Commercial Property & Industrial,1
+CLM-000240,POL-02365,CAT-2026-01,Structural Wall Crack,Medium,Reported,2026-10-22T05:22:35.917626,Palghar,18.62875,73.05907,486384,Residential Property (Home),0
+CLM-000241,POL-02211,CAT-2026-01,Flooded Ground Floor,Medium,Reported,2026-10-22T05:09:01.275744,Mumbai Suburbs,18.98582,72.97687,2931976,Residential Property (Home),0
+CLM-000242,POL-02521,CAT-2026-01,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T05:33:59.776941,Mumbai Suburbs,18.85978,72.82587,17249083,Commercial Property & Industrial,1
+CLM-000243,POL-00088,CAT-2026-01,Structural Wall Crack,Catastrophic,Reported,2026-10-22T05:32:54.569073,Thane,19.24087,72.84314,5513618,Residential Property (Home),1
+CLM-000244,POL-00757,CAT-2026-01,Façade & Glazing Blown Out,Low,Reported,2026-10-22T05:20:38.297993,Palghar,19.072,72.61501,6946991,Commercial Property & Industrial,1
+CLM-000245,POL-02316,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T05:23:21.609683,Mumbai Suburbs,19.07107,72.51726,1257949,Residential Property (Home),0
+CLM-000246,POL-01132,CAT-2026-01,Inventory Water Damage,Medium,Reported,2026-10-22T05:30:48.867233,Thane,19.07442,72.72123,3658705,SME Business & Retail Interruption,0
+CLM-000247,POL-00739,CAT-2026-01,Structural Wall Crack,Medium,Reported,2026-10-22T05:44:43.255863,Navi Mumbai,19.03063,72.72839,2595047,Residential Property (Home),0
+CLM-000248,POL-01168,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T05:38:49.121118,Mumbai Suburbs,18.82084,72.82009,1391178,Residential Property (Home),0
+CLM-000249,POL-00638,CAT-2026-01,Structural Wall Crack,Medium,Reported,2026-10-22T05:28:00.698076,Mumbai South,19.02256,73.02943,708399,Residential Property (Home),0
+CLM-000250,POL-00293,CAT-2026-01,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T05:18:30.388051,Palghar,19.12889,72.72711,918052,Residential Property (Home),0
+CLM-000251,POL-02761,CAT-2026-01,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T05:13:39.807596,Palghar,18.98974,72.82225,2357604,Residential Property (Home),0
+CLM-000252,POL-02191,CAT-2026-01,Submerged Engine Hydro-lock,Low,Reported,2026-10-22T05:37:25.018664,Mumbai South,18.75598,72.88299,147218,Auto & Commercial Fleet,0
+CLM-000253,POL-00372,CAT-2026-01,Flooded Ground Floor,Low,Reported,2026-10-22T05:33:04.176697,Thane,18.89349,72.85682,1532016,Residential Property (Home),0
+CLM-000254,POL-02619,CAT-2026-01,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T05:40:26.829153,Raigad Coastal,19.14389,73.07855,52679,Auto & Commercial Fleet,0
+CLM-000255,POL-00256,CAT-2026-01,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T05:36:28.603052,Palghar,19.25635,72.63872,4050770,Residential Property (Home),1
+CLM-000256,POL-02408,CAT-2026-01,Utility Shutdown Interruption,Medium,Reported,2026-10-22T05:23:36.963587,Raigad Coastal,18.81051,72.74763,586193,SME Business & Retail Interruption,0
+CLM-000257,POL-01456,CAT-2026-01,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T05:15:37.366163,Navi Mumbai,19.11725,72.81453,37818194,Commercial Property & Industrial,1
+CLM-000258,POL-01942,CAT-2026-02,Structural Wall Crack,High,Reported,2026-10-22T07:07:44.037710,Mandvi Coastal,23.52395,69.27612,2979248,Residential Property (Home),1
+CLM-000259,POL-01527,CAT-2026-02,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T07:38:03.380170,Jamnagar,22.83361,69.35334,52337796,Commercial Property & Industrial,1
+CLM-000260,POL-00821,CAT-2026-02,Structural Wall Crack,Medium,Reported,2026-10-22T07:40:58.735904,Mundra,23.41686,69.97005,2975748,Residential Property (Home),0
+CLM-000261,POL-00958,CAT-2026-02,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T07:23:20.017776,Mandvi Coastal,23.51157,69.79967,364136,Auto & Commercial Fleet,0
+CLM-000262,POL-01700,CAT-2026-02,Inventory Water Damage,Medium,Reported,2026-10-22T07:21:33.632151,Kandla Port,23.24978,69.58889,2680321,SME Business & Retail Interruption,0
+CLM-000263,POL-01699,CAT-2026-02,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T07:22:54.214258,Kandla Port,23.86098,69.96791,743436,Auto & Commercial Fleet,0
+CLM-000264,POL-00877,CAT-2026-02,Flooded Ground Floor,Medium,Reported,2026-10-22T07:28:22.596388,Mundra,23.23388,69.61467,1220764,Residential Property (Home),0
+CLM-000265,POL-00834,CAT-2026-02,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T07:32:17.191104,Jamnagar,23.4923,69.86887,2881068,Residential Property (Home),1
+CLM-000266,POL-00342,CAT-2026-02,Signboard & Shopfront Destruction,High,Reported,2026-10-22T07:25:14.308988,Jamnagar,22.79774,69.55431,5356955,SME Business & Retail Interruption,1
+CLM-000267,POL-01709,CAT-2026-02,Façade & Glazing Blown Out,Low,Reported,2026-10-22T07:18:51.419545,Jamnagar,23.24042,69.76784,2740364,Commercial Property & Industrial,1
+CLM-000268,POL-00188,CAT-2026-02,Façade & Glazing Blown Out,Low,Reported,2026-10-22T07:32:12.935962,Bhuj,23.60289,69.31949,7695586,Commercial Property & Industrial,1
+CLM-000269,POL-00475,CAT-2026-02,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T07:33:04.732399,Kandla Port,23.19451,69.46351,2530504,Residential Property (Home),0
+CLM-000270,POL-00351,CAT-2026-02,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T07:27:52.265666,Kandla Port,23.32911,69.77876,490761,Auto & Commercial Fleet,0
+CLM-000271,POL-02582,CAT-2026-02,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T07:36:07.453385,Mundra,23.46794,69.46928,5872550,Commercial Property & Industrial,1
+CLM-000272,POL-01962,CAT-2026-02,Debris Windshield & Panel Impact,High,Reported,2026-10-22T07:32:24.724582,Kandla Port,23.21359,69.53461,634638,Auto & Commercial Fleet,1
+CLM-000273,POL-02383,CAT-2026-02,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T07:31:38.250670,Gandhidham,22.98564,70.1276,1397351,Residential Property (Home),0
+CLM-000274,POL-00274,CAT-2026-02,Warehouse Flood & Stock Rupture,Catastrophic,Reported,2026-10-22T07:39:10.241677,Kandla Port,23.14952,69.71163,17330001,Commercial Property & Industrial,1
+CLM-000275,POL-01576,CAT-2026-02,Debris Windshield & Panel Impact,High,Reported,2026-10-22T07:19:39.426800,Kandla Port,23.47108,69.75391,1212218,Auto & Commercial Fleet,1
+CLM-000276,POL-01224,CAT-2026-02,Signboard & Shopfront Destruction,High,Reported,2026-10-22T07:30:33.652070,Jamnagar,23.04336,69.70486,6147373,SME Business & Retail Interruption,1
+CLM-000277,POL-01296,CAT-2026-02,Structural Wall Crack,Low,Reported,2026-10-22T07:35:30.513181,Jamnagar,23.16807,69.77723,328833,Residential Property (Home),0
+CLM-000278,POL-01801,CAT-2026-02,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T07:17:44.805772,Gandhidham,23.45009,69.4395,724738,Residential Property (Home),0
+CLM-000279,POL-00817,CAT-2026-02,Flooded Ground Floor,Medium,Reported,2026-10-22T07:22:00.424563,Kandla Port,22.91438,69.75454,1787574,Residential Property (Home),0
+CLM-000280,POL-02062,CAT-2026-02,Flooded Ground Floor,Low,Reported,2026-10-22T07:19:27.558982,Kandla Port,23.14143,69.84617,506976,Residential Property (Home),0
+CLM-000281,POL-01961,CAT-2026-02,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T07:20:37.485503,Kandla Port,23.32319,69.29419,4182096,Commercial Property & Industrial,1
+CLM-000282,POL-00332,CAT-2026-02,Signboard & Shopfront Destruction,Medium,Reported,2026-10-22T07:27:45.122017,Mandvi Coastal,23.45262,69.27276,8290545,SME Business & Retail Interruption,0
+CLM-000283,POL-02678,CAT-2026-02,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T07:39:01.844984,Mundra,23.24691,69.89233,1151568,Residential Property (Home),0
+CLM-000284,POL-00283,CAT-2026-02,Structural Wall Crack,Low,Reported,2026-10-22T07:29:37.376020,Bhuj,23.40443,69.91286,934242,Residential Property (Home),0
+CLM-000285,POL-02753,CAT-2026-02,Structural Wall Crack,High,Reported,2026-10-22T07:31:11.121826,Bhuj,23.06917,69.91859,6125872,Residential Property (Home),1
+CLM-000286,POL-01116,CAT-2026-02,Flooded Ground Floor,Low,Reported,2026-10-22T07:32:48.091173,Jamnagar,23.35531,69.36051,409734,Residential Property (Home),0
+CLM-000287,POL-01383,CAT-2026-02,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T07:28:36.886587,Gandhidham,23.18734,69.52264,209347,Residential Property (Home),0
+CLM-000288,POL-00155,CAT-2026-02,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T07:26:41.157763,Gandhidham,23.3264,69.46539,22762605,Commercial Property & Industrial,1
+CLM-000289,POL-00582,CAT-2026-02,Roof Tear-off & Water Ingress,Catastrophic,Reported,2026-10-22T07:28:38.278246,Bhuj,23.12342,70.1826,5465464,Residential Property (Home),1
+CLM-000290,POL-01087,CAT-2026-02,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T07:31:00.259037,Mandvi Coastal,23.28951,69.7768,9595967,Commercial Property & Industrial,1
+CLM-000291,POL-02642,CAT-2026-02,Utility Shutdown Interruption,Low,Reported,2026-10-22T07:02:09.196328,Mundra,23.38618,69.34187,830851,SME Business & Retail Interruption,0
+CLM-000292,POL-00774,CAT-2026-02,Structural Wall Crack,Medium,Reported,2026-10-22T07:37:22.164199,Jamnagar,22.64889,69.41656,4298341,Residential Property (Home),0
+CLM-000293,POL-00471,CAT-2026-02,Inventory Water Damage,Catastrophic,Reported,2026-10-22T07:09:31.599145,Jamnagar,23.23842,69.87801,5771817,SME Business & Retail Interruption,1
+CLM-000294,POL-00526,CAT-2026-02,Inventory Water Damage,High,Reported,2026-10-22T07:34:03.760659,Jamnagar,23.32483,69.66788,8158137,SME Business & Retail Interruption,1
+CLM-000295,POL-00935,CAT-2026-02,Flooded Ground Floor,Medium,Reported,2026-10-22T07:25:43.023862,Mandvi Coastal,22.7521,69.82112,3120486,Residential Property (Home),0
+CLM-000296,POL-00604,CAT-2026-02,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T07:05:22.710606,Kandla Port,23.24851,69.5906,12121041,Commercial Property & Industrial,1
+CLM-000297,POL-02362,CAT-2026-02,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T07:19:20.243250,Bhuj,23.15974,70.0617,130645,Auto & Commercial Fleet,0
+CLM-000298,POL-02034,CAT-2026-02,Façade & Glazing Blown Out,Low,Reported,2026-10-22T07:31:54.949942,Mundra,23.13836,69.72295,10383921,Commercial Property & Industrial,1
+CLM-000299,POL-00819,CAT-2026-02,Submerged Engine Hydro-lock,High,Reported,2026-10-22T07:24:35.140057,Kandla Port,22.5629,69.71173,643240,Auto & Commercial Fleet,1
+CLM-000300,POL-02670,CAT-2026-02,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T07:17:41.933228,Kandla Port,23.51235,69.41411,5762459,Residential Property (Home),1
+CLM-000301,POL-00304,CAT-2026-02,Structural Wall Crack,Catastrophic,Reported,2026-10-22T07:31:41.644781,Kandla Port,22.97841,69.38676,12675127,Residential Property (Home),1
+CLM-000302,POL-01690,CAT-2026-02,Structural Wall Crack,Medium,Reported,2026-10-22T07:27:58.541123,Bhuj,22.90943,69.3357,2009924,Residential Property (Home),0
+CLM-000303,POL-01289,CAT-2026-02,Structural Wall Crack,Low,Reported,2026-10-22T07:29:28.459629,Kandla Port,23.7393,69.34205,666469,Residential Property (Home),0
+CLM-000304,POL-02194,CAT-2026-02,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T07:28:58.126385,Bhuj,22.99199,69.77785,372145,Auto & Commercial Fleet,0
+CLM-000305,POL-02237,CAT-2026-02,Structural Wall Crack,High,Reported,2026-10-22T07:24:58.513487,Mundra,23.07584,69.67366,5810633,Residential Property (Home),1
+CLM-000306,POL-00220,CAT-2026-02,Debris Windshield & Panel Impact,High,Reported,2026-10-22T07:33:36.915308,Mandvi Coastal,23.14964,69.87558,885436,Auto & Commercial Fleet,1
+CLM-000307,POL-02220,CAT-2026-02,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T07:27:48.908901,Mandvi Coastal,22.9697,69.65576,1042734,Residential Property (Home),0
+CLM-000308,POL-01270,CAT-2026-02,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T07:34:36.196733,Mandvi Coastal,23.59571,69.35613,19223482,Commercial Property & Industrial,1
+CLM-000309,POL-02260,CAT-2026-02,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T07:30:02.121397,Gandhidham,23.35738,69.91681,2188421,Residential Property (Home),0
+CLM-000310,POL-00318,CAT-2026-02,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T07:32:49.887013,Jamnagar,23.38131,69.94174,4938874,Commercial Property & Industrial,1
+CLM-000311,POL-00994,CAT-2026-02,Inventory Water Damage,High,Reported,2026-10-22T07:32:18.647821,Mundra,23.3292,69.7402,10183194,SME Business & Retail Interruption,1
+CLM-000312,POL-01987,CAT-2026-02,Structural Wall Crack,Medium,Reported,2026-10-22T07:36:16.909579,Gandhidham,23.04606,69.488,2347175,Residential Property (Home),0
+CLM-000313,POL-00040,CAT-2026-02,Signboard & Shopfront Destruction,High,Reported,2026-10-22T07:22:56.397706,Mandvi Coastal,22.99481,70.02503,13270814,SME Business & Retail Interruption,1
+CLM-000314,POL-01411,CAT-2026-02,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T07:17:15.468337,Bhuj,23.39234,69.46844,5228512,Commercial Property & Industrial,1
+CLM-000315,POL-02620,CAT-2026-02,Flooded Ground Floor,High,Reported,2026-10-22T07:34:14.901013,Mundra,23.22911,69.63565,4334802,Residential Property (Home),1
+CLM-000316,POL-01379,CAT-2026-02,Utility Shutdown Interruption,Medium,Reported,2026-10-22T07:09:31.404761,Bhuj,23.13603,69.73002,3884465,SME Business & Retail Interruption,0
+CLM-000317,POL-00538,CAT-2026-02,Flooded Ground Floor,High,Reported,2026-10-22T07:31:54.739547,Jamnagar,22.86304,69.37236,5190701,Residential Property (Home),1
+CLM-000318,POL-00567,CAT-2026-02,Flooded Ground Floor,Medium,Reported,2026-10-22T07:27:32.221929,Mandvi Coastal,23.21396,69.60704,2480442,Residential Property (Home),0
+CLM-000319,POL-01148,CAT-2026-02,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T07:09:12.659745,Jamnagar,23.16713,69.18524,26572153,Commercial Property & Industrial,1
+CLM-000320,POL-01736,CAT-2026-02,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T07:28:29.830609,Kandla Port,23.41686,69.6083,6755305,Commercial Property & Industrial,1
+CLM-000321,POL-02488,CAT-2026-02,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T07:16:08.383087,Jamnagar,23.17494,69.57737,3816540,Residential Property (Home),0
+CLM-000322,POL-02253,CAT-2026-02,Signboard & Shopfront Destruction,Medium,Reported,2026-10-22T07:37:02.202521,Mandvi Coastal,23.47666,69.61228,3074910,SME Business & Retail Interruption,0
+CLM-000323,POL-02723,CAT-2026-02,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T07:26:44.059193,Bhuj,23.30122,68.70103,3884560,Residential Property (Home),0
+CLM-000324,POL-01535,CAT-2026-02,Structural Wall Crack,Catastrophic,Reported,2026-10-22T07:20:52.686856,Kandla Port,23.21616,69.42918,3846231,Residential Property (Home),1
+CLM-000325,POL-00539,CAT-2026-02,Utility Shutdown Interruption,Low,Reported,2026-10-22T07:30:16.009170,Mandvi Coastal,23.42782,69.56306,1150683,SME Business & Retail Interruption,0
+CLM-000326,POL-01630,CAT-2026-02,Debris Windshield & Panel Impact,High,Reported,2026-10-22T07:16:23.515201,Mundra,23.75293,69.76795,1495884,Auto & Commercial Fleet,1
+CLM-000327,POL-01300,CAT-2026-02,Flooded Ground Floor,Catastrophic,Reported,2026-10-22T07:35:36.848641,Mundra,23.38552,69.70876,9490578,Residential Property (Home),1
+CLM-000328,POL-01487,CAT-2026-02,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T07:35:36.890226,Mandvi Coastal,23.48903,69.71398,179432,Residential Property (Home),0
+CLM-000329,POL-01220,CAT-2026-02,Debris Windshield & Panel Impact,High,Reported,2026-10-22T07:39:09.551361,Mundra,22.76003,69.89912,1600087,Auto & Commercial Fleet,1
+CLM-000330,POL-01902,CAT-2026-02,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T07:27:33.843887,Jamnagar,23.41607,69.37932,130815,Auto & Commercial Fleet,0
+CLM-000331,POL-01588,CAT-2026-02,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T07:18:35.414221,Mundra,23.44193,69.64541,317518,Auto & Commercial Fleet,0
+CLM-000332,POL-01337,CAT-2026-02,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T07:08:34.269732,Kandla Port,23.50329,69.61888,15994184,Commercial Property & Industrial,1
+CLM-000333,POL-01026,CAT-2026-02,Debris Windshield & Panel Impact,Catastrophic,Reported,2026-10-22T07:24:01.577209,Mundra,23.06258,69.48402,1246041,Auto & Commercial Fleet,1
+CLM-000334,POL-00325,CAT-2026-02,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T07:33:47.159524,Jamnagar,23.39357,69.94826,206129,Auto & Commercial Fleet,0
+CLM-000335,POL-00120,CAT-2026-02,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T07:10:03.761963,Mandvi Coastal,23.7372,69.93696,22896150,Commercial Property & Industrial,1
+CLM-000336,POL-00786,CAT-2026-02,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T07:23:12.595362,Bhuj,23.24984,69.81199,1254864,Residential Property (Home),0
+CLM-000337,POL-01293,CAT-2026-02,Submerged Engine Hydro-lock,High,Reported,2026-10-22T07:27:23.706755,Mandvi Coastal,23.83895,69.27534,2151725,Auto & Commercial Fleet,1
+CLM-000338,POL-01580,CAT-2026-02,Submerged Engine Hydro-lock,Low,Reported,2026-10-22T07:27:48.161584,Mandvi Coastal,23.07793,69.74798,73980,Auto & Commercial Fleet,0
+CLM-000339,POL-02554,CAT-2026-02,Submerged Engine Hydro-lock,High,Reported,2026-10-22T07:33:08.032712,Bhuj,23.1955,69.98432,923983,Auto & Commercial Fleet,1
+CLM-000340,POL-01118,CAT-2026-02,Flooded Ground Floor,High,Reported,2026-10-22T07:30:05.768153,Mandvi Coastal,23.15477,69.57199,5856403,Residential Property (Home),1
+CLM-000341,POL-00887,CAT-2026-02,Structural Wall Crack,High,Reported,2026-10-22T07:37:05.553823,Mundra,23.25975,69.8531,9291593,Residential Property (Home),1
+CLM-000342,POL-00228,CAT-2026-02,Roof Tear-off & Water Ingress,Catastrophic,Reported,2026-10-22T07:22:53.793657,Bhuj,23.29638,69.77495,8553874,Residential Property (Home),1
+CLM-000343,POL-00915,CAT-2026-02,Flooded Ground Floor,High,Reported,2026-10-22T07:25:01.857294,Bhuj,22.88182,69.51316,6281390,Residential Property (Home),1
+CLM-000344,POL-01277,CAT-2026-02,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T07:17:42.319862,Bhuj,22.95099,69.65069,645988,Residential Property (Home),0
+CLM-000345,POL-01024,CAT-2026-02,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T07:12:54.378910,Gandhidham,23.27021,69.44033,562720,Auto & Commercial Fleet,0
+CLM-000346,POL-00313,CAT-2026-02,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T07:32:25.202549,Jamnagar,23.60933,69.51161,310427,Auto & Commercial Fleet,0
+CLM-000347,POL-00015,CAT-2026-02,Structural Wall Crack,Medium,Reported,2026-10-22T07:32:20.709014,Mandvi Coastal,23.432,69.70456,2402012,Residential Property (Home),0
+CLM-000348,POL-00991,CAT-2026-02,Utility Shutdown Interruption,Medium,Reported,2026-10-22T07:38:17.563136,Bhuj,23.47279,69.49579,3852430,SME Business & Retail Interruption,0
+CLM-000349,POL-00411,CAT-2026-02,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T07:06:44.356302,Gandhidham,23.29229,69.93317,1666967,Residential Property (Home),0
+CLM-000350,POL-00443,CAT-2026-02,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T07:20:05.485525,Jamnagar,22.9166,69.47984,825743,Auto & Commercial Fleet,0
+CLM-000351,POL-02784,CAT-2026-02,Façade & Glazing Blown Out,Catastrophic,Reported,2026-10-22T07:34:51.713095,Bhuj,23.51899,69.71684,79399751,Commercial Property & Industrial,1
+CLM-000352,POL-00401,CAT-2026-02,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T07:39:24.951140,Jamnagar,23.22138,69.65032,9866617,Commercial Property & Industrial,1
+CLM-000353,POL-01320,CAT-2026-02,Flooded Ground Floor,Catastrophic,Reported,2026-10-22T07:22:32.866191,Gandhidham,23.45239,69.54917,4869317,Residential Property (Home),1
+CLM-000354,POL-01655,CAT-2026-02,Structural Wall Crack,Medium,Reported,2026-10-22T07:24:29.707286,Kandla Port,23.50559,69.89892,2055725,Residential Property (Home),0
+CLM-000355,POL-02663,CAT-2026-02,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T07:09:57.478304,Bhuj,23.12274,69.73643,30154131,Commercial Property & Industrial,1
+CLM-000356,POL-00663,CAT-2026-02,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T07:31:42.836643,Bhuj,23.17018,69.42829,44983861,Commercial Property & Industrial,1
+CLM-000357,POL-02690,CAT-2026-02,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T07:25:34.440957,Mundra,23.20513,69.30519,993677,Auto & Commercial Fleet,0
+CLM-000358,POL-00865,CAT-2026-02,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T07:32:02.340589,Kandla Port,23.00032,69.39897,275390,Auto & Commercial Fleet,0
+CLM-000359,POL-02788,CAT-2026-02,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T07:38:43.468516,Mandvi Coastal,23.0972,69.44279,9544497,Commercial Property & Industrial,1
+CLM-000360,POL-02157,CAT-2026-02,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T07:29:43.706987,Mundra,23.22473,69.7761,137142,Auto & Commercial Fleet,0
+CLM-000361,POL-01967,CAT-2026-02,Debris Windshield & Panel Impact,Catastrophic,Reported,2026-10-22T07:16:56.275707,Bhuj,23.31632,69.72485,348820,Auto & Commercial Fleet,1
+CLM-000362,POL-00530,CAT-2026-02,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T07:28:29.396793,Gandhidham,22.74621,69.68039,76309965,Commercial Property & Industrial,1
+CLM-000363,POL-00362,CAT-2026-02,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T07:18:24.253332,Kandla Port,23.86453,69.65412,214676,Auto & Commercial Fleet,0
+CLM-000364,POL-02305,CAT-2026-02,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T07:36:45.541334,Mundra,23.09685,69.79252,85620,Auto & Commercial Fleet,0
+CLM-000365,POL-01234,CAT-2026-02,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T07:22:09.695878,Gandhidham,23.16371,69.28315,1947374,Residential Property (Home),0
+CLM-000366,POL-01259,CAT-2026-02,Structural Wall Crack,Low,Reported,2026-10-22T07:23:40.950138,Kandla Port,23.45203,69.6475,106967,Residential Property (Home),0
+CLM-000367,POL-00263,CAT-2026-02,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T07:14:10.295121,Gandhidham,23.09832,69.76378,918447,Auto & Commercial Fleet,0
+CLM-000368,POL-01890,CAT-2026-02,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T07:28:34.158422,Mandvi Coastal,23.32056,69.83189,139255,Auto & Commercial Fleet,0
+CLM-000369,POL-00119,CAT-2026-02,Utility Shutdown Interruption,Medium,Reported,2026-10-22T07:23:34.095257,Kandla Port,23.32428,69.62616,4739255,SME Business & Retail Interruption,0
+CLM-000370,POL-00300,CAT-2026-02,Flooded Ground Floor,Low,Reported,2026-10-22T07:34:55.584043,Mandvi Coastal,23.55802,69.48231,778914,Residential Property (Home),0
+CLM-000371,POL-00702,CAT-2026-02,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T07:30:43.788150,Bhuj,23.23216,69.5124,21745684,Commercial Property & Industrial,1
+CLM-000372,POL-02245,CAT-2026-02,Inventory Water Damage,High,Reported,2026-10-22T07:40:47.835074,Gandhidham,23.60134,69.31025,16114875,SME Business & Retail Interruption,1
+CLM-000373,POL-00171,CAT-2026-02,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T07:34:13.310940,Mundra,23.10213,69.45385,1167543,Residential Property (Home),0
+CLM-000374,POL-02170,CAT-2026-02,Structural Wall Crack,Catastrophic,Reported,2026-10-22T07:29:28.767278,Jamnagar,22.65738,69.66147,12091217,Residential Property (Home),1
+CLM-000375,POL-00301,CAT-2026-02,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T07:28:59.419729,Mundra,23.83771,69.56566,752198,Auto & Commercial Fleet,1
+CLM-000376,POL-01757,CAT-2026-02,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T07:04:04.571132,Mandvi Coastal,23.49838,70.01722,438061,Auto & Commercial Fleet,0
+CLM-000377,POL-01480,CAT-2026-02,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T07:16:51.661650,Bhuj,23.55516,69.53178,8639067,Commercial Property & Industrial,1
+CLM-000378,POL-00635,CAT-2026-02,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T07:35:35.032705,Kandla Port,23.21284,69.61611,1385730,Auto & Commercial Fleet,1
+CLM-000379,POL-02066,CAT-2026-02,Flooded Ground Floor,Catastrophic,Reported,2026-10-22T07:12:02.141757,Mundra,23.36745,69.85627,9695184,Residential Property (Home),1
+CLM-000380,POL-02377,CAT-2026-02,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T07:26:18.455273,Bhuj,23.33712,70.03841,790167,Auto & Commercial Fleet,1
+CLM-000381,POL-00640,CAT-2026-02,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T07:15:09.689224,Gandhidham,23.40985,70.35876,6847308,Commercial Property & Industrial,1
+CLM-000382,POL-00804,CAT-2026-02,Roof Tear-off & Water Ingress,Catastrophic,Reported,2026-10-22T07:13:03.431864,Bhuj,23.033,69.74814,6371616,Residential Property (Home),1
+CLM-000383,POL-01988,CAT-2026-02,Flooded Ground Floor,Medium,Reported,2026-10-22T07:23:04.258270,Bhuj,23.0785,69.88422,1690995,Residential Property (Home),0
+CLM-000384,POL-02003,CAT-2026-02,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T07:36:11.091453,Mandvi Coastal,23.24819,69.83942,950235,Auto & Commercial Fleet,1
+CLM-000385,POL-02614,CAT-2026-02,Flooded Ground Floor,Catastrophic,Reported,2026-10-22T07:09:59.693897,Jamnagar,22.87896,69.60027,8448807,Residential Property (Home),1
+CLM-000386,POL-00828,CAT-2026-02,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T07:20:41.585010,Jamnagar,23.46454,69.81071,1129085,Residential Property (Home),0
+CLM-000387,POL-02415,CAT-2026-02,Flooded Ground Floor,Catastrophic,Reported,2026-10-22T07:32:16.956544,Jamnagar,23.39989,69.79252,9926152,Residential Property (Home),1
+CLM-000388,POL-02395,CAT-2026-02,Structural Wall Crack,Medium,Reported,2026-10-22T07:35:45.598404,Gandhidham,23.48337,69.862,2018504,Residential Property (Home),0
+CLM-000389,POL-01595,CAT-2026-02,Flooded Ground Floor,Catastrophic,Reported,2026-10-22T07:28:47.279718,Gandhidham,22.7769,69.08008,5071605,Residential Property (Home),1
+CLM-000390,POL-00028,CAT-2026-02,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T07:20:31.956885,Kandla Port,22.87112,69.93105,14563721,Commercial Property & Industrial,1
+CLM-000391,POL-02474,CAT-2026-02,Utility Shutdown Interruption,Catastrophic,Reported,2026-10-22T07:20:26.522051,Jamnagar,23.31176,70.19099,14415437,SME Business & Retail Interruption,1
+CLM-000392,POL-01159,CAT-2026-02,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T07:30:59.990097,Kandla Port,22.96696,69.85695,163938,Auto & Commercial Fleet,0
+CLM-000393,POL-00617,CAT-2026-02,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T07:27:40.453299,Kandla Port,23.1192,69.7123,7708395,Residential Property (Home),1
+CLM-000394,POL-00763,CAT-2026-02,Flooded Ground Floor,Medium,Reported,2026-10-22T07:20:16.405476,Jamnagar,23.09853,69.61767,2620525,Residential Property (Home),0
+CLM-000395,POL-00529,CAT-2026-02,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T07:33:06.156621,Mandvi Coastal,23.3203,70.10258,14965717,Commercial Property & Industrial,1
+CLM-000396,POL-01109,CAT-2026-02,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T07:32:56.202687,Gandhidham,23.22529,69.97693,4850352,Commercial Property & Industrial,1
+CLM-000397,POL-00164,CAT-2026-02,Utility Shutdown Interruption,High,Reported,2026-10-22T07:08:51.515183,Mandvi Coastal,23.4952,69.74598,9812964,SME Business & Retail Interruption,1
+CLM-000398,POL-00434,CAT-2026-02,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T07:35:27.153991,Jamnagar,23.63377,69.861,632854,Residential Property (Home),0
+CLM-000399,POL-01955,CAT-2026-02,Flooded Ground Floor,Medium,Reported,2026-10-22T07:34:42.428323,Bhuj,23.26783,69.57026,3601605,Residential Property (Home),0
+CLM-000400,POL-00229,CAT-2026-02,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T07:35:53.726785,Kandla Port,23.72933,70.00981,15045680,Commercial Property & Industrial,1
+CLM-000401,POL-01476,CAT-2026-02,Signboard & Shopfront Destruction,Catastrophic,Reported,2026-10-22T07:29:52.598458,Mundra,23.5046,69.86027,17105995,SME Business & Retail Interruption,1
+CLM-000402,POL-01335,CAT-2026-02,Flooded Ground Floor,Low,Reported,2026-10-22T07:28:12.268305,Mundra,23.35026,69.67026,1332492,Residential Property (Home),0
+CLM-000403,POL-01985,CAT-2026-02,Flooded Ground Floor,Low,Reported,2026-10-22T07:26:16.023385,Mundra,23.37119,69.8229,318973,Residential Property (Home),0
+CLM-000404,POL-00095,CAT-2026-02,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T07:27:08.057273,Jamnagar,23.69902,69.7653,273639,Auto & Commercial Fleet,0
+CLM-000405,POL-00909,CAT-2026-02,Flooded Ground Floor,Medium,Reported,2026-10-22T07:34:30.116280,Mundra,23.36314,69.41914,2432038,Residential Property (Home),0
+CLM-000406,POL-02716,CAT-2026-02,Inventory Water Damage,Low,Reported,2026-10-22T07:31:01.010691,Bhuj,23.34954,69.87002,747106,SME Business & Retail Interruption,0
+CLM-000407,POL-00946,CAT-2026-02,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T07:35:54.736708,Mandvi Coastal,23.38077,70.03485,895583,Auto & Commercial Fleet,0
+CLM-000408,POL-01122,CAT-2026-02,Debris Windshield & Panel Impact,High,Reported,2026-10-22T07:30:50.358346,Bhuj,23.14285,69.52811,1411550,Auto & Commercial Fleet,1
+CLM-000409,POL-02633,CAT-2026-02,Flooded Ground Floor,High,Reported,2026-10-22T07:37:49.879399,Gandhidham,23.12266,69.39534,7502989,Residential Property (Home),1
+CLM-000410,POL-00447,CAT-2026-02,Structural Wall Crack,Medium,Reported,2026-10-22T07:30:07.566001,Jamnagar,23.40478,69.76759,2752426,Residential Property (Home),0
+CLM-000411,POL-00334,CAT-2026-02,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T07:20:12.904411,Mundra,23.62873,69.71554,479068,Residential Property (Home),0
+CLM-000412,POL-00197,CAT-2026-02,Structural Wall Crack,High,Reported,2026-10-22T07:23:20.215690,Mandvi Coastal,23.06772,69.80836,5008060,Residential Property (Home),1
+CLM-000413,POL-02669,CAT-2026-02,Structural Wall Crack,Low,Reported,2026-10-22T07:18:19.118659,Mundra,22.96353,69.92562,862030,Residential Property (Home),0
+CLM-000414,POL-02174,CAT-2026-02,Signboard & Shopfront Destruction,High,Reported,2026-10-22T07:35:13.738633,Kandla Port,23.63997,69.78493,9792706,SME Business & Retail Interruption,1
+CLM-000415,POL-02091,CAT-2026-02,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T07:21:31.188001,Bhuj,23.24877,69.72983,139882,Auto & Commercial Fleet,0
+CLM-000416,POL-01059,CAT-2026-02,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T07:21:29.113551,Mandvi Coastal,23.19141,69.23608,349322,Auto & Commercial Fleet,0
+CLM-000417,POL-00960,CAT-2026-02,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T07:12:43.184689,Mundra,22.99315,70.03303,37414753,Commercial Property & Industrial,1
+CLM-000418,POL-00902,CAT-2026-02,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T07:20:40.625698,Mandvi Coastal,22.68235,69.79854,7079165,Residential Property (Home),1
+CLM-000419,POL-00977,CAT-2026-02,Signboard & Shopfront Destruction,Low,Reported,2026-10-22T07:34:19.924557,Jamnagar,22.96468,70.04523,701740,SME Business & Retail Interruption,0
+CLM-000420,POL-00076,CAT-2026-02,Utility Shutdown Interruption,Medium,Reported,2026-10-22T07:31:59.848963,Kandla Port,23.30005,69.44968,700446,SME Business & Retail Interruption,0
+CLM-000421,POL-00827,CAT-2026-02,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T07:38:46.175727,Mundra,22.79129,69.48383,130885,Residential Property (Home),0
+CLM-000422,POL-01380,CAT-2026-02,Flooded Ground Floor,High,Reported,2026-10-22T07:18:32.657950,Mandvi Coastal,23.58184,69.51297,5411766,Residential Property (Home),1
+CLM-000423,POL-01746,CAT-2026-02,Utility Shutdown Interruption,Catastrophic,Reported,2026-10-22T07:34:31.424381,Kandla Port,23.84788,69.59865,23032997,SME Business & Retail Interruption,1
+CLM-000424,POL-02095,CAT-2026-02,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T07:23:51.497960,Gandhidham,22.95317,69.87334,3622455,Residential Property (Home),0
+CLM-000425,POL-00265,CAT-2026-02,Structural Wall Crack,Medium,Reported,2026-10-22T07:23:14.852776,Kandla Port,23.14546,69.64519,1904394,Residential Property (Home),0
+CLM-000426,POL-01943,CAT-2026-02,Structural Wall Crack,Catastrophic,Reported,2026-10-22T07:31:31.921098,Bhuj,23.3023,69.85059,6407260,Residential Property (Home),1
+CLM-000427,POL-01532,CAT-2026-02,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T07:24:14.327042,Mandvi Coastal,23.25869,69.78257,165737,Auto & Commercial Fleet,0
+CLM-000428,POL-00109,CAT-2026-02,Structural Wall Crack,Medium,Reported,2026-10-22T07:39:44.233843,Mandvi Coastal,23.08677,69.8809,717926,Residential Property (Home),0
+CLM-000429,POL-01971,CAT-2026-02,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T07:33:40.813882,Gandhidham,23.1146,69.94574,21027329,Commercial Property & Industrial,1
+CLM-000430,POL-00703,CAT-2026-02,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T07:35:44.089433,Kandla Port,23.30597,69.7816,73674754,Commercial Property & Industrial,1
+CLM-000431,POL-01005,CAT-2026-02,Flooded Ground Floor,Low,Reported,2026-10-22T07:30:01.587117,Mandvi Coastal,23.2878,70.36019,634497,Residential Property (Home),0
+CLM-000432,POL-01870,CAT-2026-02,Flooded Ground Floor,High,Reported,2026-10-22T07:29:41.419074,Jamnagar,23.0315,69.02171,5930987,Residential Property (Home),1
+CLM-000433,POL-01774,CAT-2026-02,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T07:20:12.675283,Bhuj,22.9441,69.75476,628047,Auto & Commercial Fleet,0
+CLM-000434,POL-00825,CAT-2026-02,Structural Wall Crack,Low,Reported,2026-10-22T07:24:18.103117,Gandhidham,22.95732,69.37769,1585583,Residential Property (Home),0
+CLM-000435,POL-02054,CAT-2026-02,Inventory Water Damage,High,Reported,2026-10-22T07:20:05.141716,Jamnagar,23.33406,69.74315,18138301,SME Business & Retail Interruption,1
+CLM-000436,POL-02121,CAT-2026-02,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T07:17:01.892084,Mandvi Coastal,23.67455,69.42564,21411810,Commercial Property & Industrial,1
+CLM-000437,POL-01448,CAT-2026-02,Flooded Ground Floor,Low,Reported,2026-10-22T07:27:42.088907,Mandvi Coastal,23.54616,69.60473,390452,Residential Property (Home),0
+CLM-000438,POL-02702,CAT-2026-02,Inventory Water Damage,Medium,Reported,2026-10-22T07:32:51.875782,Kandla Port,23.54008,69.26334,4591379,SME Business & Retail Interruption,0
+CLM-000439,POL-01328,CAT-2026-02,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T07:26:31.969458,Mandvi Coastal,23.0858,69.74182,681171,Auto & Commercial Fleet,1
+CLM-000440,POL-02566,CAT-2026-02,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T07:38:12.418132,Kandla Port,23.08297,69.37361,69292138,Commercial Property & Industrial,1
+CLM-000441,POL-00666,CAT-2026-02,Debris Windshield & Panel Impact,Catastrophic,Reported,2026-10-22T07:36:27.935354,Bhuj,23.3731,69.61624,2940379,Auto & Commercial Fleet,1
+CLM-000442,POL-02051,CAT-2026-02,Submerged Engine Hydro-lock,High,Reported,2026-10-22T07:15:52.453282,Gandhidham,23.0389,70.15367,302984,Auto & Commercial Fleet,1
+CLM-000443,POL-01877,CAT-2026-02,Inventory Water Damage,Low,Reported,2026-10-22T07:37:27.735544,Mandvi Coastal,23.26786,69.37959,2343311,SME Business & Retail Interruption,0
+CLM-000444,POL-00962,CAT-2026-02,Inventory Water Damage,Medium,Reported,2026-10-22T07:29:38.858049,Mandvi Coastal,22.91881,69.96281,4108373,SME Business & Retail Interruption,0
+CLM-000445,POL-01276,CAT-2026-02,Façade & Glazing Blown Out,High,Reported,2026-10-22T07:30:10.085916,Bhuj,23.41081,69.8753,67121510,Commercial Property & Industrial,1
+CLM-000446,POL-02643,CAT-2026-02,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T07:20:57.085136,Kandla Port,23.13771,69.16361,272369,Auto & Commercial Fleet,0
+CLM-000447,POL-00633,CAT-2026-02,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T07:30:15.297711,Kandla Port,22.96604,69.38237,298173,Auto & Commercial Fleet,0
+CLM-000448,POL-01143,CAT-2026-02,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T07:23:27.583440,Bhuj,22.85864,69.52964,491706,Auto & Commercial Fleet,0
+CLM-000449,POL-02442,CAT-2026-02,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T07:34:52.560680,Kandla Port,22.86973,69.54134,7280131,Commercial Property & Industrial,1
+CLM-000450,POL-01775,CAT-2026-02,Shed Collapsed / Machineries Soaked,Catastrophic,Reported,2026-10-22T07:30:42.554503,Bhuj,23.12338,69.72202,61057044,Commercial Property & Industrial,1
+CLM-000451,POL-01395,CAT-2026-02,Inventory Water Damage,Medium,Reported,2026-10-22T07:16:47.323947,Mandvi Coastal,23.32308,70.08994,3384391,SME Business & Retail Interruption,0
+CLM-000452,POL-01113,CAT-2026-02,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T07:33:28.678988,Mandvi Coastal,23.20633,69.81076,450718,Auto & Commercial Fleet,0
+CLM-000453,POL-01218,CAT-2026-02,Structural Wall Crack,Catastrophic,Reported,2026-10-22T07:28:24.859535,Mundra,23.0215,69.83587,1864495,Residential Property (Home),1
+CLM-000454,POL-01658,CAT-2026-02,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T07:31:15.750596,Mundra,23.5898,69.63181,12356030,Commercial Property & Industrial,1
+CLM-000455,POL-00422,CAT-2026-02,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T07:11:27.767929,Kandla Port,23.00986,70.06367,5387564,Commercial Property & Industrial,1
+CLM-000456,POL-00459,CAT-2026-02,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T07:28:47.458277,Mandvi Coastal,23.67487,69.76894,24924285,Commercial Property & Industrial,1
+CLM-000457,POL-02511,CAT-2026-02,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T07:31:59.999776,Kandla Port,23.07598,69.58255,2127758,Residential Property (Home),1
+CLM-000458,POL-02580,CAT-2026-02,Inventory Water Damage,High,Reported,2026-10-22T07:23:51.394716,Mandvi Coastal,23.64949,69.85729,6870403,SME Business & Retail Interruption,1
+CLM-000459,POL-02508,CAT-2026-02,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T07:29:35.529707,Mundra,23.34678,69.30162,75354545,Commercial Property & Industrial,1
+CLM-000460,POL-01377,CAT-2026-02,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T07:29:31.404824,Mundra,23.14047,69.62783,2970658,Residential Property (Home),1
+CLM-000461,POL-00373,CAT-2026-02,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T07:35:24.755260,Gandhidham,23.07063,69.53419,920343,Auto & Commercial Fleet,0
+CLM-000462,POL-00032,CAT-2026-02,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T07:30:50.888337,Kandla Port,23.37038,69.96113,890137,Auto & Commercial Fleet,1
+CLM-000463,POL-00359,CAT-2026-02,Façade & Glazing Blown Out,High,Reported,2026-10-22T07:07:38.025152,Gandhidham,23.1224,69.02979,61283612,Commercial Property & Industrial,1
+CLM-000464,POL-02693,CAT-2026-03,Inventory Water Damage,Low,Reported,2026-10-22T01:37:26.948861,Ennore Coastal,13.06976,80.15929,1057520,SME Business & Retail Interruption,0
+CLM-000465,POL-01431,CAT-2026-03,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T01:02:52.138714,Tambaram,12.99485,80.32084,609783,Residential Property (Home),0
+CLM-000466,POL-00278,CAT-2026-03,Roof Tear-off & Water Ingress,Catastrophic,Reported,2026-10-22T01:22:05.127705,Adyar Basin,13.09334,80.29507,8899659,Residential Property (Home),1
+CLM-000467,POL-01555,CAT-2026-03,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T01:23:34.560122,Ennore Coastal,13.10163,80.22288,7993285,Residential Property (Home),1
+CLM-000468,POL-00400,CAT-2026-03,Structural Wall Crack,High,Reported,2026-10-22T01:34:39.559281,OMR IT Corridor,13.03754,80.32316,7202941,Residential Property (Home),1
+CLM-000469,POL-01458,CAT-2026-03,Façade & Glazing Blown Out,High,Reported,2026-10-22T01:33:53.850962,Adyar Basin,13.10696,80.43027,60927531,Commercial Property & Industrial,1
+CLM-000470,POL-01090,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:29:00.635462,Ambattur,13.32129,80.33987,3238963,Residential Property (Home),0
+CLM-000471,POL-00696,CAT-2026-03,Inventory Water Damage,Medium,Reported,2026-10-22T01:23:18.275819,Ennore Coastal,12.9034,80.14889,761294,SME Business & Retail Interruption,0
+CLM-000472,POL-02519,CAT-2026-03,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T01:33:07.876548,Adyar Basin,13.07509,80.15045,8266200,Commercial Property & Industrial,1
+CLM-000473,POL-01615,CAT-2026-03,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T01:27:11.074708,Velachery,12.91277,80.31001,225241,Auto & Commercial Fleet,0
+CLM-000474,POL-01331,CAT-2026-03,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T01:35:16.369558,Tambaram,13.21064,80.23882,6723942,Residential Property (Home),1
+CLM-000475,POL-01677,CAT-2026-03,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T01:23:42.546969,Tambaram,13.08638,80.35728,347302,Auto & Commercial Fleet,0
+CLM-000476,POL-02238,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:21:06.899562,Velachery,13.19083,80.11337,1882328,Residential Property (Home),0
+CLM-000477,POL-02532,CAT-2026-03,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T01:30:09.449973,OMR IT Corridor,13.23657,80.07841,477858,Auto & Commercial Fleet,0
+CLM-000478,POL-00542,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:24:26.341998,OMR IT Corridor,13.31535,80.16487,1878564,Residential Property (Home),0
+CLM-000479,POL-02647,CAT-2026-03,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T01:25:52.493673,Tambaram,13.03575,80.31401,258789,Auto & Commercial Fleet,0
+CLM-000480,POL-00882,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:06:36.531464,OMR IT Corridor,13.13029,80.34951,2108105,Residential Property (Home),0
+CLM-000481,POL-00254,CAT-2026-03,Structural Wall Crack,Low,Reported,2026-10-22T01:17:53.479837,Velachery,13.0309,80.23791,197256,Residential Property (Home),0
+CLM-000482,POL-00883,CAT-2026-03,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T01:17:16.001915,Ennore Coastal,12.97027,80.17332,151296,Residential Property (Home),0
+CLM-000483,POL-01865,CAT-2026-03,Roof Tear-off & Water Ingress,Catastrophic,Reported,2026-10-22T01:26:17.274777,OMR IT Corridor,13.15696,80.5222,5402988,Residential Property (Home),1
+CLM-000484,POL-00852,CAT-2026-03,Structural Wall Crack,Low,Reported,2026-10-22T01:24:10.528877,Velachery,13.08976,80.18043,143287,Residential Property (Home),0
+CLM-000485,POL-00333,CAT-2026-03,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T01:04:16.133951,Velachery,12.88962,80.37448,576606,Auto & Commercial Fleet,0
+CLM-000486,POL-01428,CAT-2026-03,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T01:29:16.123066,Velachery,13.16822,80.00726,416202,Auto & Commercial Fleet,0
+CLM-000487,POL-01672,CAT-2026-03,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T01:33:05.764596,Velachery,12.87743,80.26171,669058,Auto & Commercial Fleet,0
+CLM-000488,POL-02686,CAT-2026-03,Façade & Glazing Blown Out,Low,Reported,2026-10-22T01:17:18.207558,Velachery,13.05411,80.36101,3095110,Commercial Property & Industrial,1
+CLM-000489,POL-00251,CAT-2026-03,Flooded Ground Floor,High,Reported,2026-10-22T01:11:07.283365,Ennore Coastal,13.21099,80.44802,3351622,Residential Property (Home),1
+CLM-000490,POL-00501,CAT-2026-03,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T01:12:07.782952,OMR IT Corridor,12.98633,80.41559,1412431,Auto & Commercial Fleet,1
+CLM-000491,POL-01092,CAT-2026-03,Flooded Ground Floor,Low,Reported,2026-10-22T01:32:27.700979,Velachery,13.10518,80.33824,637567,Residential Property (Home),0
+CLM-000492,POL-01665,CAT-2026-03,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T01:31:24.097808,Ennore Coastal,13.08782,80.22665,27246148,Commercial Property & Industrial,1
+CLM-000493,POL-02346,CAT-2026-03,Roof Tear-off & Water Ingress,Catastrophic,Reported,2026-10-22T01:23:02.520779,OMR IT Corridor,12.86245,80.48931,5197198,Residential Property (Home),1
+CLM-000494,POL-01712,CAT-2026-03,Flooded Ground Floor,High,Reported,2026-10-22T01:29:18.284245,Ennore Coastal,13.16186,80.21817,7095404,Residential Property (Home),1
+CLM-000495,POL-02104,CAT-2026-03,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T01:29:08.999859,Adyar Basin,13.23153,80.09382,1770272,Auto & Commercial Fleet,1
+CLM-000496,POL-02718,CAT-2026-03,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T01:38:55.686574,Tambaram,13.05559,80.1752,180577,Auto & Commercial Fleet,0
+CLM-000497,POL-00328,CAT-2026-03,Inventory Water Damage,Medium,Reported,2026-10-22T01:34:25.111012,Ennore Coastal,12.98911,80.33728,3150084,SME Business & Retail Interruption,0
+CLM-000498,POL-02704,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:28:59.909610,OMR IT Corridor,13.06036,80.19648,3751940,Residential Property (Home),0
+CLM-000499,POL-02743,CAT-2026-03,Structural Wall Crack,Low,Reported,2026-10-22T01:34:52.855038,Ambattur,13.07943,80.26422,549614,Residential Property (Home),0
+CLM-000500,POL-01966,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:18:18.293013,Ambattur,13.07829,80.49223,1996410,Residential Property (Home),0
+CLM-000501,POL-00369,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:21:25.071667,Ambattur,13.20533,80.35892,4783050,Residential Property (Home),0
+CLM-000502,POL-02785,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:35:58.442629,Tambaram,13.09596,80.15892,3432278,Residential Property (Home),0
+CLM-000503,POL-01776,CAT-2026-03,Structural Wall Crack,High,Reported,2026-10-22T01:27:22.153207,Ennore Coastal,13.0097,80.12899,3398423,Residential Property (Home),1
+CLM-000504,POL-00335,CAT-2026-03,Inventory Water Damage,High,Reported,2026-10-22T01:25:04.640597,Adyar Basin,13.11491,80.49084,5540339,SME Business & Retail Interruption,1
+CLM-000505,POL-02764,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:27:45.020123,Velachery,13.04789,80.29098,451335,Residential Property (Home),0
+CLM-000506,POL-00056,CAT-2026-03,Inventory Water Damage,High,Reported,2026-10-22T01:11:32.786345,Tambaram,13.03457,80.24118,3666474,SME Business & Retail Interruption,1
+CLM-000507,POL-02203,CAT-2026-03,Inventory Water Damage,Low,Reported,2026-10-22T01:18:38.750613,Velachery,13.23259,80.19003,524288,SME Business & Retail Interruption,0
+CLM-000508,POL-00692,CAT-2026-03,Structural Wall Crack,High,Reported,2026-10-22T01:37:49.654886,Velachery,12.86445,80.06192,4697786,Residential Property (Home),1
+CLM-000509,POL-02037,CAT-2026-03,Façade & Glazing Blown Out,Low,Reported,2026-10-22T01:27:23.455969,Velachery,12.83776,80.45674,6988578,Commercial Property & Industrial,1
+CLM-000510,POL-01119,CAT-2026-03,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T01:10:16.165511,Ennore Coastal,13.13446,80.30521,1396567,Residential Property (Home),0
+CLM-000511,POL-02786,CAT-2026-03,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T01:25:38.202317,Velachery,13.10713,80.24318,28032499,Commercial Property & Industrial,1
+CLM-000512,POL-00142,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:36:15.833990,Velachery,13.22456,80.01658,3221592,Residential Property (Home),0
+CLM-000513,POL-00932,CAT-2026-03,Façade & Glazing Blown Out,Catastrophic,Reported,2026-10-22T01:28:57.676363,Ambattur,13.0414,80.4017,58024337,Commercial Property & Industrial,1
+CLM-000514,POL-00919,CAT-2026-03,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T01:31:26.728066,Ambattur,12.711,80.27047,438438,Auto & Commercial Fleet,0
+CLM-000515,POL-01520,CAT-2026-03,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T01:21:36.237197,Ambattur,13.03251,80.04004,702269,Auto & Commercial Fleet,0
+CLM-000516,POL-02636,CAT-2026-03,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T01:17:48.012034,Tambaram,13.28301,80.09217,218172,Auto & Commercial Fleet,0
+CLM-000517,POL-02351,CAT-2026-03,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T01:28:48.929880,OMR IT Corridor,13.06486,80.42569,329783,Auto & Commercial Fleet,0
+CLM-000518,POL-02559,CAT-2026-03,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T01:16:44.874992,Tambaram,13.06959,80.24416,4076240,Commercial Property & Industrial,1
+CLM-000519,POL-01536,CAT-2026-03,Utility Shutdown Interruption,High,Reported,2026-10-22T01:25:40.077392,Ambattur,13.02666,80.34648,2199024,SME Business & Retail Interruption,1
+CLM-000520,POL-00492,CAT-2026-03,Debris Windshield & Panel Impact,High,Reported,2026-10-22T01:43:10.643933,Ennore Coastal,13.24909,80.22567,783473,Auto & Commercial Fleet,1
+CLM-000521,POL-00566,CAT-2026-03,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T01:25:16.223126,Ennore Coastal,13.12949,80.28701,10595895,Residential Property (Home),1
+CLM-000522,POL-01666,CAT-2026-03,Façade & Glazing Blown Out,Catastrophic,Reported,2026-10-22T01:37:09.514392,Tambaram,13.04646,80.27123,56498975,Commercial Property & Industrial,1
+CLM-000523,POL-00013,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:24:09.344545,OMR IT Corridor,13.19516,80.09908,3689409,Residential Property (Home),0
+CLM-000524,POL-00917,CAT-2026-03,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T01:35:36.114118,Tambaram,12.85796,80.00681,30590140,Commercial Property & Industrial,1
+CLM-000525,POL-00344,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:32:16.190837,OMR IT Corridor,13.17081,80.40822,3513752,Residential Property (Home),0
+CLM-000526,POL-02420,CAT-2026-03,Structural Wall Crack,High,Reported,2026-10-22T01:09:12.302820,Adyar Basin,13.17235,80.21081,3486956,Residential Property (Home),1
+CLM-000527,POL-01258,CAT-2026-03,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T01:21:45.575283,Tambaram,13.1669,80.41563,5497617,Commercial Property & Industrial,1
+CLM-000528,POL-01164,CAT-2026-03,Structural Wall Crack,Catastrophic,Reported,2026-10-22T01:28:14.664399,Velachery,13.05401,80.22496,9553165,Residential Property (Home),1
+CLM-000529,POL-01326,CAT-2026-03,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T01:29:43.415913,Velachery,13.09275,80.52291,67563260,Commercial Property & Industrial,1
+CLM-000530,POL-02229,CAT-2026-03,Flooded Ground Floor,Catastrophic,Reported,2026-10-22T01:29:06.603882,Ennore Coastal,13.01328,80.08736,4546710,Residential Property (Home),1
+CLM-000531,POL-02200,CAT-2026-03,Submerged Engine Hydro-lock,High,Reported,2026-10-22T01:34:47.410843,Ambattur,12.96474,80.23459,693852,Auto & Commercial Fleet,1
+CLM-000532,POL-02561,CAT-2026-03,Façade & Glazing Blown Out,Catastrophic,Reported,2026-10-22T01:26:45.136011,Adyar Basin,13.00608,80.45943,37814793,Commercial Property & Industrial,1
+CLM-000533,POL-01083,CAT-2026-03,Submerged Engine Hydro-lock,High,Reported,2026-10-22T01:24:58.903162,Ambattur,12.86729,79.8735,877888,Auto & Commercial Fleet,1
+CLM-000534,POL-00319,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:23:19.861687,OMR IT Corridor,13.05523,80.15824,2688424,Residential Property (Home),0
+CLM-000535,POL-02105,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:33:48.702343,Velachery,13.03313,80.01885,1889486,Residential Property (Home),0
+CLM-000536,POL-01155,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:35:22.016162,Ambattur,13.20606,80.33317,332871,Residential Property (Home),0
+CLM-000537,POL-01219,CAT-2026-03,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T01:17:53.361202,Adyar Basin,13.38311,80.43668,249827,Auto & Commercial Fleet,0
+CLM-000538,POL-00269,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:26:14.209582,OMR IT Corridor,13.10742,80.13303,2824494,Residential Property (Home),0
+CLM-000539,POL-02102,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:35:07.863629,Velachery,12.95305,80.49012,1747046,Residential Property (Home),0
+CLM-000540,POL-00138,CAT-2026-03,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T01:31:24.938821,Tambaram,13.39861,80.32687,1069540,Auto & Commercial Fleet,0
+CLM-000541,POL-00296,CAT-2026-03,Structural Wall Crack,Catastrophic,Reported,2026-10-22T01:31:17.605833,Velachery,13.04346,80.2889,6827023,Residential Property (Home),1
+CLM-000542,POL-01160,CAT-2026-03,Flooded Ground Floor,Catastrophic,Reported,2026-10-22T01:26:15.918601,Adyar Basin,12.96685,80.36939,3535123,Residential Property (Home),1
+CLM-000543,POL-00892,CAT-2026-03,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T01:06:50.257651,Adyar Basin,13.23498,80.35977,5798548,Commercial Property & Industrial,1
+CLM-000544,POL-00211,CAT-2026-03,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T01:34:01.072693,OMR IT Corridor,12.79466,80.12887,8071396,Commercial Property & Industrial,1
+CLM-000545,POL-00309,CAT-2026-03,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T01:03:28.101808,Velachery,13.1033,80.33894,9944370,Commercial Property & Industrial,1
+CLM-000546,POL-01423,CAT-2026-03,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T01:13:06.027667,Adyar Basin,13.02229,80.39789,348736,Auto & Commercial Fleet,0
+CLM-000547,POL-01445,CAT-2026-03,Structural Wall Crack,High,Reported,2026-10-22T01:16:37.145233,Tambaram,12.70139,80.18182,2600595,Residential Property (Home),1
+CLM-000548,POL-02287,CAT-2026-03,Inventory Water Damage,Medium,Reported,2026-10-22T01:18:00.665842,Tambaram,13.23665,80.44842,4681177,SME Business & Retail Interruption,0
+CLM-000549,POL-00551,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:31:19.676081,Tambaram,12.92016,80.24289,3726095,Residential Property (Home),0
+CLM-000550,POL-01611,CAT-2026-03,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T01:41:13.584881,Velachery,13.12525,80.44973,85197444,Commercial Property & Industrial,1
+CLM-000551,POL-01419,CAT-2026-03,Inventory Water Damage,High,Reported,2026-10-22T01:35:46.473983,Ambattur,13.20425,80.37652,3669522,SME Business & Retail Interruption,1
+CLM-000552,POL-02665,CAT-2026-03,Inventory Water Damage,Low,Reported,2026-10-22T01:30:24.638746,Velachery,13.32709,80.66091,645298,SME Business & Retail Interruption,0
+CLM-000553,POL-00426,CAT-2026-03,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T01:37:51.040305,OMR IT Corridor,13.08828,80.42766,31454084,Commercial Property & Industrial,1
+CLM-000554,POL-00280,CAT-2026-03,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T01:32:07.142123,Velachery,12.84346,80.4082,736567,Auto & Commercial Fleet,0
+CLM-000555,POL-01825,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:32:18.731628,Ambattur,13.07712,80.31049,784496,Residential Property (Home),0
+CLM-000556,POL-00232,CAT-2026-03,Flooded Ground Floor,Low,Reported,2026-10-22T01:12:34.297729,OMR IT Corridor,13.43542,80.34335,947015,Residential Property (Home),0
+CLM-000557,POL-02068,CAT-2026-03,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T01:24:47.854814,Ennore Coastal,12.76227,80.2407,451782,Auto & Commercial Fleet,0
+CLM-000558,POL-01060,CAT-2026-03,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T01:40:42.886169,Velachery,13.19546,80.38424,11595420,Commercial Property & Industrial,1
+CLM-000559,POL-00198,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:20:27.745057,Tambaram,13.11917,79.88627,1071571,Residential Property (Home),0
+CLM-000560,POL-02700,CAT-2026-03,Façade & Glazing Blown Out,High,Reported,2026-10-22T01:25:00.932604,Ennore Coastal,13.35004,80.27651,56080409,Commercial Property & Industrial,1
+CLM-000561,POL-01478,CAT-2026-03,Structural Wall Crack,High,Reported,2026-10-22T01:21:15.135730,OMR IT Corridor,13.05738,80.18252,1159277,Residential Property (Home),1
+CLM-000562,POL-00030,CAT-2026-03,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T01:24:11.279368,Adyar Basin,12.9695,80.37412,400320,Residential Property (Home),0
+CLM-000563,POL-00610,CAT-2026-03,Structural Wall Crack,Low,Reported,2026-10-22T01:31:06.861228,OMR IT Corridor,13.01023,80.40898,731085,Residential Property (Home),0
+CLM-000564,POL-02651,CAT-2026-03,Debris Windshield & Panel Impact,High,Reported,2026-10-22T01:27:33.234266,Ennore Coastal,13.13339,80.46117,1198759,Auto & Commercial Fleet,1
+CLM-000565,POL-02208,CAT-2026-03,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T01:27:35.732785,Ambattur,13.01154,80.1838,848289,Residential Property (Home),0
+CLM-000566,POL-00569,CAT-2026-03,Shed Collapsed / Machineries Soaked,Catastrophic,Reported,2026-10-22T01:34:35.570063,OMR IT Corridor,13.2079,80.15755,103247143,Commercial Property & Industrial,1
+CLM-000567,POL-01901,CAT-2026-03,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T01:32:01.223465,Ennore Coastal,12.87413,80.09321,30798907,Commercial Property & Industrial,1
+CLM-000568,POL-01921,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:28:27.972436,Velachery,13.03139,80.37791,2744900,Residential Property (Home),0
+CLM-000569,POL-00705,CAT-2026-03,Utility Shutdown Interruption,Low,Reported,2026-10-22T01:15:24.178101,Adyar Basin,13.16702,80.21825,1995714,SME Business & Retail Interruption,0
+CLM-000570,POL-00744,CAT-2026-03,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T01:19:47.528349,OMR IT Corridor,12.95982,80.42758,487704,Residential Property (Home),0
+CLM-000571,POL-00361,CAT-2026-03,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T01:09:36.492420,Ennore Coastal,12.94462,80.26332,897511,Residential Property (Home),0
+CLM-000572,POL-01192,CAT-2026-03,Submerged Engine Hydro-lock,Low,Reported,2026-10-22T01:26:28.144179,Adyar Basin,13.07998,80.42167,112034,Auto & Commercial Fleet,0
+CLM-000573,POL-01197,CAT-2026-03,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T01:33:41.422374,Ambattur,13.10746,80.14343,17099713,Commercial Property & Industrial,1
+CLM-000574,POL-00778,CAT-2026-03,Flooded Ground Floor,Low,Reported,2026-10-22T01:33:33.898528,Adyar Basin,13.0512,80.179,355792,Residential Property (Home),0
+CLM-000575,POL-02635,CAT-2026-03,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T01:38:16.221489,Adyar Basin,12.95183,80.2877,179640,Auto & Commercial Fleet,0
+CLM-000576,POL-01558,CAT-2026-03,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T01:16:47.256078,Ambattur,13.0148,80.01967,836150,Auto & Commercial Fleet,0
+CLM-000577,POL-00984,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:32:07.005450,Ennore Coastal,12.94276,80.69867,2159326,Residential Property (Home),0
+CLM-000578,POL-00203,CAT-2026-03,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T01:32:18.643135,Velachery,13.15417,80.47182,5846709,Commercial Property & Industrial,1
+CLM-000579,POL-01899,CAT-2026-03,Submerged Engine Hydro-lock,Low,Reported,2026-10-22T01:30:44.687467,Velachery,13.26071,80.63231,159046,Auto & Commercial Fleet,0
+CLM-000580,POL-00425,CAT-2026-03,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T01:13:40.331575,Ambattur,12.98366,80.58534,172477,Residential Property (Home),0
+CLM-000581,POL-01373,CAT-2026-03,Debris Windshield & Panel Impact,High,Reported,2026-10-22T01:34:05.093277,Ambattur,13.08486,79.99441,1462119,Auto & Commercial Fleet,1
+CLM-000582,POL-00257,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:19:13.473460,OMR IT Corridor,13.16303,80.22666,1661515,Residential Property (Home),0
+CLM-000583,POL-00889,CAT-2026-03,Flooded Ground Floor,High,Reported,2026-10-22T01:25:13.299803,Ambattur,12.97314,80.27531,3201711,Residential Property (Home),1
+CLM-000584,POL-01867,CAT-2026-03,Signboard & Shopfront Destruction,Medium,Reported,2026-10-22T01:30:03.865007,Adyar Basin,13.11061,80.20752,3597424,SME Business & Retail Interruption,0
+CLM-000585,POL-01214,CAT-2026-03,Utility Shutdown Interruption,Medium,Reported,2026-10-22T01:24:24.933256,Adyar Basin,13.10415,80.34152,1831117,SME Business & Retail Interruption,0
+CLM-000586,POL-02465,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:31:15.616974,Ambattur,12.89138,80.14417,1104998,Residential Property (Home),0
+CLM-000587,POL-02525,CAT-2026-03,Façade & Glazing Blown Out,High,Reported,2026-10-22T01:34:54.762389,Ambattur,13.15013,80.13247,79257373,Commercial Property & Industrial,1
+CLM-000588,POL-02736,CAT-2026-03,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T01:28:23.737501,Velachery,13.11063,80.45161,14734159,Commercial Property & Industrial,1
+CLM-000589,POL-00558,CAT-2026-03,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T01:40:02.491878,Ennore Coastal,12.88248,80.10557,1603974,Residential Property (Home),0
+CLM-000590,POL-00122,CAT-2026-03,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T01:24:45.125881,Ennore Coastal,13.18789,80.36339,370088,Auto & Commercial Fleet,0
+CLM-000591,POL-01272,CAT-2026-03,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T01:29:31.227394,OMR IT Corridor,12.91476,80.3069,33612476,Commercial Property & Industrial,1
+CLM-000592,POL-00628,CAT-2026-03,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T01:27:32.902312,Velachery,13.04894,80.32904,171096,Auto & Commercial Fleet,0
+CLM-000593,POL-00905,CAT-2026-03,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T01:21:37.596866,Tambaram,13.04783,80.1508,28844243,Commercial Property & Industrial,1
+CLM-000594,POL-02075,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:25:53.736019,Velachery,13.17766,80.15295,2279827,Residential Property (Home),0
+CLM-000595,POL-00427,CAT-2026-03,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T01:31:37.278281,Ambattur,12.88546,80.03964,8148910,Commercial Property & Industrial,1
+CLM-000596,POL-00346,CAT-2026-03,Inventory Water Damage,Medium,Reported,2026-10-22T01:21:53.057367,Ambattur,13.04886,80.10943,2460550,SME Business & Retail Interruption,0
+CLM-000597,POL-00240,CAT-2026-03,Signboard & Shopfront Destruction,High,Reported,2026-10-22T01:27:21.460981,Tambaram,12.93759,80.34233,18660836,SME Business & Retail Interruption,1
+CLM-000598,POL-02600,CAT-2026-03,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T01:30:24.322005,OMR IT Corridor,13.37472,80.10063,39015529,Commercial Property & Industrial,1
+CLM-000599,POL-02319,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:12:32.803668,Ennore Coastal,12.96104,80.20238,983003,Residential Property (Home),0
+CLM-000600,POL-01807,CAT-2026-03,Signboard & Shopfront Destruction,High,Reported,2026-10-22T01:32:33.092975,Tambaram,12.78534,80.5559,7110128,SME Business & Retail Interruption,1
+CLM-000601,POL-01050,CAT-2026-03,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T01:33:49.099512,Velachery,13.1773,80.06529,1050511,Auto & Commercial Fleet,1
+CLM-000602,POL-00937,CAT-2026-03,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T01:38:27.346669,Adyar Basin,12.99534,79.96122,1147249,Auto & Commercial Fleet,0
+CLM-000603,POL-00085,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:22:58.110581,Ambattur,13.40405,80.00858,1043220,Residential Property (Home),0
+CLM-000604,POL-01042,CAT-2026-03,Flooded Ground Floor,High,Reported,2026-10-22T01:28:49.091325,Adyar Basin,12.96596,80.19352,4098016,Residential Property (Home),1
+CLM-000605,POL-02262,CAT-2026-03,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T01:27:44.966254,Tambaram,12.95812,80.17482,18785632,Commercial Property & Industrial,1
+CLM-000606,POL-00869,CAT-2026-03,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T01:21:59.904098,OMR IT Corridor,13.1936,80.10924,126293,Auto & Commercial Fleet,0
+CLM-000607,POL-00270,CAT-2026-03,Debris Windshield & Panel Impact,High,Reported,2026-10-22T01:40:34.115443,Velachery,13.36078,80.37046,993347,Auto & Commercial Fleet,1
+CLM-000608,POL-00667,CAT-2026-03,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T01:23:27.066808,Ambattur,12.92734,80.46753,8483234,Commercial Property & Industrial,1
+CLM-000609,POL-01533,CAT-2026-03,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T01:22:30.088501,Adyar Basin,13.10933,80.11717,1035118,Auto & Commercial Fleet,1
+CLM-000610,POL-00134,CAT-2026-03,Structural Wall Crack,High,Reported,2026-10-22T01:17:25.118706,Ennore Coastal,13.14898,80.28244,642917,Residential Property (Home),1
+CLM-000611,POL-01232,CAT-2026-03,Roof Tear-off & Water Ingress,Catastrophic,Reported,2026-10-22T01:29:06.523178,Velachery,12.90294,80.4841,4044846,Residential Property (Home),1
+CLM-000612,POL-00671,CAT-2026-03,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T01:23:04.518635,OMR IT Corridor,13.07535,80.24086,519549,Residential Property (Home),0
+CLM-000613,POL-02608,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:26:07.503259,Ennore Coastal,13.05562,80.50999,2055437,Residential Property (Home),0
+CLM-000614,POL-01342,CAT-2026-03,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T01:39:16.119323,OMR IT Corridor,12.94064,80.52582,2512620,Commercial Property & Industrial,1
+CLM-000615,POL-02111,CAT-2026-03,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T01:36:33.545446,Tambaram,13.17412,80.05993,144674,Auto & Commercial Fleet,0
+CLM-000616,POL-00783,CAT-2026-03,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T01:14:43.324853,OMR IT Corridor,13.04724,80.33529,2736001,Commercial Property & Industrial,1
+CLM-000617,POL-01488,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:31:07.409538,OMR IT Corridor,13.31581,80.41,2329989,Residential Property (Home),0
+CLM-000618,POL-01400,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:18:09.843308,Ambattur,13.04635,80.03622,3830958,Residential Property (Home),0
+CLM-000619,POL-02631,CAT-2026-03,Submerged Engine Hydro-lock,Low,Reported,2026-10-22T01:31:22.452224,Ennore Coastal,13.08253,80.43949,66549,Auto & Commercial Fleet,0
+CLM-000620,POL-01279,CAT-2026-03,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T01:33:16.872353,Ennore Coastal,12.82239,80.26548,576581,Auto & Commercial Fleet,0
+CLM-000621,POL-02715,CAT-2026-03,Signboard & Shopfront Destruction,High,Reported,2026-10-22T01:13:05.101169,Velachery,12.93451,80.38452,16175627,SME Business & Retail Interruption,1
+CLM-000622,POL-01461,CAT-2026-03,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T01:31:07.042838,Ambattur,12.93724,80.29889,70723645,Commercial Property & Industrial,1
+CLM-000623,POL-00983,CAT-2026-03,Debris Windshield & Panel Impact,Catastrophic,Reported,2026-10-22T01:34:31.172340,Adyar Basin,13.29758,80.38956,2604922,Auto & Commercial Fleet,1
+CLM-000624,POL-02773,CAT-2026-03,Signboard & Shopfront Destruction,Medium,Reported,2026-10-22T01:31:34.715524,OMR IT Corridor,13.1934,80.16852,6838043,SME Business & Retail Interruption,0
+CLM-000625,POL-00967,CAT-2026-03,Debris Windshield & Panel Impact,Catastrophic,Reported,2026-10-22T01:01:11.860419,Ennore Coastal,13.0745,80.25117,1505459,Auto & Commercial Fleet,1
+CLM-000626,POL-02653,CAT-2026-03,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T01:36:22.976024,Adyar Basin,13.02743,80.36792,9133925,Residential Property (Home),1
+CLM-000627,POL-01153,CAT-2026-03,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T01:29:34.913263,Tambaram,12.94668,80.17522,334790,Auto & Commercial Fleet,0
+CLM-000628,POL-02513,CAT-2026-03,Structural Wall Crack,Low,Reported,2026-10-22T01:30:26.773674,Velachery,13.18993,80.02112,453454,Residential Property (Home),0
+CLM-000629,POL-02765,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:28:40.631512,Ennore Coastal,13.02342,80.27025,2751214,Residential Property (Home),0
+CLM-000630,POL-01413,CAT-2026-03,Signboard & Shopfront Destruction,Medium,Reported,2026-10-22T01:28:53.495982,OMR IT Corridor,12.87014,80.25714,1336894,SME Business & Retail Interruption,0
+CLM-000631,POL-02496,CAT-2026-03,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T01:28:15.673871,Velachery,13.09354,80.18692,622314,Auto & Commercial Fleet,0
+CLM-000632,POL-01644,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:21:38.771834,Ambattur,13.30805,80.04489,3810384,Residential Property (Home),0
+CLM-000633,POL-00406,CAT-2026-03,Flooded Ground Floor,High,Reported,2026-10-22T01:39:25.159966,OMR IT Corridor,12.95804,80.32647,1428525,Residential Property (Home),1
+CLM-000634,POL-00468,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:23:29.976691,Adyar Basin,12.93012,80.14544,1328755,Residential Property (Home),0
+CLM-000635,POL-02563,CAT-2026-03,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T01:22:56.815124,Ennore Coastal,13.12336,80.33661,5254218,Commercial Property & Industrial,1
+CLM-000636,POL-00756,CAT-2026-03,Submerged Engine Hydro-lock,High,Reported,2026-10-22T01:18:55.284380,Velachery,13.25292,80.22519,1230267,Auto & Commercial Fleet,1
+CLM-000637,POL-01049,CAT-2026-03,Signboard & Shopfront Destruction,Medium,Reported,2026-10-22T01:32:12.104830,Adyar Basin,13.09285,80.30531,4979462,SME Business & Retail Interruption,0
+CLM-000638,POL-02689,CAT-2026-03,Crushed by Falling Tree/Pole,Catastrophic,Reported,2026-10-22T00:58:27.233461,Adyar Basin,13.11041,80.20493,1858342,Auto & Commercial Fleet,1
+CLM-000639,POL-00034,CAT-2026-03,Signboard & Shopfront Destruction,Low,Reported,2026-10-22T01:24:43.607672,Tambaram,13.27206,80.29458,1763686,SME Business & Retail Interruption,0
+CLM-000640,POL-00366,CAT-2026-03,Flooded Ground Floor,Catastrophic,Reported,2026-10-22T01:37:22.071207,Tambaram,13.21844,80.35726,4598972,Residential Property (Home),1
+CLM-000641,POL-02195,CAT-2026-03,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T01:18:53.634021,OMR IT Corridor,13.05102,80.12566,233710,Residential Property (Home),0
+CLM-000642,POL-01540,CAT-2026-03,Flooded Ground Floor,Low,Reported,2026-10-22T01:34:44.706443,Velachery,12.85972,80.09905,298305,Residential Property (Home),0
+CLM-000643,POL-02143,CAT-2026-03,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T01:12:59.261862,Ambattur,13.12731,80.18709,9738327,Commercial Property & Industrial,1
+CLM-000644,POL-01521,CAT-2026-03,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T01:23:45.369553,Ennore Coastal,13.12542,80.01746,22215474,Commercial Property & Industrial,1
+CLM-000645,POL-02300,CAT-2026-03,Inventory Water Damage,High,Reported,2026-10-22T01:30:18.279576,Adyar Basin,13.05868,80.1803,5114271,SME Business & Retail Interruption,1
+CLM-000646,POL-00832,CAT-2026-03,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T01:28:47.684105,Ennore Coastal,13.14724,80.19029,26345084,Commercial Property & Industrial,1
+CLM-000647,POL-00580,CAT-2026-03,Structural Wall Crack,Catastrophic,Reported,2026-10-22T01:25:55.615331,OMR IT Corridor,13.13313,80.52361,8745835,Residential Property (Home),1
+CLM-000648,POL-02323,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:26:31.307518,OMR IT Corridor,13.17705,79.98613,4624754,Residential Property (Home),0
+CLM-000649,POL-00208,CAT-2026-03,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T01:42:42.743604,Tambaram,13.03541,80.22533,139221,Auto & Commercial Fleet,0
+CLM-000650,POL-00206,CAT-2026-03,Debris Windshield & Panel Impact,High,Reported,2026-10-22T01:40:44.304011,OMR IT Corridor,13.14833,80.49122,1454115,Auto & Commercial Fleet,1
+CLM-000651,POL-00322,CAT-2026-03,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T01:35:52.921031,Adyar Basin,12.59269,80.14817,21403870,Commercial Property & Industrial,1
+CLM-000652,POL-00718,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:18:33.409482,Velachery,13.24035,80.19558,2150001,Residential Property (Home),0
+CLM-000653,POL-02058,CAT-2026-03,Roof Tear-off & Water Ingress,Catastrophic,Reported,2026-10-22T01:38:22.680140,OMR IT Corridor,13.15945,80.12528,7938762,Residential Property (Home),1
+CLM-000654,POL-02500,CAT-2026-03,Submerged Engine Hydro-lock,Catastrophic,Reported,2026-10-22T01:37:24.620888,Velachery,13.01284,80.26576,783617,Auto & Commercial Fleet,1
+CLM-000655,POL-00286,CAT-2026-03,Submerged Engine Hydro-lock,Catastrophic,Reported,2026-10-22T01:19:17.177974,Adyar Basin,13.22904,80.28674,1503301,Auto & Commercial Fleet,1
+CLM-000656,POL-00057,CAT-2026-03,Structural Wall Crack,Catastrophic,Reported,2026-10-22T01:10:21.053100,Velachery,13.11638,80.37946,1469723,Residential Property (Home),1
+CLM-000657,POL-02154,CAT-2026-03,Structural Wall Crack,Low,Reported,2026-10-22T01:37:39.520606,Adyar Basin,12.98698,80.1262,336712,Residential Property (Home),0
+CLM-000658,POL-02332,CAT-2026-03,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T01:14:10.460369,Velachery,13.08691,80.29921,1216399,Auto & Commercial Fleet,1
+CLM-000659,POL-01859,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:31:43.598777,Ambattur,13.09923,80.67854,1364373,Residential Property (Home),0
+CLM-000660,POL-01084,CAT-2026-03,Submerged Engine Hydro-lock,Catastrophic,Reported,2026-10-22T01:20:17.092111,Velachery,13.00222,80.08781,2342291,Auto & Commercial Fleet,1
+CLM-000661,POL-01446,CAT-2026-03,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T01:31:06.294257,Tambaram,12.97989,80.18461,18770942,Commercial Property & Industrial,1
+CLM-000662,POL-01711,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:32:27.769626,Tambaram,12.95844,80.28369,2162746,Residential Property (Home),0
+CLM-000663,POL-02307,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:12:02.625670,OMR IT Corridor,12.99199,79.90346,2738412,Residential Property (Home),0
+CLM-000664,POL-02083,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:27:00.925600,Ennore Coastal,13.51376,80.23386,2707637,Residential Property (Home),0
+CLM-000665,POL-00758,CAT-2026-03,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T01:36:44.554452,Adyar Basin,13.04178,80.32112,68985,Auto & Commercial Fleet,0
+CLM-000666,POL-01897,CAT-2026-03,Flooded Ground Floor,High,Reported,2026-10-22T01:24:57.267240,Velachery,13.23289,80.19329,1047304,Residential Property (Home),1
+CLM-000667,POL-01759,CAT-2026-03,Flooded Ground Floor,High,Reported,2026-10-22T01:26:01.509545,Tambaram,13.16854,80.20362,3144727,Residential Property (Home),1
+CLM-000668,POL-00352,CAT-2026-03,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T01:23:44.669543,Tambaram,13.14439,80.35505,167826,Auto & Commercial Fleet,0
+CLM-000669,POL-01810,CAT-2026-03,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T01:25:52.033874,Tambaram,12.82433,80.41663,5231308,Residential Property (Home),1
+CLM-000670,POL-01439,CAT-2026-03,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T01:32:14.227203,Ennore Coastal,13.34928,80.16155,39799797,Commercial Property & Industrial,1
+CLM-000671,POL-01826,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:30:05.031941,Velachery,13.01879,80.04239,2081808,Residential Property (Home),0
+CLM-000672,POL-00337,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:29:48.578737,Ennore Coastal,13.0175,80.29717,4153943,Residential Property (Home),0
+CLM-000673,POL-00117,CAT-2026-03,Flooded Ground Floor,High,Reported,2026-10-22T01:28:45.292262,OMR IT Corridor,13.26277,80.27294,5393148,Residential Property (Home),1
+CLM-000674,POL-00077,CAT-2026-03,Submerged Engine Hydro-lock,High,Reported,2026-10-22T01:39:22.016857,Velachery,13.08815,80.10998,2185095,Auto & Commercial Fleet,1
+CLM-000675,POL-02441,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:38:34.506111,Ennore Coastal,12.95255,80.36732,1279507,Residential Property (Home),0
+CLM-000676,POL-02230,CAT-2026-03,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T01:25:13.866856,Ennore Coastal,12.92797,80.22657,8691056,Commercial Property & Industrial,1
+CLM-000677,POL-01121,CAT-2026-03,Flooded Ground Floor,Low,Reported,2026-10-22T01:30:53.004522,Ambattur,13.22682,80.50176,1233366,Residential Property (Home),0
+CLM-000678,POL-01215,CAT-2026-03,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T01:32:58.954865,Ambattur,13.06916,80.10266,34490755,Commercial Property & Industrial,1
+CLM-000679,POL-01472,CAT-2026-03,Signboard & Shopfront Destruction,Low,Reported,2026-10-22T01:21:45.547659,Tambaram,13.09117,80.14971,2680566,SME Business & Retail Interruption,0
+CLM-000680,POL-02763,CAT-2026-03,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T01:16:10.666631,Tambaram,13.13217,80.29331,11163521,Commercial Property & Industrial,1
+CLM-000681,POL-00572,CAT-2026-03,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T01:34:37.594414,Ambattur,13.11459,80.28223,51375912,Commercial Property & Industrial,1
+CLM-000682,POL-02545,CAT-2026-03,Flooded Ground Floor,Catastrophic,Reported,2026-10-22T01:33:19.124829,Ambattur,13.09933,80.00594,8708275,Residential Property (Home),1
+CLM-000683,POL-00159,CAT-2026-03,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T01:02:55.361221,Tambaram,13.17035,80.46161,171416,Auto & Commercial Fleet,0
+CLM-000684,POL-00951,CAT-2026-03,Flooded Ground Floor,Low,Reported,2026-10-22T01:15:57.814217,Tambaram,13.08219,80.39632,384341,Residential Property (Home),0
+CLM-000685,POL-02052,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:38:08.930818,Velachery,12.82754,80.30741,1262193,Residential Property (Home),0
+CLM-000686,POL-00055,CAT-2026-03,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T01:30:31.511570,Adyar Basin,13.11184,80.453,19043238,Commercial Property & Industrial,1
+CLM-000687,POL-00108,CAT-2026-03,Structural Wall Crack,High,Reported,2026-10-22T01:27:12.117349,Tambaram,13.0119,80.29906,7787587,Residential Property (Home),1
+CLM-000688,POL-01217,CAT-2026-03,Structural Wall Crack,High,Reported,2026-10-22T01:37:04.332710,Ambattur,13.04083,80.13496,6134614,Residential Property (Home),1
+CLM-000689,POL-00938,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:18:29.944960,Ambattur,13.26052,80.40552,2406366,Residential Property (Home),0
+CLM-000690,POL-02598,CAT-2026-03,Debris Windshield & Panel Impact,High,Reported,2026-10-22T01:27:14.058354,Ennore Coastal,13.24665,80.41524,864561,Auto & Commercial Fleet,1
+CLM-000691,POL-02755,CAT-2026-03,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T01:34:08.761651,Adyar Basin,13.30062,80.26331,583388,Residential Property (Home),0
+CLM-000692,POL-01368,CAT-2026-03,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T01:19:14.227001,OMR IT Corridor,13.05159,80.30085,476997,Auto & Commercial Fleet,0
+CLM-000693,POL-00355,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:34:01.081104,Ambattur,12.98531,80.52213,377487,Residential Property (Home),0
+CLM-000694,POL-01370,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:09:43.181496,Velachery,12.99051,80.14528,1214373,Residential Property (Home),0
+CLM-000695,POL-01491,CAT-2026-03,Warehouse Flood & Stock Rupture,Catastrophic,Reported,2026-10-22T01:30:37.416769,Velachery,13.07217,80.31731,16281285,Commercial Property & Industrial,1
+CLM-000696,POL-02128,CAT-2026-03,Debris Windshield & Panel Impact,High,Reported,2026-10-22T01:32:55.033721,OMR IT Corridor,13.11552,80.14438,1248461,Auto & Commercial Fleet,1
+CLM-000697,POL-01047,CAT-2026-03,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T01:15:54.769269,Velachery,13.09373,80.45142,299763,Auto & Commercial Fleet,0
+CLM-000698,POL-00864,CAT-2026-03,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T01:06:38.346025,OMR IT Corridor,12.96401,80.17721,7421264,Commercial Property & Industrial,1
+CLM-000699,POL-00839,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:24:28.592492,Ennore Coastal,13.00184,80.11598,1087185,Residential Property (Home),0
+CLM-000700,POL-01257,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:32:57.258728,Ambattur,12.95056,80.04634,1302642,Residential Property (Home),0
+CLM-000701,POL-00379,CAT-2026-03,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T01:24:14.152516,Ambattur,13.04397,80.0364,366619,Auto & Commercial Fleet,0
+CLM-000702,POL-01583,CAT-2026-03,Crushed by Falling Tree/Pole,Catastrophic,Reported,2026-10-22T01:27:26.704540,Ambattur,13.23121,80.40199,1926808,Auto & Commercial Fleet,1
+CLM-000703,POL-02425,CAT-2026-03,Debris Windshield & Panel Impact,Catastrophic,Reported,2026-10-22T01:24:50.769032,Ennore Coastal,13.36899,80.29213,2067105,Auto & Commercial Fleet,1
+CLM-000704,POL-02265,CAT-2026-03,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T01:16:04.853770,OMR IT Corridor,12.96653,80.38998,1113162,Auto & Commercial Fleet,1
+CLM-000705,POL-02603,CAT-2026-03,Structural Wall Crack,High,Reported,2026-10-22T01:28:29.847099,Ambattur,13.0594,80.17807,4531458,Residential Property (Home),1
+CLM-000706,POL-00130,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:25:53.235577,OMR IT Corridor,12.98701,80.46042,3844967,Residential Property (Home),0
+CLM-000707,POL-00795,CAT-2026-03,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T01:16:25.126355,OMR IT Corridor,13.13962,80.27268,127830,Auto & Commercial Fleet,0
+CLM-000708,POL-02380,CAT-2026-03,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T01:15:00.130102,Ennore Coastal,13.04136,80.22253,11860451,Commercial Property & Industrial,1
+CLM-000709,POL-01140,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:31:46.303882,OMR IT Corridor,13.29949,80.14967,533487,Residential Property (Home),0
+CLM-000710,POL-00759,CAT-2026-03,Structural Wall Crack,High,Reported,2026-10-22T01:34:09.826607,OMR IT Corridor,12.86247,80.3845,1133081,Residential Property (Home),1
+CLM-000711,POL-01177,CAT-2026-03,Flooded Ground Floor,Low,Reported,2026-10-22T01:33:24.563602,Adyar Basin,12.95703,80.21708,723765,Residential Property (Home),0
+CLM-000712,POL-00660,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:21:54.233819,Ennore Coastal,13.18808,80.48439,259946,Residential Property (Home),0
+CLM-000713,POL-00324,CAT-2026-03,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T01:30:25.862425,OMR IT Corridor,12.85048,80.33476,165691,Auto & Commercial Fleet,0
+CLM-000714,POL-02778,CAT-2026-03,Crushed by Falling Tree/Pole,Catastrophic,Reported,2026-10-22T01:27:28.511671,Velachery,13.29546,80.2991,2886511,Auto & Commercial Fleet,1
+CLM-000715,POL-02257,CAT-2026-03,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T01:22:57.983570,Velachery,12.99681,80.18374,733693,Auto & Commercial Fleet,0
+CLM-000716,POL-00378,CAT-2026-03,Flooded Ground Floor,High,Reported,2026-10-22T01:30:33.859459,Ennore Coastal,13.00968,80.29962,1013306,Residential Property (Home),1
+CLM-000717,POL-02672,CAT-2026-03,Flooded Ground Floor,High,Reported,2026-10-22T01:23:23.435487,Velachery,12.94464,80.43542,4247506,Residential Property (Home),1
+CLM-000718,POL-00294,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:23:09.470583,Adyar Basin,12.88328,80.34014,1098884,Residential Property (Home),0
+CLM-000719,POL-02495,CAT-2026-03,Inventory Water Damage,Medium,Reported,2026-10-22T01:18:11.212125,OMR IT Corridor,13.45337,80.2836,3680433,SME Business & Retail Interruption,0
+CLM-000720,POL-01539,CAT-2026-03,Submerged Engine Hydro-lock,High,Reported,2026-10-22T01:13:54.639771,Ambattur,12.92303,80.40012,1051550,Auto & Commercial Fleet,1
+CLM-000721,POL-00820,CAT-2026-03,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T01:26:30.021959,Ambattur,13.013,80.40408,249207,Auto & Commercial Fleet,0
+CLM-000722,POL-00986,CAT-2026-03,Warehouse Flood & Stock Rupture,Catastrophic,Reported,2026-10-22T01:25:42.025264,Adyar Basin,13.10116,80.37714,63084461,Commercial Property & Industrial,1
+CLM-000723,POL-00364,CAT-2026-03,Flooded Ground Floor,Low,Reported,2026-10-22T01:32:48.743011,Ambattur,12.95732,80.27527,512195,Residential Property (Home),0
+CLM-000724,POL-02407,CAT-2026-03,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T01:23:57.637550,OMR IT Corridor,13.2808,80.30987,12908033,Commercial Property & Industrial,1
+CLM-000725,POL-00489,CAT-2026-03,Structural Wall Crack,High,Reported,2026-10-22T01:29:23.994134,Ennore Coastal,13.14117,80.43669,10047125,Residential Property (Home),1
+CLM-000726,POL-02659,CAT-2026-03,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T01:30:05.891547,Ennore Coastal,12.92122,80.41409,44937585,Commercial Property & Industrial,1
+CLM-000727,POL-02343,CAT-2026-03,Crushed by Falling Tree/Pole,Catastrophic,Reported,2026-10-22T01:33:02.420447,Tambaram,12.98401,80.38484,3300518,Auto & Commercial Fleet,1
+CLM-000728,POL-01004,CAT-2026-03,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T01:31:38.120721,Tambaram,13.26928,80.30951,10007951,Residential Property (Home),1
+CLM-000729,POL-00008,CAT-2026-03,Façade & Glazing Blown Out,Catastrophic,Reported,2026-10-22T01:27:13.038304,Ennore Coastal,12.99187,80.35368,47039506,Commercial Property & Industrial,1
+CLM-000730,POL-02777,CAT-2026-03,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T01:19:28.405740,Tambaram,13.2855,80.26576,40528457,Commercial Property & Industrial,1
+CLM-000731,POL-02070,CAT-2026-03,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T01:22:59.432896,Ennore Coastal,13.21532,80.17531,2082684,Residential Property (Home),1
+CLM-000732,POL-01900,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:18:54.582908,Ambattur,13.15205,80.21724,1954646,Residential Property (Home),0
+CLM-000733,POL-01396,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:24:38.100460,Tambaram,13.29634,80.60799,1713077,Residential Property (Home),0
+CLM-000734,POL-00481,CAT-2026-03,Utility Shutdown Interruption,Catastrophic,Reported,2026-10-22T01:15:14.821930,Velachery,13.08793,80.34416,13988009,SME Business & Retail Interruption,1
+CLM-000735,POL-00955,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:22:58.276617,Ambattur,13.10406,80.34746,335200,Residential Property (Home),0
+CLM-000736,POL-01244,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:22:04.520124,OMR IT Corridor,13.00759,80.19326,2600818,Residential Property (Home),0
+CLM-000737,POL-01311,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:22:22.366834,Ambattur,12.94141,80.2651,1976206,Residential Property (Home),0
+CLM-000738,POL-01756,CAT-2026-03,Structural Wall Crack,Medium,Reported,2026-10-22T01:28:43.448475,Ambattur,13.16178,80.35594,4607055,Residential Property (Home),0
+CLM-000739,POL-00596,CAT-2026-03,Utility Shutdown Interruption,Medium,Reported,2026-10-22T01:26:14.562177,Ambattur,13.19673,80.21011,1026474,SME Business & Retail Interruption,0
+CLM-000740,POL-01687,CAT-2026-03,Submerged Engine Hydro-lock,Low,Reported,2026-10-22T01:28:33.623346,Ennore Coastal,13.28594,80.17207,104769,Auto & Commercial Fleet,0
+CLM-000741,POL-01526,CAT-2026-03,Structural Wall Crack,High,Reported,2026-10-22T01:37:52.483640,Tambaram,13.26013,80.1846,4005368,Residential Property (Home),1
+CLM-000742,POL-02577,CAT-2026-03,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T01:21:05.919960,Ennore Coastal,13.04036,79.98649,11680754,Commercial Property & Industrial,1
+CLM-000743,POL-02570,CAT-2026-03,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T01:09:24.951870,Ennore Coastal,13.07691,80.16059,541687,Auto & Commercial Fleet,0
+CLM-000744,POL-01134,CAT-2026-03,Structural Wall Crack,Low,Reported,2026-10-22T01:26:42.743851,Adyar Basin,13.17483,80.1615,443056,Residential Property (Home),0
+CLM-000745,POL-01995,CAT-2026-03,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T01:22:42.670681,OMR IT Corridor,13.25135,80.24233,304587,Residential Property (Home),0
+CLM-000746,POL-00217,CAT-2026-03,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T01:35:39.042699,Ennore Coastal,13.10546,80.30475,276397,Residential Property (Home),0
+CLM-000747,POL-01093,CAT-2026-03,Structural Wall Crack,High,Reported,2026-10-22T01:27:53.485405,OMR IT Corridor,13.18005,79.98301,8409095,Residential Property (Home),1
+CLM-000748,POL-00838,CAT-2026-03,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T01:28:26.291977,Tambaram,13.02083,80.36472,240744,Auto & Commercial Fleet,0
+CLM-000749,POL-02800,CAT-2026-03,Crushed by Falling Tree/Pole,Catastrophic,Reported,2026-10-22T01:19:00.848144,Tambaram,12.84467,80.20002,2214740,Auto & Commercial Fleet,1
+CLM-000750,POL-02668,CAT-2026-03,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T01:10:01.732666,OMR IT Corridor,13.13612,80.32712,559114,Residential Property (Home),0
+CLM-000751,POL-00424,CAT-2026-03,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T01:35:09.470719,Ennore Coastal,13.10376,80.17198,265023,Auto & Commercial Fleet,0
+CLM-000752,POL-01838,CAT-2026-03,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T01:20:32.676264,Adyar Basin,13.17886,80.4367,171780,Auto & Commercial Fleet,0
+CLM-000753,POL-02627,CAT-2026-03,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T01:34:10.593977,Ennore Coastal,12.88741,80.20369,5584474,Commercial Property & Industrial,1
+CLM-000754,POL-02338,CAT-2026-03,Submerged Engine Hydro-lock,High,Reported,2026-10-22T01:24:39.914660,Ennore Coastal,13.20537,80.02635,1002881,Auto & Commercial Fleet,1
+CLM-000755,POL-00399,CAT-2026-03,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T01:11:48.625064,Ennore Coastal,13.13347,80.33021,38763880,Commercial Property & Industrial,1
+CLM-000756,POL-01427,CAT-2026-03,Flooded Ground Floor,Medium,Reported,2026-10-22T01:33:26.018453,Ennore Coastal,12.99871,80.18441,466003,Residential Property (Home),0
+CLM-000757,POL-02557,CAT-2026-03,Inventory Water Damage,Low,Reported,2026-10-22T01:18:41.991591,Adyar Basin,13.26791,79.99923,2654738,SME Business & Retail Interruption,0
+CLM-000758,POL-01361,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:00:58.852538,Tambaram,12.83205,80.33602,2062065,Residential Property (Home),0
+CLM-000759,POL-00760,CAT-2026-03,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T01:05:31.954238,Tambaram,13.25844,80.38341,1789710,Residential Property (Home),0
+CLM-000760,POL-01425,CAT-2026-03,Flooded Ground Floor,Catastrophic,Reported,2026-10-22T01:33:14.589241,Tambaram,13.0408,80.09094,3154788,Residential Property (Home),1
+CLM-000761,POL-02150,CAT-2026-04,Utility Shutdown Interruption,Low,Reported,2026-10-22T09:23:00.159895,Konark Coastal,19.90972,85.98075,1298899,SME Business & Retail Interruption,0
+CLM-000762,POL-00135,CAT-2026-04,Structural Wall Crack,High,Reported,2026-10-22T09:36:50.813738,Jagatsinghpur,19.94803,85.74976,3755635,Residential Property (Home),1
+CLM-000763,POL-01053,CAT-2026-04,Signboard & Shopfront Destruction,Medium,Reported,2026-10-22T09:37:08.445593,Puri Beach,19.98521,86.12453,3882826,SME Business & Retail Interruption,0
+CLM-000764,POL-00737,CAT-2026-04,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T09:32:17.592893,Paradip Port,19.97142,85.63529,315913,Auto & Commercial Fleet,0
+CLM-000765,POL-00716,CAT-2026-04,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T09:35:51.046905,Paradip Port,20.20141,85.78172,215639,Auto & Commercial Fleet,0
+CLM-000766,POL-00575,CAT-2026-04,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T09:33:04.629045,Konark Coastal,19.90329,85.82287,10094007,Commercial Property & Industrial,1
+CLM-000767,POL-00147,CAT-2026-04,Inventory Water Damage,High,Reported,2026-10-22T09:33:19.312194,Puri Beach,19.46737,86.10077,11402014,SME Business & Retail Interruption,1
+CLM-000768,POL-00851,CAT-2026-04,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T09:26:01.153569,Puri Beach,19.94671,85.55681,7050985,Commercial Property & Industrial,1
+CLM-000769,POL-02503,CAT-2026-04,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T09:29:19.337193,Jagatsinghpur,20.07984,85.83489,670419,Auto & Commercial Fleet,1
+CLM-000770,POL-00672,CAT-2026-04,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T09:31:55.784809,Kendrapara Delta,20.34562,85.73287,133034,Residential Property (Home),0
+CLM-000771,POL-00973,CAT-2026-04,Inventory Water Damage,Catastrophic,Reported,2026-10-22T09:18:54.195931,Puri Beach,19.90997,85.55014,2870178,SME Business & Retail Interruption,1
+CLM-000772,POL-02329,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:23:48.999079,Jagatsinghpur,19.79671,85.75838,86541,Residential Property (Home),0
+CLM-000773,POL-01014,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:26:19.171157,Puri Beach,19.75538,86.04089,8245600,Residential Property (Home),1
+CLM-000774,POL-02774,CAT-2026-04,Façade & Glazing Blown Out,High,Reported,2026-10-22T09:14:50.451568,Jagatsinghpur,19.96939,86.15665,35307624,Commercial Property & Industrial,1
+CLM-000775,POL-00241,CAT-2026-04,Roof Tear-off & Water Ingress,Catastrophic,Reported,2026-10-22T09:15:12.169105,Puri Beach,19.75622,85.60869,13158943,Residential Property (Home),1
+CLM-000776,POL-00285,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:28:28.964889,Jagatsinghpur,19.79511,85.95413,2643086,Residential Property (Home),0
+CLM-000777,POL-00261,CAT-2026-04,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T09:30:57.971322,Puri Beach,19.55391,86.18096,20732716,Commercial Property & Industrial,1
+CLM-000778,POL-01114,CAT-2026-04,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T08:52:22.543415,Kendrapara Delta,19.82469,85.76272,1239559,Auto & Commercial Fleet,0
+CLM-000779,POL-02082,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:27:20.335330,Jagatsinghpur,19.77566,85.91865,234496,Residential Property (Home),0
+CLM-000780,POL-01000,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:18:04.767485,Puri Beach,19.7337,85.71397,813253,Residential Property (Home),0
+CLM-000781,POL-00787,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:22:57.005127,Konark Coastal,20.21472,85.83136,1043048,Residential Property (Home),0
+CLM-000782,POL-01354,CAT-2026-04,Crushed by Falling Tree/Pole,Catastrophic,Reported,2026-10-22T09:19:45.625253,Jagatsinghpur,20.03768,85.8356,2324124,Auto & Commercial Fleet,1
+CLM-000783,POL-01713,CAT-2026-04,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T09:33:30.915190,Paradip Port,19.70305,85.88899,149281,Auto & Commercial Fleet,0
+CLM-000784,POL-00238,CAT-2026-04,Structural Wall Crack,Medium,Reported,2026-10-22T09:16:57.649219,Puri Beach,19.97089,85.79856,2127776,Residential Property (Home),0
+CLM-000785,POL-00195,CAT-2026-04,Inventory Water Damage,Medium,Reported,2026-10-22T09:15:39.199919,Konark Coastal,19.91018,85.63449,2661061,SME Business & Retail Interruption,0
+CLM-000786,POL-02534,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:25:09.109401,Jagatsinghpur,19.25292,86.04964,1393807,Residential Property (Home),0
+CLM-000787,POL-00295,CAT-2026-04,Structural Wall Crack,High,Reported,2026-10-22T09:31:53.215205,Konark Coastal,19.85443,85.73425,2065036,Residential Property (Home),1
+CLM-000788,POL-01447,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:30:17.385668,Paradip Port,19.613,85.86974,807492,Residential Property (Home),0
+CLM-000789,POL-01332,CAT-2026-04,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T09:09:00.434911,Jagatsinghpur,19.82454,85.86746,236651,Auto & Commercial Fleet,0
+CLM-000790,POL-02748,CAT-2026-04,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T09:34:56.819264,Puri Beach,20.16955,85.76673,420434,Auto & Commercial Fleet,0
+CLM-000791,POL-00586,CAT-2026-04,Shed Collapsed / Machineries Soaked,Catastrophic,Reported,2026-10-22T09:24:27.092731,Konark Coastal,20.04239,85.67633,56010995,Commercial Property & Industrial,1
+CLM-000792,POL-01767,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:32:47.293025,Konark Coastal,19.71069,85.5993,1264437,Residential Property (Home),1
+CLM-000793,POL-02072,CAT-2026-04,Utility Shutdown Interruption,Catastrophic,Reported,2026-10-22T09:16:33.018791,Konark Coastal,19.69269,85.79282,22799156,SME Business & Retail Interruption,1
+CLM-000794,POL-00553,CAT-2026-04,Signboard & Shopfront Destruction,Low,Reported,2026-10-22T09:30:07.541166,Jagatsinghpur,20.11269,85.95616,1248772,SME Business & Retail Interruption,0
+CLM-000795,POL-01777,CAT-2026-04,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T09:38:23.354953,Jagatsinghpur,20.02931,85.39175,7011786,Commercial Property & Industrial,1
+CLM-000796,POL-01957,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:18:39.868336,Konark Coastal,19.87837,85.81799,498658,Residential Property (Home),0
+CLM-000797,POL-00966,CAT-2026-04,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T09:31:11.798986,Puri Beach,19.79053,85.72924,748445,Residential Property (Home),0
+CLM-000798,POL-01614,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:26:59.335964,Jagatsinghpur,19.8499,85.81381,718993,Residential Property (Home),0
+CLM-000799,POL-01278,CAT-2026-04,Façade & Glazing Blown Out,High,Reported,2026-10-22T09:25:14.670633,Jagatsinghpur,20.1719,85.53515,49474491,Commercial Property & Industrial,1
+CLM-000800,POL-00048,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:19:23.640922,Puri Beach,19.71131,86.01463,376617,Residential Property (Home),0
+CLM-000801,POL-00440,CAT-2026-04,Inventory Water Damage,Medium,Reported,2026-10-22T09:32:22.522136,Konark Coastal,20.05123,85.90679,6206230,SME Business & Retail Interruption,0
+CLM-000802,POL-01454,CAT-2026-04,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T09:28:12.271902,Paradip Port,19.66427,86.2597,42639595,Commercial Property & Industrial,1
+CLM-000803,POL-02027,CAT-2026-04,Debris Windshield & Panel Impact,High,Reported,2026-10-22T09:27:54.346872,Kendrapara Delta,20.22694,85.62842,1088457,Auto & Commercial Fleet,1
+CLM-000804,POL-02560,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:33:53.630734,Kendrapara Delta,19.66695,85.69116,3456104,Residential Property (Home),0
+CLM-000805,POL-02087,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:34:12.250759,Konark Coastal,20.03064,86.11839,595061,Residential Property (Home),0
+CLM-000806,POL-00789,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:29:32.278478,Puri Beach,19.36763,86.13669,787782,Residential Property (Home),0
+CLM-000807,POL-02088,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:30:03.523074,Paradip Port,19.62083,85.88199,457868,Residential Property (Home),0
+CLM-000808,POL-01252,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:33:05.718217,Puri Beach,19.48248,85.85392,1324012,Residential Property (Home),0
+CLM-000809,POL-01986,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:29:31.498205,Kendrapara Delta,19.93282,85.37908,3172870,Residential Property (Home),0
+CLM-000810,POL-01294,CAT-2026-04,Utility Shutdown Interruption,High,Reported,2026-10-22T09:29:20.908830,Puri Beach,19.90594,85.86979,16626863,SME Business & Retail Interruption,1
+CLM-000811,POL-02492,CAT-2026-04,Flooded Ground Floor,High,Reported,2026-10-22T09:38:45.960103,Paradip Port,20.01199,85.56368,7015624,Residential Property (Home),1
+CLM-000812,POL-01622,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:28:58.856902,Puri Beach,19.87286,85.79251,2663622,Residential Property (Home),0
+CLM-000813,POL-01403,CAT-2026-04,Utility Shutdown Interruption,Medium,Reported,2026-10-22T09:29:46.619514,Puri Beach,19.37077,85.79758,3846252,SME Business & Retail Interruption,0
+CLM-000814,POL-01154,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:29:12.783697,Konark Coastal,19.92727,85.75077,510003,Residential Property (Home),0
+CLM-000815,POL-00896,CAT-2026-04,Façade & Glazing Blown Out,High,Reported,2026-10-22T09:30:53.523898,Paradip Port,19.67192,85.83082,69725194,Commercial Property & Industrial,1
+CLM-000816,POL-02637,CAT-2026-04,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T09:24:44.240670,Puri Beach,19.87123,85.78379,21582721,Commercial Property & Industrial,1
+CLM-000817,POL-00979,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:27:26.646742,Kendrapara Delta,20.01229,86.0983,243444,Residential Property (Home),0
+CLM-000818,POL-00794,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:32:47.865202,Jagatsinghpur,19.84255,85.83828,842798,Residential Property (Home),0
+CLM-000819,POL-02429,CAT-2026-04,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T09:32:49.004106,Kendrapara Delta,20.14011,85.70416,126449,Auto & Commercial Fleet,0
+CLM-000820,POL-01186,CAT-2026-04,Façade & Glazing Blown Out,High,Reported,2026-10-22T09:28:34.944478,Puri Beach,19.8037,85.88495,51081406,Commercial Property & Industrial,1
+CLM-000821,POL-02546,CAT-2026-04,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T09:34:56.993903,Puri Beach,20.16387,85.8699,10847464,Commercial Property & Industrial,1
+CLM-000822,POL-02353,CAT-2026-04,Utility Shutdown Interruption,Medium,Reported,2026-10-22T09:22:39.193863,Paradip Port,19.77134,86.12432,744842,SME Business & Retail Interruption,0
+CLM-000823,POL-00380,CAT-2026-04,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T09:32:06.666911,Puri Beach,19.99658,86.00463,21410264,Commercial Property & Industrial,1
+CLM-000824,POL-01523,CAT-2026-04,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T09:01:16.682792,Paradip Port,19.80889,86.0657,26293155,Commercial Property & Industrial,1
+CLM-000825,POL-02196,CAT-2026-04,Inventory Water Damage,High,Reported,2026-10-22T09:15:43.455855,Jagatsinghpur,19.64076,86.00665,5177615,SME Business & Retail Interruption,1
+CLM-000826,POL-00927,CAT-2026-04,Submerged Engine Hydro-lock,High,Reported,2026-10-22T09:36:32.312009,Jagatsinghpur,19.86613,86.18172,1087756,Auto & Commercial Fleet,1
+CLM-000827,POL-02549,CAT-2026-04,Structural Wall Crack,Medium,Reported,2026-10-22T08:48:06.830391,Paradip Port,19.6345,85.54858,2037813,Residential Property (Home),0
+CLM-000828,POL-01765,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:34:00.346839,Konark Coastal,19.73162,85.62645,974680,Residential Property (Home),0
+CLM-000829,POL-00226,CAT-2026-04,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T09:28:23.781936,Puri Beach,19.84611,86.35871,20519312,Commercial Property & Industrial,1
+CLM-000830,POL-02418,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T08:48:42.744594,Puri Beach,19.78616,86.01395,408157,Residential Property (Home),0
+CLM-000831,POL-00282,CAT-2026-04,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T09:33:07.922880,Kendrapara Delta,19.49841,85.74992,711363,Auto & Commercial Fleet,0
+CLM-000832,POL-00182,CAT-2026-04,Structural Wall Crack,High,Reported,2026-10-22T09:21:27.934341,Jagatsinghpur,19.77262,85.82044,8121976,Residential Property (Home),1
+CLM-000833,POL-01355,CAT-2026-04,Façade & Glazing Blown Out,Low,Reported,2026-10-22T09:10:28.662139,Jagatsinghpur,19.86547,85.82554,2896155,Commercial Property & Industrial,1
+CLM-000834,POL-00460,CAT-2026-04,Utility Shutdown Interruption,Medium,Reported,2026-10-22T09:08:09.064971,Kendrapara Delta,19.82929,85.69382,3686152,SME Business & Retail Interruption,0
+CLM-000835,POL-02244,CAT-2026-04,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T09:22:28.180789,Konark Coastal,19.44932,86.04862,3066458,Commercial Property & Industrial,1
+CLM-000836,POL-00397,CAT-2026-04,Flooded Ground Floor,High,Reported,2026-10-22T09:25:36.065306,Kendrapara Delta,20.11015,86.00004,3009489,Residential Property (Home),1
+CLM-000837,POL-00975,CAT-2026-04,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T09:23:13.519731,Paradip Port,19.9351,86.00705,31479168,Commercial Property & Industrial,1
+CLM-000838,POL-02336,CAT-2026-04,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T09:18:49.306346,Kendrapara Delta,19.82367,86.17009,40091220,Commercial Property & Industrial,1
+CLM-000839,POL-00110,CAT-2026-04,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T09:25:59.658025,Paradip Port,20.0004,86.12051,179736,Auto & Commercial Fleet,0
+CLM-000840,POL-01013,CAT-2026-04,Structural Wall Crack,Medium,Reported,2026-10-22T09:23:16.774973,Kendrapara Delta,20.05938,85.8176,727830,Residential Property (Home),0
+CLM-000841,POL-02776,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:20:19.084387,Paradip Port,19.97113,86.0568,7888320,Residential Property (Home),1
+CLM-000842,POL-00331,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:34:21.951595,Jagatsinghpur,19.81575,86.08569,703402,Residential Property (Home),0
+CLM-000843,POL-01266,CAT-2026-04,Structural Wall Crack,High,Reported,2026-10-22T09:35:28.663914,Kendrapara Delta,19.84194,85.75675,956628,Residential Property (Home),1
+CLM-000844,POL-00803,CAT-2026-04,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T09:21:45.273264,Paradip Port,19.72266,85.81677,33762278,Commercial Property & Industrial,1
+CLM-000845,POL-01306,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:23:15.274979,Jagatsinghpur,19.70973,85.54639,1317151,Residential Property (Home),0
+CLM-000846,POL-02381,CAT-2026-04,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T09:14:42.107539,Paradip Port,19.73058,85.82171,1113008,Auto & Commercial Fleet,0
+CLM-000847,POL-01288,CAT-2026-04,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T09:10:31.719617,Puri Beach,19.91451,85.46304,4225877,Commercial Property & Industrial,1
+CLM-000848,POL-01366,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:20:29.350416,Paradip Port,19.63176,85.89393,2184839,Residential Property (Home),0
+CLM-000849,POL-01998,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:35:01.303367,Konark Coastal,20.10025,85.68212,1203993,Residential Property (Home),0
+CLM-000850,POL-00621,CAT-2026-04,Submerged Engine Hydro-lock,High,Reported,2026-10-22T09:19:24.257287,Puri Beach,19.91278,85.86592,2190656,Auto & Commercial Fleet,1
+CLM-000851,POL-00129,CAT-2026-04,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T09:16:05.279395,Jagatsinghpur,19.52038,85.54851,435521,Auto & Commercial Fleet,0
+CLM-000852,POL-02350,CAT-2026-04,Utility Shutdown Interruption,Low,Reported,2026-10-22T09:40:52.689416,Kendrapara Delta,19.78204,85.85432,1493347,SME Business & Retail Interruption,0
+CLM-000853,POL-02645,CAT-2026-04,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T09:23:57.950055,Konark Coastal,19.92449,85.90941,106987,Auto & Commercial Fleet,0
+CLM-000854,POL-01639,CAT-2026-04,Flooded Ground Floor,Low,Reported,2026-10-22T09:31:04.396122,Paradip Port,19.7899,85.81852,522491,Residential Property (Home),0
+CLM-000855,POL-02780,CAT-2026-04,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T09:23:19.524076,Kendrapara Delta,19.97418,85.6477,281134,Auto & Commercial Fleet,0
+CLM-000856,POL-01750,CAT-2026-04,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T09:26:50.112892,Jagatsinghpur,19.53697,85.68789,32496302,Commercial Property & Industrial,1
+CLM-000857,POL-02310,CAT-2026-04,Flooded Ground Floor,High,Reported,2026-10-22T09:29:11.648790,Paradip Port,19.79727,86.11293,1767694,Residential Property (Home),1
+CLM-000858,POL-01438,CAT-2026-04,Flooded Ground Floor,Low,Reported,2026-10-22T09:21:20.409124,Jagatsinghpur,19.70562,85.93138,268118,Residential Property (Home),0
+CLM-000859,POL-00907,CAT-2026-04,Submerged Engine Hydro-lock,Catastrophic,Reported,2026-10-22T09:33:24.479223,Konark Coastal,19.99436,85.92654,1993961,Auto & Commercial Fleet,1
+CLM-000860,POL-02454,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:27:56.615329,Paradip Port,19.56035,85.9973,2456924,Residential Property (Home),0
+CLM-000861,POL-02524,CAT-2026-04,Flooded Ground Floor,Catastrophic,Reported,2026-10-22T09:27:45.170500,Kendrapara Delta,19.7988,85.8806,11687314,Residential Property (Home),1
+CLM-000862,POL-01250,CAT-2026-04,Structural Wall Crack,High,Reported,2026-10-22T09:29:44.280019,Paradip Port,20.23073,85.94928,2178165,Residential Property (Home),1
+CLM-000863,POL-01412,CAT-2026-04,Debris Windshield & Panel Impact,High,Reported,2026-10-22T09:34:14.173689,Puri Beach,19.67912,85.64387,1977713,Auto & Commercial Fleet,1
+CLM-000864,POL-00308,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:15:18.575405,Puri Beach,20.27194,85.69722,1370022,Residential Property (Home),0
+CLM-000865,POL-00288,CAT-2026-04,Façade & Glazing Blown Out,Low,Reported,2026-10-22T09:30:34.655706,Paradip Port,19.71925,85.95659,2417782,Commercial Property & Industrial,1
+CLM-000866,POL-02326,CAT-2026-04,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T09:26:15.822889,Puri Beach,19.63946,85.86826,5805084,Commercial Property & Industrial,1
+CLM-000867,POL-01295,CAT-2026-04,Submerged Engine Hydro-lock,High,Reported,2026-10-22T09:23:21.542139,Konark Coastal,19.61532,86.03143,1083335,Auto & Commercial Fleet,1
+CLM-000868,POL-02586,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:27:46.790036,Jagatsinghpur,19.45595,85.6126,922116,Residential Property (Home),0
+CLM-000869,POL-00686,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:34:54.182307,Konark Coastal,20.18828,85.73758,1090588,Residential Property (Home),1
+CLM-000870,POL-00131,CAT-2026-04,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T09:38:21.892194,Konark Coastal,19.87218,86.12507,42150116,Commercial Property & Industrial,1
+CLM-000871,POL-01426,CAT-2026-04,Submerged Engine Hydro-lock,High,Reported,2026-10-22T09:31:49.881161,Paradip Port,19.8729,86.19762,363077,Auto & Commercial Fleet,1
+CLM-000872,POL-02579,CAT-2026-04,Flooded Ground Floor,Low,Reported,2026-10-22T09:25:40.496032,Kendrapara Delta,19.90003,85.80913,736634,Residential Property (Home),0
+CLM-000873,POL-02531,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:32:21.710449,Puri Beach,19.81243,85.81143,434953,Residential Property (Home),0
+CLM-000874,POL-01617,CAT-2026-04,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T09:16:10.870944,Paradip Port,19.89414,85.71442,14490368,Commercial Property & Industrial,1
+CLM-000875,POL-01719,CAT-2026-04,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T09:21:04.868632,Jagatsinghpur,19.93912,85.83388,16570037,Commercial Property & Industrial,1
+CLM-000876,POL-01302,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:31:54.232311,Konark Coastal,19.79094,85.91339,1376991,Residential Property (Home),0
+CLM-000877,POL-00199,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:31:46.077713,Paradip Port,19.86194,85.64914,5941090,Residential Property (Home),1
+CLM-000878,POL-02048,CAT-2026-04,Façade & Glazing Blown Out,Low,Reported,2026-10-22T09:12:17.950342,Konark Coastal,19.77754,85.82493,14527935,Commercial Property & Industrial,1
+CLM-000879,POL-01079,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:20:02.212413,Kendrapara Delta,19.92131,85.5629,5000883,Residential Property (Home),0
+CLM-000880,POL-01384,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:11:24.561243,Puri Beach,19.52962,86.09404,1351268,Residential Property (Home),1
+CLM-000881,POL-00466,CAT-2026-04,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T09:13:56.973174,Konark Coastal,19.66016,85.87507,155289,Auto & Commercial Fleet,0
+CLM-000882,POL-00738,CAT-2026-04,Façade & Glazing Blown Out,Catastrophic,Reported,2026-10-22T09:20:47.240884,Paradip Port,19.85732,86.10394,42629525,Commercial Property & Industrial,1
+CLM-000883,POL-01537,CAT-2026-04,Signboard & Shopfront Destruction,Catastrophic,Reported,2026-10-22T09:24:56.105892,Puri Beach,19.9619,85.77165,1892821,SME Business & Retail Interruption,1
+CLM-000884,POL-00281,CAT-2026-04,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T09:26:22.458929,Jagatsinghpur,19.803,86.18416,128046,Auto & Commercial Fleet,0
+CLM-000885,POL-00012,CAT-2026-04,Utility Shutdown Interruption,Medium,Reported,2026-10-22T09:21:06.290693,Paradip Port,19.70327,85.82889,3659286,SME Business & Retail Interruption,0
+CLM-000886,POL-01730,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:12:53.382767,Paradip Port,20.12651,85.77849,2572513,Residential Property (Home),0
+CLM-000887,POL-00502,CAT-2026-04,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T09:35:34.567242,Konark Coastal,19.49017,85.74866,1742980,Auto & Commercial Fleet,1
+CLM-000888,POL-01094,CAT-2026-04,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T09:28:32.225756,Jagatsinghpur,19.89066,85.91552,12910846,Commercial Property & Industrial,1
+CLM-000889,POL-02796,CAT-2026-04,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T09:37:48.233992,Jagatsinghpur,19.60681,85.75653,9247380,Commercial Property & Industrial,1
+CLM-000890,POL-00218,CAT-2026-04,Submerged Engine Hydro-lock,High,Reported,2026-10-22T09:20:28.542260,Paradip Port,19.59172,85.6666,871233,Auto & Commercial Fleet,1
+CLM-000891,POL-02714,CAT-2026-04,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T09:31:18.084752,Puri Beach,19.51924,85.82359,198968,Auto & Commercial Fleet,0
+CLM-000892,POL-02349,CAT-2026-04,Structural Wall Crack,High,Reported,2026-10-22T09:35:09.850154,Kendrapara Delta,19.7539,85.54943,5327156,Residential Property (Home),1
+CLM-000893,POL-02731,CAT-2026-04,Flooded Ground Floor,High,Reported,2026-10-22T09:20:42.801832,Kendrapara Delta,20.02459,85.65932,1741286,Residential Property (Home),1
+CLM-000894,POL-01606,CAT-2026-04,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T09:05:21.340295,Puri Beach,19.95941,86.10972,6100007,Commercial Property & Industrial,1
+CLM-000895,POL-02445,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:33:03.895609,Puri Beach,19.41709,85.53377,3391885,Residential Property (Home),1
+CLM-000896,POL-01201,CAT-2026-04,Flooded Ground Floor,High,Reported,2026-10-22T09:19:37.715221,Jagatsinghpur,20.12797,85.94481,8676392,Residential Property (Home),1
+CLM-000897,POL-00347,CAT-2026-04,Flooded Ground Floor,Low,Reported,2026-10-22T09:22:08.431898,Konark Coastal,20.17933,85.61598,217757,Residential Property (Home),0
+CLM-000898,POL-01309,CAT-2026-04,Signboard & Shopfront Destruction,Medium,Reported,2026-10-22T09:15:24.133576,Kendrapara Delta,19.74218,85.90401,7733418,SME Business & Retail Interruption,0
+CLM-000899,POL-02517,CAT-2026-04,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T09:16:32.016513,Kendrapara Delta,19.86828,85.83644,540809,Auto & Commercial Fleet,0
+CLM-000900,POL-00248,CAT-2026-04,Utility Shutdown Interruption,Low,Reported,2026-10-22T09:13:33.375648,Puri Beach,19.86797,85.77904,1269670,SME Business & Retail Interruption,0
+CLM-000901,POL-01850,CAT-2026-04,Crushed by Falling Tree/Pole,Catastrophic,Reported,2026-10-22T09:04:55.729084,Konark Coastal,19.74259,85.85758,2536836,Auto & Commercial Fleet,1
+CLM-000902,POL-00499,CAT-2026-04,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T09:21:45.313477,Jagatsinghpur,19.77541,86.17234,463928,Residential Property (Home),0
+CLM-000903,POL-00168,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:30:02.656568,Kendrapara Delta,19.58975,85.92753,1090897,Residential Property (Home),1
+CLM-000904,POL-00255,CAT-2026-04,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T09:17:24.115737,Puri Beach,19.95219,85.91885,134051,Auto & Commercial Fleet,0
+CLM-000905,POL-00731,CAT-2026-04,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T09:22:33.043859,Paradip Port,19.97589,85.79123,437358,Residential Property (Home),0
+CLM-000906,POL-02213,CAT-2026-04,Inventory Water Damage,Catastrophic,Reported,2026-10-22T09:25:32.380231,Paradip Port,20.03719,85.7992,5516921,SME Business & Retail Interruption,1
+CLM-000907,POL-02181,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:24:39.990740,Jagatsinghpur,19.54269,86.09733,2105415,Residential Property (Home),1
+CLM-000908,POL-00510,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:37:38.468407,Paradip Port,19.71972,85.74279,1794000,Residential Property (Home),0
+CLM-000909,POL-01788,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:16:39.072504,Konark Coastal,19.91461,85.80439,912965,Residential Property (Home),0
+CLM-000910,POL-00989,CAT-2026-04,Submerged Engine Hydro-lock,Low,Reported,2026-10-22T09:29:26.794350,Kendrapara Delta,19.58388,85.95454,57825,Auto & Commercial Fleet,0
+CLM-000911,POL-02026,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:06:28.223087,Paradip Port,20.00068,85.99525,1200692,Residential Property (Home),0
+CLM-000912,POL-00618,CAT-2026-04,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T09:17:49.181908,Konark Coastal,19.72959,85.93485,475889,Auto & Commercial Fleet,0
+CLM-000913,POL-02593,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:24:51.836012,Konark Coastal,19.75859,85.88551,1583620,Residential Property (Home),0
+CLM-000914,POL-00512,CAT-2026-04,Flooded Ground Floor,Catastrophic,Reported,2026-10-22T09:22:00.423988,Puri Beach,19.93143,86.09223,3494103,Residential Property (Home),1
+CLM-000915,POL-02188,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:34:30.348588,Kendrapara Delta,20.13927,86.33832,1707341,Residential Property (Home),0
+CLM-000916,POL-00035,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:22:37.983999,Puri Beach,19.66959,85.76447,1919805,Residential Property (Home),1
+CLM-000917,POL-01261,CAT-2026-04,Flooded Ground Floor,High,Reported,2026-10-22T09:36:53.362171,Kendrapara Delta,19.81904,85.84024,6939392,Residential Property (Home),1
+CLM-000918,POL-00268,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:32:18.264583,Jagatsinghpur,19.55231,85.85016,1296397,Residential Property (Home),0
+CLM-000919,POL-02341,CAT-2026-04,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T09:23:58.689286,Puri Beach,19.92579,85.92201,38105539,Commercial Property & Industrial,1
+CLM-000920,POL-01578,CAT-2026-04,Structural Wall Crack,Medium,Reported,2026-10-22T09:28:28.517351,Konark Coastal,19.72875,85.70663,3629165,Residential Property (Home),0
+CLM-000921,POL-00548,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:08:29.722481,Kendrapara Delta,19.80859,86.09248,1819900,Residential Property (Home),1
+CLM-000922,POL-02233,CAT-2026-04,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T09:13:59.418497,Paradip Port,19.91415,85.76444,29801537,Commercial Property & Industrial,1
+CLM-000923,POL-02001,CAT-2026-04,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T09:26:50.884338,Konark Coastal,19.60089,85.82475,169303,Auto & Commercial Fleet,0
+CLM-000924,POL-00500,CAT-2026-04,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T09:27:17.814174,Konark Coastal,19.63504,85.37473,1719110,Auto & Commercial Fleet,1
+CLM-000925,POL-01805,CAT-2026-04,Structural Wall Crack,Medium,Reported,2026-10-22T09:40:28.438599,Jagatsinghpur,20.12966,85.97671,4041188,Residential Property (Home),0
+CLM-000926,POL-01430,CAT-2026-04,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T09:22:36.732121,Paradip Port,19.87665,85.86397,7449000,Commercial Property & Industrial,1
+CLM-000927,POL-02638,CAT-2026-04,Signboard & Shopfront Destruction,Catastrophic,Reported,2026-10-22T09:40:17.754675,Paradip Port,19.55435,85.77264,22390304,SME Business & Retail Interruption,1
+CLM-000928,POL-00154,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:28:07.786380,Jagatsinghpur,20.02209,86.13827,516741,Residential Property (Home),0
+CLM-000929,POL-00437,CAT-2026-04,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T09:39:34.717049,Paradip Port,19.68973,85.89396,15987547,Commercial Property & Industrial,1
+CLM-000930,POL-01117,CAT-2026-04,Structural Wall Crack,Medium,Reported,2026-10-22T09:18:05.512920,Paradip Port,19.90012,85.45604,749291,Residential Property (Home),0
+CLM-000931,POL-00201,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T08:52:19.461671,Paradip Port,19.67963,85.83948,771331,Residential Property (Home),0
+CLM-000932,POL-02014,CAT-2026-04,Flooded Ground Floor,High,Reported,2026-10-22T09:32:20.734932,Konark Coastal,19.52129,85.96738,642491,Residential Property (Home),1
+CLM-000933,POL-00792,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:33:07.352102,Konark Coastal,19.81959,85.89637,1923213,Residential Property (Home),0
+CLM-000934,POL-01319,CAT-2026-04,Inventory Water Damage,Medium,Reported,2026-10-22T09:14:05.467784,Kendrapara Delta,19.95628,85.94808,3198171,SME Business & Retail Interruption,0
+CLM-000935,POL-02086,CAT-2026-04,Façade & Glazing Blown Out,High,Reported,2026-10-22T09:32:18.603600,Puri Beach,19.7851,85.36237,82866355,Commercial Property & Industrial,1
+CLM-000936,POL-00111,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:28:09.567560,Konark Coastal,19.97257,85.95593,1255618,Residential Property (Home),0
+CLM-000937,POL-01573,CAT-2026-04,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T09:28:16.753843,Paradip Port,19.59158,85.85707,778952,Auto & Commercial Fleet,1
+CLM-000938,POL-00761,CAT-2026-04,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T09:29:07.986986,Konark Coastal,19.57212,86.15853,192798,Auto & Commercial Fleet,0
+CLM-000939,POL-01112,CAT-2026-04,Submerged Engine Hydro-lock,Catastrophic,Reported,2026-10-22T09:26:07.704902,Puri Beach,20.0716,85.59424,1876617,Auto & Commercial Fleet,1
+CLM-000940,POL-01229,CAT-2026-04,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T09:23:23.090044,Jagatsinghpur,19.8972,85.32355,29810709,Commercial Property & Industrial,1
+CLM-000941,POL-02490,CAT-2026-04,Flooded Ground Floor,Low,Reported,2026-10-22T09:02:18.176220,Konark Coastal,19.94557,86.15927,1722089,Residential Property (Home),0
+CLM-000942,POL-00441,CAT-2026-04,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T09:28:50.009530,Paradip Port,19.6696,85.69742,32977744,Commercial Property & Industrial,1
+CLM-000943,POL-00298,CAT-2026-04,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T09:31:44.710550,Konark Coastal,19.98355,85.88661,4032409,Commercial Property & Industrial,1
+CLM-000944,POL-00187,CAT-2026-04,Roof Tear-off & Water Ingress,Catastrophic,Reported,2026-10-22T09:32:56.066331,Puri Beach,19.60255,85.79193,9590588,Residential Property (Home),1
+CLM-000945,POL-01552,CAT-2026-04,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T09:32:52.043906,Puri Beach,19.58256,85.65143,8756987,Commercial Property & Industrial,1
+CLM-000946,POL-02251,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:31:10.104357,Kendrapara Delta,19.73753,85.97836,2226887,Residential Property (Home),1
+CLM-000947,POL-02542,CAT-2026-04,Utility Shutdown Interruption,Medium,Reported,2026-10-22T09:20:13.052201,Puri Beach,19.62317,86.12618,622771,SME Business & Retail Interruption,0
+CLM-000948,POL-02455,CAT-2026-04,Signboard & Shopfront Destruction,Medium,Reported,2026-10-22T09:16:50.945016,Konark Coastal,20.29824,85.91743,2100718,SME Business & Retail Interruption,0
+CLM-000949,POL-02529,CAT-2026-04,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T09:29:59.298047,Kendrapara Delta,19.96328,85.74722,83440,Auto & Commercial Fleet,0
+CLM-000950,POL-01175,CAT-2026-04,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T09:11:27.472522,Puri Beach,19.76238,85.8392,620499,Auto & Commercial Fleet,0
+CLM-000951,POL-00523,CAT-2026-04,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T09:20:52.832600,Kendrapara Delta,19.77658,85.88652,429743,Auto & Commercial Fleet,0
+CLM-000952,POL-01676,CAT-2026-04,Structural Wall Crack,Medium,Reported,2026-10-22T09:36:37.319029,Puri Beach,19.86638,85.79545,966781,Residential Property (Home),0
+CLM-000953,POL-00812,CAT-2026-04,Shed Collapsed / Machineries Soaked,Catastrophic,Reported,2026-10-22T09:38:25.769502,Kendrapara Delta,19.50195,86.22668,82054068,Commercial Property & Industrial,1
+CLM-000954,POL-00090,CAT-2026-04,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T09:32:58.699971,Konark Coastal,20.28781,86.19868,564612,Auto & Commercial Fleet,0
+CLM-000955,POL-02060,CAT-2026-04,Signboard & Shopfront Destruction,Medium,Reported,2026-10-22T09:17:05.121583,Jagatsinghpur,19.53639,85.60871,6023651,SME Business & Retail Interruption,0
+CLM-000956,POL-01689,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:23:28.004088,Paradip Port,19.52128,85.73342,1371691,Residential Property (Home),0
+CLM-000957,POL-01133,CAT-2026-04,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T09:27:07.230460,Kendrapara Delta,19.78787,85.65067,213722,Residential Property (Home),0
+CLM-000958,POL-01843,CAT-2026-04,Signboard & Shopfront Destruction,Catastrophic,Reported,2026-10-22T09:18:12.101206,Kendrapara Delta,19.80202,85.54915,9575471,SME Business & Retail Interruption,1
+CLM-000959,POL-00303,CAT-2026-04,Structural Wall Crack,Medium,Reported,2026-10-22T09:41:41.765310,Paradip Port,19.72596,85.77364,2850064,Residential Property (Home),0
+CLM-000960,POL-00221,CAT-2026-04,Submerged Engine Hydro-lock,Low,Reported,2026-10-22T09:38:46.083117,Kendrapara Delta,19.75603,85.63425,323642,Auto & Commercial Fleet,0
+CLM-000961,POL-00776,CAT-2026-04,Utility Shutdown Interruption,Medium,Reported,2026-10-22T09:27:30.913751,Konark Coastal,19.67099,85.82177,8198483,SME Business & Retail Interruption,0
+CLM-000962,POL-01637,CAT-2026-04,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T09:19:42.372741,Kendrapara Delta,19.44578,85.71047,297858,Auto & Commercial Fleet,0
+CLM-000963,POL-00128,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:40:12.833501,Konark Coastal,19.92182,86.00451,2127239,Residential Property (Home),0
+CLM-000964,POL-00910,CAT-2026-04,Flooded Ground Floor,High,Reported,2026-10-22T09:32:14.328118,Kendrapara Delta,19.6026,85.97876,3614570,Residential Property (Home),1
+CLM-000965,POL-01664,CAT-2026-04,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T09:29:26.411661,Paradip Port,19.75688,86.0373,40795,Auto & Commercial Fleet,0
+CLM-000966,POL-02040,CAT-2026-04,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T09:21:55.341506,Konark Coastal,19.59315,85.85455,510107,Auto & Commercial Fleet,0
+CLM-000967,POL-02264,CAT-2026-04,Structural Wall Crack,High,Reported,2026-10-22T09:28:20.218585,Kendrapara Delta,19.83521,85.9856,5968119,Residential Property (Home),1
+CLM-000968,POL-00689,CAT-2026-04,Flooded Ground Floor,Low,Reported,2026-10-22T09:30:55.529890,Kendrapara Delta,19.79233,85.756,325624,Residential Property (Home),0
+CLM-000969,POL-01871,CAT-2026-04,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T09:28:03.476404,Paradip Port,19.9212,85.71174,77352003,Commercial Property & Industrial,1
+CLM-000970,POL-01572,CAT-2026-04,Flooded Ground Floor,Low,Reported,2026-10-22T09:14:00.225648,Jagatsinghpur,19.785,85.66901,757256,Residential Property (Home),0
+CLM-000971,POL-02434,CAT-2026-04,Submerged Engine Hydro-lock,High,Reported,2026-10-22T09:07:08.830927,Paradip Port,19.50517,85.97285,1974216,Auto & Commercial Fleet,1
+CLM-000972,POL-01376,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:20:47.839639,Paradip Port,19.7093,85.81108,4215848,Residential Property (Home),0
+CLM-000973,POL-01748,CAT-2026-04,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T09:17:56.840743,Paradip Port,19.67456,85.91311,248236,Auto & Commercial Fleet,0
+CLM-000974,POL-00823,CAT-2026-04,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T09:10:12.351667,Kendrapara Delta,19.70916,85.8137,454671,Residential Property (Home),0
+CLM-000975,POL-01649,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:15:03.138945,Kendrapara Delta,19.97178,85.71311,157417,Residential Property (Home),0
+CLM-000976,POL-00782,CAT-2026-04,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T09:33:10.885523,Kendrapara Delta,19.576,85.99971,396517,Residential Property (Home),0
+CLM-000977,POL-02184,CAT-2026-04,Façade & Glazing Blown Out,Low,Reported,2026-10-22T09:32:30.681189,Kendrapara Delta,19.55063,85.69856,7597056,Commercial Property & Industrial,1
+CLM-000978,POL-01585,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:34:10.473342,Konark Coastal,19.78497,85.99938,4086360,Residential Property (Home),0
+CLM-000979,POL-00678,CAT-2026-04,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T09:27:55.150874,Jagatsinghpur,19.44614,85.69136,22577020,Commercial Property & Industrial,1
+CLM-000980,POL-02113,CAT-2026-04,Utility Shutdown Interruption,Medium,Reported,2026-10-22T09:27:45.815807,Jagatsinghpur,19.35679,85.75984,7514633,SME Business & Retail Interruption,0
+CLM-000981,POL-01012,CAT-2026-04,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T09:25:27.335307,Konark Coastal,20.15054,85.81505,5133553,Commercial Property & Industrial,1
+CLM-000982,POL-02067,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:16:21.210782,Puri Beach,19.80642,85.63472,7094998,Residential Property (Home),1
+CLM-000983,POL-00998,CAT-2026-04,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T09:28:01.788174,Konark Coastal,19.46956,85.73744,261963,Auto & Commercial Fleet,0
+CLM-000984,POL-00514,CAT-2026-04,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T08:59:31.174410,Kendrapara Delta,19.93834,86.07493,6793205,Commercial Property & Industrial,1
+CLM-000985,POL-00875,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:39:56.493551,Jagatsinghpur,19.92441,85.81756,1616209,Residential Property (Home),0
+CLM-000986,POL-02590,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:19:54.335544,Jagatsinghpur,20.13786,86.04574,3535436,Residential Property (Home),0
+CLM-000987,POL-02482,CAT-2026-04,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T09:32:47.078658,Konark Coastal,19.72812,85.87613,1587085,Auto & Commercial Fleet,1
+CLM-000988,POL-00613,CAT-2026-04,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T09:31:02.355370,Jagatsinghpur,20.13308,85.76554,145405,Auto & Commercial Fleet,0
+CLM-000989,POL-02235,CAT-2026-04,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T09:31:20.366632,Puri Beach,19.86824,85.75729,798530,Residential Property (Home),0
+CLM-000990,POL-02463,CAT-2026-04,Submerged Engine Hydro-lock,High,Reported,2026-10-22T09:24:49.789535,Paradip Port,19.70469,85.56553,1924985,Auto & Commercial Fleet,1
+CLM-000991,POL-01873,CAT-2026-04,Flooded Ground Floor,Low,Reported,2026-10-22T09:27:45.934528,Paradip Port,19.64071,86.01513,578669,Residential Property (Home),0
+CLM-000992,POL-01517,CAT-2026-04,Flooded Ground Floor,High,Reported,2026-10-22T09:28:53.835732,Paradip Port,19.63863,85.60479,1978391,Residential Property (Home),1
+CLM-000993,POL-01204,CAT-2026-04,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T09:25:40.308865,Jagatsinghpur,19.73516,85.79889,691622,Auto & Commercial Fleet,1
+CLM-000994,POL-01804,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:31:49.314114,Konark Coastal,19.74773,86.07556,477121,Residential Property (Home),0
+CLM-000995,POL-02369,CAT-2026-04,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T09:37:53.974654,Jagatsinghpur,19.64806,85.86756,3554041,Commercial Property & Industrial,1
+CLM-000996,POL-00417,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:32:43.868099,Konark Coastal,19.76117,86.02282,1609309,Residential Property (Home),0
+CLM-000997,POL-00448,CAT-2026-04,Shed Collapsed / Machineries Soaked,Medium,Reported,2026-10-22T09:39:09.315078,Kendrapara Delta,20.05492,86.15468,34070774,Commercial Property & Industrial,1
+CLM-000998,POL-02510,CAT-2026-04,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T09:28:14.779650,Jagatsinghpur,20.03265,86.01783,287395,Auto & Commercial Fleet,0
+CLM-000999,POL-02628,CAT-2026-04,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T09:27:14.727488,Paradip Port,20.16665,86.28451,12628577,Commercial Property & Industrial,1
+CLM-001000,POL-02506,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:33:56.288641,Paradip Port,19.88827,85.66297,4790385,Residential Property (Home),0
+CLM-001001,POL-01142,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:32:13.309259,Puri Beach,19.7475,85.952,1097748,Residential Property (Home),0
+CLM-001002,POL-00354,CAT-2026-04,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T09:26:27.344028,Jagatsinghpur,19.60386,85.82005,879732,Residential Property (Home),0
+CLM-001003,POL-00041,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:43:23.170754,Paradip Port,19.42625,85.8247,5056100,Residential Property (Home),1
+CLM-001004,POL-00345,CAT-2026-04,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T09:27:55.110172,Kendrapara Delta,19.85876,85.71718,64349,Auto & Commercial Fleet,0
+CLM-001005,POL-02144,CAT-2026-04,Warehouse Flood & Stock Rupture,High,Reported,2026-10-22T09:18:41.736361,Jagatsinghpur,19.78826,85.75434,44453650,Commercial Property & Industrial,1
+CLM-001006,POL-01409,CAT-2026-04,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T09:40:58.430116,Jagatsinghpur,20.14381,85.64149,26982669,Commercial Property & Industrial,1
+CLM-001007,POL-01645,CAT-2026-04,Signboard & Shopfront Destruction,Medium,Reported,2026-10-22T09:16:40.788693,Paradip Port,19.96837,85.71587,3004956,SME Business & Retail Interruption,0
+CLM-001008,POL-02571,CAT-2026-04,Flooded Ground Floor,High,Reported,2026-10-22T09:19:39.847465,Jagatsinghpur,20.02704,85.83771,5043931,Residential Property (Home),1
+CLM-001009,POL-02270,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:29:25.364366,Jagatsinghpur,19.52478,85.73543,7395770,Residential Property (Home),1
+CLM-001010,POL-02119,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:31:16.711387,Konark Coastal,19.77961,86.04203,2588680,Residential Property (Home),0
+CLM-001011,POL-01627,CAT-2026-04,Submerged Engine Hydro-lock,Low,Reported,2026-10-22T09:24:24.239074,Konark Coastal,19.77442,85.64744,46797,Auto & Commercial Fleet,0
+CLM-001012,POL-02710,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:17:06.459828,Paradip Port,19.8015,85.35846,2713877,Residential Property (Home),1
+CLM-001013,POL-00050,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:38:42.151240,Konark Coastal,19.81183,85.75689,1561807,Residential Property (Home),0
+CLM-001014,POL-00527,CAT-2026-04,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T09:27:17.803770,Paradip Port,19.88994,85.69973,280013,Auto & Commercial Fleet,0
+CLM-001015,POL-00115,CAT-2026-04,Crushed by Falling Tree/Pole,Catastrophic,Reported,2026-10-22T09:35:17.574924,Paradip Port,19.76646,86.04976,2229512,Auto & Commercial Fleet,1
+CLM-001016,POL-00166,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:16:22.658608,Paradip Port,19.80876,85.91062,811960,Residential Property (Home),0
+CLM-001017,POL-00160,CAT-2026-04,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T09:15:01.199347,Paradip Port,19.72327,85.76154,796684,Residential Property (Home),0
+CLM-001018,POL-00632,CAT-2026-04,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T09:25:37.408600,Puri Beach,19.43296,85.77075,10304399,Commercial Property & Industrial,1
+CLM-001019,POL-02458,CAT-2026-04,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T09:25:11.770868,Jagatsinghpur,20.14867,85.83614,20874132,Commercial Property & Industrial,1
+CLM-001020,POL-01322,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:19:41.587599,Kendrapara Delta,19.92067,85.75652,4395479,Residential Property (Home),1
+CLM-001021,POL-00680,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:03:03.860547,Kendrapara Delta,19.61264,86.1264,3345220,Residential Property (Home),0
+CLM-001022,POL-01738,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:35:27.643444,Konark Coastal,19.73433,85.85906,2579165,Residential Property (Home),0
+CLM-001023,POL-02666,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:33:07.892332,Puri Beach,20.2517,86.09121,882962,Residential Property (Home),0
+CLM-001024,POL-00679,CAT-2026-04,Debris Windshield & Panel Impact,High,Reported,2026-10-22T09:18:47.650247,Jagatsinghpur,20.07087,85.4975,561508,Auto & Commercial Fleet,1
+CLM-001025,POL-01893,CAT-2026-04,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T09:33:13.473737,Puri Beach,19.7275,85.68226,9230593,Commercial Property & Industrial,1
+CLM-001026,POL-01947,CAT-2026-04,Submerged Engine Hydro-lock,Catastrophic,Reported,2026-10-22T09:37:37.580948,Konark Coastal,19.50369,86.06005,681374,Auto & Commercial Fleet,1
+CLM-001027,POL-00993,CAT-2026-04,Inventory Water Damage,Low,Reported,2026-10-22T09:31:22.765990,Jagatsinghpur,19.70671,85.79071,726943,SME Business & Retail Interruption,0
+CLM-001028,POL-01496,CAT-2026-04,Warehouse Flood & Stock Rupture,Catastrophic,Reported,2026-10-22T09:28:08.508675,Konark Coastal,19.65684,85.8231,19546695,Commercial Property & Industrial,1
+CLM-001029,POL-00078,CAT-2026-04,Submerged Engine Hydro-lock,Low,Reported,2026-10-22T09:32:59.390073,Kendrapara Delta,19.98449,86.04324,135207,Auto & Commercial Fleet,0
+CLM-001030,POL-01646,CAT-2026-04,Debris Windshield & Panel Impact,High,Reported,2026-10-22T09:26:18.129760,Kendrapara Delta,19.67273,85.66132,743086,Auto & Commercial Fleet,1
+CLM-001031,POL-00992,CAT-2026-04,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T09:29:53.253287,Jagatsinghpur,19.86773,85.84496,3375938,Commercial Property & Industrial,1
+CLM-001032,POL-02644,CAT-2026-04,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T09:25:31.675056,Puri Beach,20.05102,85.85913,122041,Auto & Commercial Fleet,0
+CLM-001033,POL-01264,CAT-2026-04,Façade & Glazing Blown Out,High,Reported,2026-10-22T09:28:38.138459,Kendrapara Delta,19.69919,86.14983,16926967,Commercial Property & Industrial,1
+CLM-001034,POL-01522,CAT-2026-04,Utility Shutdown Interruption,High,Reported,2026-10-22T09:22:34.280344,Paradip Port,19.5748,85.76292,7671437,SME Business & Retail Interruption,1
+CLM-001035,POL-01820,CAT-2026-04,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T09:36:26.060518,Jagatsinghpur,19.76567,85.88718,678464,Auto & Commercial Fleet,0
+CLM-001036,POL-01352,CAT-2026-04,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T09:17:32.239599,Paradip Port,19.7887,85.73924,673780,Auto & Commercial Fleet,1
+CLM-001037,POL-01693,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:42:05.428309,Puri Beach,19.83526,85.73617,1247449,Residential Property (Home),0
+CLM-001038,POL-02123,CAT-2026-04,Structural Wall Crack,High,Reported,2026-10-22T09:28:25.073081,Paradip Port,19.76302,85.6513,7416772,Residential Property (Home),1
+CLM-001039,POL-00045,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:22:26.369155,Konark Coastal,20.03856,85.98039,3939931,Residential Property (Home),0
+CLM-001040,POL-00976,CAT-2026-04,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T09:32:24.505974,Jagatsinghpur,19.79677,85.69938,108803,Auto & Commercial Fleet,0
+CLM-001041,POL-00100,CAT-2026-04,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T09:17:53.000545,Konark Coastal,19.41101,85.56996,39239837,Commercial Property & Industrial,1
+CLM-001042,POL-00831,CAT-2026-04,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T09:29:38.832275,Konark Coastal,19.82706,85.66835,759520,Auto & Commercial Fleet,0
+CLM-001043,POL-01854,CAT-2026-04,Submerged Engine Hydro-lock,High,Reported,2026-10-22T09:29:06.172142,Puri Beach,19.72502,86.0416,1010470,Auto & Commercial Fleet,1
+CLM-001044,POL-02746,CAT-2026-04,Flooded Ground Floor,Low,Reported,2026-10-22T09:28:39.744534,Konark Coastal,19.51003,85.82879,632808,Residential Property (Home),0
+CLM-001045,POL-01474,CAT-2026-04,Flooded Ground Floor,Low,Reported,2026-10-22T09:14:36.126440,Konark Coastal,19.84341,85.91348,905358,Residential Property (Home),0
+CLM-001046,POL-02363,CAT-2026-04,Structural Wall Crack,Medium,Reported,2026-10-22T09:17:24.453678,Paradip Port,19.634,85.88384,747532,Residential Property (Home),0
+CLM-001047,POL-00755,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:29:46.181188,Jagatsinghpur,19.69989,85.58586,2812069,Residential Property (Home),1
+CLM-001048,POL-01727,CAT-2026-04,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T09:36:33.699350,Jagatsinghpur,19.90724,85.44013,4361074,Commercial Property & Industrial,1
+CLM-001049,POL-00367,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:35:13.062819,Puri Beach,20.08987,86.01493,3078377,Residential Property (Home),0
+CLM-001050,POL-01301,CAT-2026-04,Submerged Engine Hydro-lock,Catastrophic,Reported,2026-10-22T09:14:56.137713,Konark Coastal,19.94857,85.97693,1836309,Auto & Commercial Fleet,1
+CLM-001051,POL-01172,CAT-2026-04,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T09:21:27.695778,Puri Beach,19.83226,85.86049,66048,Auto & Commercial Fleet,0
+CLM-001052,POL-01632,CAT-2026-04,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T09:28:13.853427,Puri Beach,20.00452,85.80789,34108833,Commercial Property & Industrial,1
+CLM-001053,POL-01086,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:32:10.432381,Konark Coastal,19.89215,85.79264,1736341,Residential Property (Home),1
+CLM-001054,POL-00693,CAT-2026-04,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T09:19:21.655088,Jagatsinghpur,19.57121,85.85859,16661326,Commercial Property & Industrial,1
+CLM-001055,POL-02438,CAT-2026-04,Warehouse Flood & Stock Rupture,Catastrophic,Reported,2026-10-22T09:29:42.154364,Puri Beach,20.04363,85.90445,12727383,Commercial Property & Industrial,1
+CLM-001056,POL-01291,CAT-2026-04,Flooded Ground Floor,High,Reported,2026-10-22T09:35:55.501576,Konark Coastal,20.05792,85.75075,7411769,Residential Property (Home),1
+CLM-001057,POL-00573,CAT-2026-04,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T09:40:08.229412,Paradip Port,19.49749,85.72419,482821,Auto & Commercial Fleet,0
+CLM-001058,POL-00276,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:27:27.506086,Kendrapara Delta,20.07826,85.65324,1567226,Residential Property (Home),0
+CLM-001059,POL-01467,CAT-2026-04,Façade & Glazing Blown Out,High,Reported,2026-10-22T09:33:10.137059,Paradip Port,19.50248,85.80102,23109006,Commercial Property & Industrial,1
+CLM-001060,POL-01056,CAT-2026-04,Inventory Water Damage,Medium,Reported,2026-10-22T09:35:29.839214,Puri Beach,19.71631,85.59906,2195386,SME Business & Retail Interruption,0
+CLM-001061,POL-00245,CAT-2026-04,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T09:32:38.299025,Puri Beach,19.80345,85.72132,13699790,Commercial Property & Industrial,1
+CLM-001062,POL-01642,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:02:35.293773,Puri Beach,20.09997,85.54478,3431646,Residential Property (Home),0
+CLM-001063,POL-00706,CAT-2026-04,Utility Shutdown Interruption,Medium,Reported,2026-10-22T09:02:52.979464,Kendrapara Delta,19.78508,85.59548,2921926,SME Business & Retail Interruption,0
+CLM-001064,POL-01038,CAT-2026-04,Flooded Ground Floor,Low,Reported,2026-10-22T08:45:02.393940,Puri Beach,19.67983,85.83037,619868,Residential Property (Home),0
+CLM-001065,POL-00911,CAT-2026-04,Warehouse Flood & Stock Rupture,Low,Reported,2026-10-22T09:08:50.652787,Konark Coastal,20.00516,86.01369,11700563,Commercial Property & Industrial,1
+CLM-001066,POL-00340,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:32:46.530821,Puri Beach,19.88342,85.72484,156178,Residential Property (Home),0
+CLM-001067,POL-02398,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:20:12.895444,Paradip Port,19.55994,85.87216,1699214,Residential Property (Home),1
+CLM-001068,POL-00458,CAT-2026-04,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T09:08:31.756244,Konark Coastal,19.57548,85.58331,1408538,Auto & Commercial Fleet,1
+CLM-001069,POL-00484,CAT-2026-04,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T09:40:23.918574,Puri Beach,19.91802,85.5735,1008063,Auto & Commercial Fleet,1
+CLM-001070,POL-02320,CAT-2026-04,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T09:23:16.593360,Jagatsinghpur,19.39576,86.02867,37735105,Commercial Property & Industrial,1
+CLM-001071,POL-01105,CAT-2026-04,Submerged Engine Hydro-lock,High,Reported,2026-10-22T09:20:14.409265,Kendrapara Delta,19.66339,86.19361,1758159,Auto & Commercial Fleet,1
+CLM-001072,POL-00920,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:31:40.146258,Konark Coastal,19.91978,86.27384,1792011,Residential Property (Home),0
+CLM-001073,POL-00003,CAT-2026-04,Structural Wall Crack,High,Reported,2026-10-22T09:15:36.710268,Puri Beach,20.12584,85.98349,808083,Residential Property (Home),1
+CLM-001074,POL-02758,CAT-2026-04,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T09:38:40.398849,Paradip Port,19.92544,85.5842,877757,Auto & Commercial Fleet,0
+CLM-001075,POL-01706,CAT-2026-04,Utility Shutdown Interruption,Catastrophic,Reported,2026-10-22T09:34:06.375755,Konark Coastal,19.59319,85.90154,28340671,SME Business & Retail Interruption,1
+CLM-001076,POL-02451,CAT-2026-04,Flooded Ground Floor,High,Reported,2026-10-22T09:13:40.335662,Paradip Port,19.88719,85.59467,5323028,Residential Property (Home),1
+CLM-001077,POL-01500,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:22:13.677994,Konark Coastal,20.03924,85.8104,1246026,Residential Property (Home),0
+CLM-001078,POL-01058,CAT-2026-04,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T09:23:47.029970,Jagatsinghpur,19.79896,85.92698,17315582,Commercial Property & Industrial,1
+CLM-001079,POL-02193,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:24:07.309333,Kendrapara Delta,19.91684,85.68465,1473133,Residential Property (Home),0
+CLM-001080,POL-00457,CAT-2026-04,Shed Collapsed / Machineries Soaked,Low,Reported,2026-10-22T09:09:09.176521,Jagatsinghpur,19.87618,85.99671,1649212,Commercial Property & Industrial,1
+CLM-001081,POL-00886,CAT-2026-04,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T09:40:45.324782,Konark Coastal,19.89158,85.92051,162288,Auto & Commercial Fleet,0
+CLM-001082,POL-01360,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:38:16.830335,Puri Beach,19.59724,85.67203,2903870,Residential Property (Home),0
+CLM-001083,POL-01656,CAT-2026-04,Structural Wall Crack,Low,Reported,2026-10-22T09:33:35.668748,Kendrapara Delta,20.08282,85.55424,316608,Residential Property (Home),0
+CLM-001084,POL-01041,CAT-2026-04,Façade & Glazing Blown Out,Catastrophic,Reported,2026-10-22T09:30:18.904231,Paradip Port,19.69603,85.8959,135003662,Commercial Property & Industrial,1
+CLM-001085,POL-01226,CAT-2026-04,Debris Windshield & Panel Impact,Medium,Reported,2026-10-22T09:19:52.196471,Jagatsinghpur,19.80083,85.66375,497704,Auto & Commercial Fleet,0
+CLM-001086,POL-02439,CAT-2026-04,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T09:23:56.123151,Konark Coastal,19.62021,85.64862,73685366,Commercial Property & Industrial,1
+CLM-001087,POL-00544,CAT-2026-04,Shed Collapsed / Machineries Soaked,High,Reported,2026-10-22T09:37:24.774642,Kendrapara Delta,19.84622,85.66285,18145655,Commercial Property & Industrial,1
+CLM-001088,POL-01648,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:29:31.687138,Kendrapara Delta,19.70868,85.66013,2059042,Residential Property (Home),0
+CLM-001089,POL-01631,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:33:05.856606,Puri Beach,19.53243,85.98277,1465307,Residential Property (Home),0
+CLM-001090,POL-02742,CAT-2026-04,Flooded Ground Floor,High,Reported,2026-10-22T09:40:27.708786,Jagatsinghpur,19.69544,86.05337,1417918,Residential Property (Home),1
+CLM-001091,POL-02065,CAT-2026-04,Inventory Water Damage,Catastrophic,Reported,2026-10-22T09:37:01.303703,Puri Beach,19.45619,85.90335,21999951,SME Business & Retail Interruption,1
+CLM-001092,POL-01023,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:34:04.302677,Konark Coastal,20.05359,85.72736,3601858,Residential Property (Home),0
+CLM-001093,POL-01999,CAT-2026-04,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T09:35:08.864224,Konark Coastal,19.79729,85.53981,822244,Auto & Commercial Fleet,1
+CLM-001094,POL-01191,CAT-2026-04,Crushed by Falling Tree/Pole,Catastrophic,Reported,2026-10-22T09:25:48.119246,Kendrapara Delta,20.03016,86.04227,1791543,Auto & Commercial Fleet,1
+CLM-001095,POL-01199,CAT-2026-04,Debris Windshield & Panel Impact,High,Reported,2026-10-22T09:28:47.427992,Paradip Port,19.80952,85.71215,1405975,Auto & Commercial Fleet,1
+CLM-001096,POL-00175,CAT-2026-04,Debris Windshield & Panel Impact,Catastrophic,Reported,2026-10-22T09:26:54.215424,Puri Beach,19.78753,85.78581,935124,Auto & Commercial Fleet,1
+CLM-001097,POL-01002,CAT-2026-04,Structural Wall Crack,Medium,Reported,2026-10-22T09:30:05.727975,Puri Beach,19.73412,85.89641,1410782,Residential Property (Home),0
+CLM-001098,POL-00728,CAT-2026-04,Roof Tear-off & Water Ingress,Catastrophic,Reported,2026-10-22T09:32:49.225079,Kendrapara Delta,19.77416,85.8465,1317968,Residential Property (Home),1
+CLM-001099,POL-02798,CAT-2026-04,Signboard & Shopfront Destruction,High,Reported,2026-10-22T09:11:29.648973,Paradip Port,19.61002,86.26872,7439958,SME Business & Retail Interruption,1
+CLM-001100,POL-02767,CAT-2026-04,Signboard & Shopfront Destruction,Low,Reported,2026-10-22T09:38:16.524096,Paradip Port,20.35207,85.93397,718446,SME Business & Retail Interruption,0
+CLM-001101,POL-00435,CAT-2026-04,Flooded Ground Floor,Catastrophic,Reported,2026-10-22T09:37:39.839502,Puri Beach,19.6135,85.78507,7034377,Residential Property (Home),1
+CLM-001102,POL-00216,CAT-2026-04,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T09:33:44.709983,Paradip Port,19.91188,86.07947,5120299,Commercial Property & Industrial,1
+CLM-001103,POL-02114,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:29:33.902768,Puri Beach,19.53188,85.54057,1907699,Residential Property (Home),0
+CLM-001104,POL-01432,CAT-2026-04,Warehouse Flood & Stock Rupture,Medium,Reported,2026-10-22T09:38:49.451186,Puri Beach,20.30699,86.08052,18117197,Commercial Property & Industrial,1
+CLM-001105,POL-00395,CAT-2026-04,Flooded Ground Floor,Low,Reported,2026-10-22T09:04:48.958808,Konark Coastal,19.82536,85.5734,949023,Residential Property (Home),0
+CLM-001106,POL-02685,CAT-2026-04,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T09:11:43.394167,Jagatsinghpur,20.15514,85.85437,3054528,Commercial Property & Industrial,1
+CLM-001107,POL-02499,CAT-2026-04,Signboard & Shopfront Destruction,High,Reported,2026-10-22T09:46:14.505405,Kendrapara Delta,19.69431,85.8145,16724108,SME Business & Retail Interruption,1
+CLM-001108,POL-02050,CAT-2026-04,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T09:17:11.929142,Jagatsinghpur,20.28035,85.71959,99296,Auto & Commercial Fleet,0
+CLM-001109,POL-01470,CAT-2026-04,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T09:37:31.875811,Paradip Port,19.72852,86.12428,30849619,Commercial Property & Industrial,1
+CLM-001110,POL-00681,CAT-2026-04,Signboard & Shopfront Destruction,Low,Reported,2026-10-22T09:27:52.169924,Puri Beach,19.58886,85.78702,1437590,SME Business & Retail Interruption,0
+CLM-001111,POL-01182,CAT-2026-04,Structural Wall Crack,Medium,Reported,2026-10-22T09:16:58.109436,Jagatsinghpur,19.93168,86.3832,3254615,Residential Property (Home),0
+CLM-001112,POL-01407,CAT-2026-04,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T09:10:46.527441,Jagatsinghpur,20.08869,85.97211,869520,Auto & Commercial Fleet,1
+CLM-001113,POL-01538,CAT-2026-04,Façade & Glazing Blown Out,High,Reported,2026-10-22T09:29:56.311129,Kendrapara Delta,19.43249,85.71072,44357085,Commercial Property & Industrial,1
+CLM-001114,POL-02684,CAT-2026-04,Façade & Glazing Blown Out,Catastrophic,Reported,2026-10-22T09:25:26.133085,Paradip Port,19.7257,85.18679,32613916,Commercial Property & Industrial,1
+CLM-001115,POL-00554,CAT-2026-04,Façade & Glazing Blown Out,Medium,Reported,2026-10-22T09:04:48.327926,Jagatsinghpur,19.84797,85.94535,5852405,Commercial Property & Industrial,1
+CLM-001116,POL-00479,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:26:35.414321,Jagatsinghpur,19.81207,85.56763,362882,Residential Property (Home),0
+CLM-001117,POL-02232,CAT-2026-04,Warehouse Flood & Stock Rupture,Catastrophic,Reported,2026-10-22T09:29:20.609195,Kendrapara Delta,19.90335,85.988,23556942,Commercial Property & Industrial,1
+CLM-001118,POL-02448,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:34:40.658930,Kendrapara Delta,19.80855,85.60471,2112040,Residential Property (Home),1
+CLM-001119,POL-00694,CAT-2026-04,Crushed by Falling Tree/Pole,Medium,Reported,2026-10-22T09:19:13.407557,Konark Coastal,20.12456,85.88009,450628,Auto & Commercial Fleet,0
+CLM-001120,POL-01834,CAT-2026-04,Structural Wall Crack,High,Reported,2026-10-22T09:21:13.236392,Jagatsinghpur,19.90041,85.58816,5250915,Residential Property (Home),1
+CLM-001121,POL-01704,CAT-2026-04,Roof Tear-off & Water Ingress,Catastrophic,Reported,2026-10-22T09:37:39.728012,Puri Beach,19.79238,86.1477,3213050,Residential Property (Home),1
+CLM-001122,POL-02355,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:38:02.631798,Konark Coastal,19.85368,86.08777,5977182,Residential Property (Home),1
+CLM-001123,POL-02752,CAT-2026-04,Submerged Engine Hydro-lock,Medium,Reported,2026-10-22T09:25:13.041437,Jagatsinghpur,19.58372,86.00748,390730,Auto & Commercial Fleet,0
+CLM-001124,POL-01513,CAT-2026-04,Flooded Ground Floor,High,Reported,2026-10-22T09:22:24.861627,Paradip Port,19.85873,85.61196,3306830,Residential Property (Home),1
+CLM-001125,POL-01236,CAT-2026-04,Façade & Glazing Blown Out,Low,Reported,2026-10-22T09:21:18.359645,Paradip Port,20.03829,85.71813,2475145,Commercial Property & Industrial,1
+CLM-001126,POL-01363,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:20:54.309342,Puri Beach,19.39488,85.81279,3087035,Residential Property (Home),0
+CLM-001127,POL-02556,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:44:51.312296,Jagatsinghpur,19.75037,85.49952,2124176,Residential Property (Home),0
+CLM-001128,POL-00537,CAT-2026-04,Utility Shutdown Interruption,Low,Reported,2026-10-22T09:16:12.918604,Jagatsinghpur,19.65302,85.95966,1036300,SME Business & Retail Interruption,0
+CLM-001129,POL-00531,CAT-2026-04,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T09:22:07.983787,Puri Beach,19.96067,85.90623,71808,Auto & Commercial Fleet,0
+CLM-001130,POL-02315,CAT-2026-04,Debris Windshield & Panel Impact,Low,Reported,2026-10-22T09:30:42.376903,Jagatsinghpur,19.50869,85.62914,29245,Auto & Commercial Fleet,0
+CLM-001131,POL-01231,CAT-2026-04,Façade & Glazing Blown Out,High,Reported,2026-10-22T09:39:17.396609,Kendrapara Delta,19.67501,85.74938,72183343,Commercial Property & Industrial,1
+CLM-001132,POL-00093,CAT-2026-04,Flooded Ground Floor,High,Reported,2026-10-22T09:28:43.216734,Kendrapara Delta,19.911,86.00315,8967997,Residential Property (Home),1
+CLM-001133,POL-00656,CAT-2026-04,Roof Tear-off & Water Ingress,Catastrophic,Reported,2026-10-22T09:30:30.918105,Kendrapara Delta,19.63276,85.88373,7209800,Residential Property (Home),1
+CLM-001134,POL-02297,CAT-2026-04,Flooded Ground Floor,Medium,Reported,2026-10-22T09:28:23.184968,Puri Beach,19.87602,85.6672,2569530,Residential Property (Home),0
+CLM-001135,POL-01202,CAT-2026-04,Roof Tear-off & Water Ingress,Medium,Reported,2026-10-22T09:33:11.326230,Jagatsinghpur,19.70617,86.2628,3410139,Residential Property (Home),0
+CLM-001136,POL-02575,CAT-2026-04,Utility Shutdown Interruption,Catastrophic,Reported,2026-10-22T09:21:10.223795,Konark Coastal,19.95595,85.6438,17438837,SME Business & Retail Interruption,1
+CLM-001137,POL-00060,CAT-2026-04,Roof Tear-off & Water Ingress,Low,Reported,2026-10-22T09:13:31.767531,Kendrapara Delta,19.85526,85.99948,724417,Residential Property (Home),0
+CLM-001138,POL-01184,CAT-2026-04,Flooded Ground Floor,High,Reported,2026-10-22T09:30:32.052956,Jagatsinghpur,19.53222,85.71098,4374907,Residential Property (Home),1
+CLM-001139,POL-01364,CAT-2026-04,Roof Tear-off & Water Ingress,High,Reported,2026-10-22T09:30:24.461805,Konark Coastal,19.59873,85.6183,1311627,Residential Property (Home),1
+CLM-001140,POL-00112,CAT-2026-04,Crushed by Falling Tree/Pole,Low,Reported,2026-10-22T09:27:38.345268,Kendrapara Delta,19.92035,85.68797,219256,Auto & Commercial Fleet,0
+CLM-001141,POL-02097,CAT-2026-04,Crushed by Falling Tree/Pole,High,Reported,2026-10-22T09:29:36.526503,Paradip Port,19.56446,85.71174,387875,Auto & Commercial Fleet,1

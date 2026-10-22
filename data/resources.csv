@@ -1,0 +1,15 @@
+resource_id,type,role,region,unit_cost_per_day,hourly_cost,baseline_capacity_per_hour,available_headcount,max_surge_headcount,surge_onboarding_lead_hours
+RES-ADJ-BASE-01,adjuster,Desk Claims Adjuster (Level 1 & 2),Coastal Maharashtra & Mumbai,6500,812.5,1.4,35,120,4.0
+RES-ADJ-BASE-02,adjuster,Desk Claims Adjuster (Level 1 & 2),"Saurashtra & Kutch, Gujarat",5500,687.5,1.4,25,80,4.0
+RES-ADJ-BASE-03,adjuster,Desk Claims Adjuster (Level 1 & 2),Greater Chennai & Coromandel Coast,6000,750.0,1.4,30,100,4.0
+RES-ADJ-BASE-04,adjuster,Desk Claims Adjuster (Level 1 & 2),"Puri, Jagatsinghpur & Kendrapara",5000,625.0,1.4,20,75,4.0
+RES-SRV-BASE-01,surveyor,Licensed Independent Field Surveyor,Coastal Maharashtra & Mumbai,12000,1500.0,0.35,22,90,8.0
+RES-SRV-BASE-02,surveyor,Licensed Independent Field Surveyor,"Saurashtra & Kutch, Gujarat",10500,1312.5,0.32,16,65,8.0
+RES-SRV-BASE-03,surveyor,Licensed Independent Field Surveyor,Greater Chennai & Coromandel Coast,11500,1437.5,0.35,20,80,8.0
+RES-SRV-BASE-04,surveyor,Licensed Independent Field Surveyor,"Puri, Jagatsinghpur & Kendrapara",9500,1187.5,0.3,14,60,8.0
+RES-VND-BASE-01,vendor,Tier-1 Repair Partner Network,Coastal Maharashtra & Mumbai,25000,3125.0,0.75,15,45,12.0
+RES-VND-BASE-02,vendor,Tier-1 Repair Partner Network,"Saurashtra & Kutch, Gujarat",22000,2750.0,0.7,10,35,12.0
+RES-VND-BASE-03,vendor,Tier-1 Repair Partner Network,Greater Chennai & Coromandel Coast,24000,3000.0,0.75,12,40,12.0
+RES-VND-BASE-04,vendor,Tier-1 Repair Partner Network,"Puri, Jagatsinghpur & Kendrapara",20000,2500.0,0.65,8,30,12.0
+RES-DOC-AI-01,cloud_worker,Automated Document OCR & Fraud Screen AI,Global/Cloud,18000,2250.0,80.0,2,10,0.5
+RES-CALL-01,call_agent,Disaster Inbound Hotlines / Telephonic FNOL,National Call Hub,4000,500.0,4.5,40,150,2.0
